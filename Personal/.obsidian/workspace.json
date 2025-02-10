@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "49f0f878e25c12a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1eb664f8bcd348a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f5180160568a1c3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78d81fbfe25d9471",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bd3813b0018a363",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36e094adde24b527",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8b3fb91f94b609d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3464ae6cb31701a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "84859d5eb9bac699",
+    "type": "split",
+    "children": [
+      {
+        "id": "23fbc88e17a3d75c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79cd4cff40bd84a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "51a5520f6903d922",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a75213f1d302318",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ddc90539fdcf6638",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "remotely-save:Remotely Save": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6f5180160568a1c3",
+  "lastOpenFiles": [
+    "Book of Hours/Books/Horned Journal.md",
+    "Book of Hours/Books/An Introduction to Histories.md",
+    "Book of Hours/Books/1 - Journal Template.md",
+    "Book of Hours/Books/1 - Codex Template.md",
+    "Book of Hours/Aspects/Sky.md",
+    "Book of Hours/Locations/St Brandan's Cove.md",
+    "Book of Hours/Books/Oghkor Oghkor Tissilak Oghkor.md",
+    "Book of Hours/Books/The World Despoil'd.md",
+    "Book of Hours/Books/Twenty-Six Enticements, Seven Torments.md",
+    "Book of Hours/Books/Travelling at Night, Vol 2.md",
+    "Book of Hours/Books/Travelling at Night, Vol 1.md",
+    "Book of Hours/Books/The Victory of Crowns.md",
+    "Book of Hours/Books/The Shadow in the Stair.md",
+    "Book of Hours/Books/The Rose of Waznei.md",
+    "Book of Hours/Books/The Geminiad III.md",
+    "Book of Hours/Books/On Thirstlies, Ivories and Lovelies.md",
+    "Book of Hours/Books/Fekri's Herbary.md",
+    "Book of Hours/Books/The Carmine Petal - Unexpurgated.md",
+    "Book of Hours/Books/An Impertinent Vitulation.md",
+    "Book of Hours/Hush House/St Brandan's Cloister.md",
+    "Book of Hours/Hush House/Watchman's Tower - Observatory.md",
+    "Book of Hours/Hush House/Watchman's Tower - First Floor.md",
+    "Book of Hours/Hush House/Keeper's Lodge.md",
+    "Book of Hours/Hush House/Watchman's Tower - Gatehouse.md",
+    "Book of Hours/Locations/Cucurbit Bridge.md",
+    "Book of Hours/Locations/Brancrug Village.md",
+    "Book of Hours/Hours",
+    "Book of Hours/Books",
+    "Book of Hours/People",
+    "Book of Hours/Aspects",
+    "Hate it Here/2024-2025",
+    "Book of Hours/Locations",
+    "Book of Hours/Hush House",
+    "Hate it Here",
+    "Book of Hours",
+    "Home.canvas",
+    "Journaling (Hate it here)/2024-2025"
+  ]
+}
