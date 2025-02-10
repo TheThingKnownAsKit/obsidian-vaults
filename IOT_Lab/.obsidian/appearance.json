@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "cssTheme": "LaTeX",
+  "baseFontSize": 15,
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "removeSpaceBeforeList",
+    "imageBorderSnippet"
+  ]
+}
