@@ -11,12 +11,15 @@
             "id": "06e260f2590afa6f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "TMA TTRPG/Player Handbook.pdf"
+                "file": "TMA TTRPG/Plot.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "Player Handbook"
+              "icon": "lucide-file",
+              "title": "Plot"
             }
           }
         ]
@@ -177,14 +180,23 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "bcf67a8e9ad4e2ff",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 294,
-    "collapsed": true
+    "width": 294
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,19 +209,19 @@
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "remotely-save:Remotely Save": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "06e260f2590afa6f",
   "lastOpenFiles": [
     "TMA TTRPG/Rulebook.pdf",
+    "TMA TTRPG/Player Handbook.pdf",
     "TMA TTRPG/Tessa x.md",
     "TMA TTRPG/Plot.md",
     "Harry Potter - Old Magic/Sheets/Alexandria.md",
     "Harry Potter - Old Magic/Character Profiles/Alexandria Solace.md",
     "PJO/Character Profiles/Mirabelle Dalton.md",
-    "TMA TTRPG/Player Handbook.pdf",
     "TMA TTRPG/Rule Notes.md",
     "Images/Pasted image 20250205220352.png",
     "Bram.md",
