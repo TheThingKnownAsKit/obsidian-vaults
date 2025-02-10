@@ -1,0 +1,1 @@
+It is a magic user only city founded in the 1940s by Name Alanmorr. It is currently run by his daughter, Aminah Alanmorr.
