@@ -1,0 +1,1 @@
+{"path":"Images/Pasted image 20240225160057.png","text":"Recursive algorithm to compute Fibonacci numbers. RecursiveFibonacci(n) Input: a non-negative integer n. Output: the Fibonacci number with index n. If (n=0) Return(0) If (n=1) Return( 1) f = RecursiveFibonacci( n-1) + RecursiveFibonacci( n-2 ) Return(f)","libVersion":"0.3.1","langs":"eng"}

@@ -1,0 +1,1 @@
+{"path":"Images/Pasted image 20240215112036.png","text":"Union: AUB = {x:xeAv xeB} a.addAll(b); Intersection: ANB = {x:xeA A xeB} a.retainAll(b); Complement: A = {x:x¢A} u.removeAll(a); Empty set: & new HashSet<Object>();","libVersion":"0.3.1","langs":"eng"}

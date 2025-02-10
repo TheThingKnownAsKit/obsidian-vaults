@@ -1,0 +1,8 @@
+{
+  "accentColor": "",
+  "cssTheme": "Reverie",
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "spaceBeforeTableFix"
+  ]
+}

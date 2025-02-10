@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "88127525fa9c369d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca2283b5692ad8b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f307e24716284a23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RAIK-184H Comp Sci II/ZyBooks/Queue and Deque.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Queue and Deque"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8783c0766bd86841",
+    "type": "split",
+    "children": [
+      {
+        "id": "f85c795a19c5166f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e889ec01949a2ca6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8fbc003343ae77f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b2b82a5b779dbdfa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242
+  },
+  "right": {
+    "id": "17547f38aa6aa044",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a611966cb857633",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c7049822fa0e01c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RAIK-184H Comp Sci II/ZyBooks/Queue and Deque.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Queue and Deque"
+            }
+          },
+          {
+            "id": "7a814eb8360e65cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RAIK-184H Comp Sci II/ZyBooks/Queue and Deque.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Queue and Deque"
+            }
+          },
+          {
+            "id": "1847e665066b78ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "181cc47231db4aab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RAIK-184H Comp Sci II/ZyBooks/Queue and Deque.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Queue and Deque"
+            }
+          },
+          {
+            "id": "58937fd248cc7914",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false,
+      "remotely-save:Remotely Save": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "f307e24716284a23",
+  "lastOpenFiles": [
+    "IMG_3028.jpeg",
+    "RAIK-184H Comp Sci II/ZyBooks/Abstract Classes.md",
+    "RAIK-184H Comp Sci II/ZyBooks/Graphs.md",
+    "RAIK-184H Comp Sci II/ZyBooks/Maps.md",
+    "RAIK-184H Comp Sci II/ZyBooks/Propositional Logic I.md",
+    "RAIK-184H Comp Sci II/ZyBooks/Queue and Deque.md",
+    "RAIK-184H Comp Sci II/ZyBooks/Sets.md",
+    "RAIK-184H Comp Sci II/ZyBooks/Trees.md",
+    "MATH-107 Calc 2/Lectures/1.24.24 - U-Substitution.md",
+    "MATH-107 Calc 2/Lectures/1.22.24 - Fundamental Theorem of Calculus.md",
+    "Style Guide.md",
+    "Style Guide (oh no).md",
+    "MATH-107 Calc 2/E&P/Exam 1/1.md",
+    "MATH-107 Calc 2/E&P/Exam 1/2.md",
+    "MATH-107 Calc 2/E&P/Exam 1/3.md",
+    "MATH-107 Calc 2/E&P/Exam 1/4.md",
+    "MATH-107 Calc 2/E&P/Exam 1/5.md",
+    "MATH-107 Calc 2/E&P/Exam 1/6.md",
+    "MATH-107 Calc 2/E&P/Exam 1/7.md",
+    "MATH-107 Calc 2/E&P/Exam 1/8.md",
+    "MATH-107 Calc 2/E&P/Exam 2/9.md",
+    "MATH-107 Calc 2/E&P/Exam 2/10.md",
+    "MATH-107 Calc 2/E&P/Exam 2/11.md",
+    "MATH-107 Calc 2/E&P/Exam 2/12.md",
+    "MATH-107 Calc 2/E&P/Exam 2/13.md",
+    "MATH-107 Calc 2/E&P/Exam 2/14.md",
+    "RAIK-181H Accounting/Interest Rates for Bonds.pdf",
+    "Images/Pasted image 20240509184404.png",
+    "Images/Pasted image 20240509184336.png",
+    "Images/Pasted image 20240509183929.png",
+    "Images/Pasted image 20240509183912.png",
+    "Images/Pasted image 20240509183845.png",
+    "Images/Pasted image 20240509183555.png",
+    "Images/Pasted image 20240509183515.png",
+    "Images/Pasted image 20240509183452.png",
+    "Images/Pasted image 20240509183432.png",
+    "Images/Pasted image 20240509183413.png",
+    "RAIK-181H Accounting/Practice Problem PDFs/Chapter 2 Practice Problems - Jan 29 2024 - 9-18 PM.pdf",
+    "RAIK-181H Accounting/Practice Problem PDFs/Chapter 2 Practice Transaction Recording - Jan 29 2024 - 9-20 PM.pdf",
+    "RAIK-181H Accounting/Practice Problem PDFs/Chapter 2 Practice Statement Making - Jan 29 2024 - 9-19 PM.pdf",
+    "RAIK-182H Econ/Lectures/Government",
+    "RAIK-182H Econ/Readings",
+    "RAIK-181H Accounting/Practice Problem PDFs",
+    "RAIK-182H Econ/Lectures/Macro",
+    "MATH-107 Calc 2/E&P/Exam 3",
+    "RAIK-182H Econ/Homework/Homework 4 FINISHED.pdf",
+    "Untitled.canvas"
+  ]
+}
