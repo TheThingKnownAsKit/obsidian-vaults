@@ -1,8 +1,10 @@
 ---
+website: NA
 tags:
   - "#Entity"
 date released: 2024-09-08
 aliases:
+  - Sailor
 ---
 
 > [!info] General

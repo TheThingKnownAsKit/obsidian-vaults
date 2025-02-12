@@ -1,8 +1,10 @@
 ---
+website: NA
 tags:
   - "#Entity"
 date released: 2024-10-09
 aliases:
+  - Droplett
 ---
 
 > [!info] General

@@ -1,12 +1,14 @@
 ---
+website: https://zooliminology.wixsite.com/zoolim/courses-1/queens
 tags:
   - "#Entity"
 date released: ""
 aliases:
+  - Queen
 ---
 
 > [!info] General
-> **Location:** "a previously undiscovered area of the Far Plane" aka [[Greenhouses]]
+> **Location:** [[Greenhouses]]
 > **Size:** Definitely bigger th an an 8 year old
 > **Group Name:** A glitter
 > 

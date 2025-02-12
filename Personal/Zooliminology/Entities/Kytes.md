@@ -1,12 +1,14 @@
 ---
+website: https://zooliminology.wixsite.com/zoolim/courses-1/kytes
 tags:
   - "#Entity"
 date released: ""
 aliases:
+  - Kyte
 ---
 
 > [!info] General
-> **Location:** [[Far Plane|Far Plains]]
+> **Location:** [[The Far Plains|Far Plains]]
 > **Size:** Probably a lot bigger than an 8 year old
 > **Group Name:** 
 > 

@@ -1,12 +1,14 @@
 ---
+website: NA
 tags:
   - "#Entity"
 date released: 2024-10-26
 aliases:
+  - Pelet
 ---
 
 > [!info] General
-> **Location:** Ecobrutalia
+> **Location:** [[Ecobrutalia]]
 > **Size:** Body and tail each the size of an 8 year old child. Two Eight year olds in total length.
 > **Group Name:** A brush
 > 

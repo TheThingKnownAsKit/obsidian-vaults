@@ -1,4 +1,5 @@
 ---
+website: https://zooliminology.wixsite.com/zoolim/courses-1/maax
 tags:
   - "#Entity"
 date released: 2024-06-13
@@ -6,7 +7,7 @@ aliases:
 ---
 
 > [!info] General
-> **Location:** The [[Far Plains]]
+> **Location:** [[The Far Plains]]
 > **Size:** Larger than an 8 year old
 > **Group Name:** An overcast
 > 

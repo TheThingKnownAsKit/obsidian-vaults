@@ -1,12 +1,14 @@
 ---
+website: https://zooliminology.wixsite.com/zoolim/courses-1/striders
 tags:
   - "#Entity"
 date released: ""
 aliases:
+  - Strider
 ---
 
 > [!info] General
-> **Location:** [[Far Plane|Far Plains]]
+> **Location:** [[The Far Plains|Far Plains]]
 > **Size:** humungonormous
 > **Group Name:** 
 > 

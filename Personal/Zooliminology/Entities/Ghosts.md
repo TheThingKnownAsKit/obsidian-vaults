@@ -1,12 +1,14 @@
 ---
+website: https://zooliminology.wixsite.com/zoolim/courses-1/ghosts
 tags:
   - "#Entity"
 date released: ""
 aliases:
+  - Ghost
 ---
 
 > [!info] General
-> **Location:** Newly discovered area of [[The Rain Lot]]
+> **Location:** [[The Rain Lot]]
 > **Size:** Exact size is unknown
 > **Group Name:** A haunt
 > 

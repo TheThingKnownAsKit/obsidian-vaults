@@ -1,8 +1,10 @@
 ---
+website: https://zooliminology.wixsite.com/zoolim/courses-1/sockwyrm
 tags:
   - "#Entity"
 date released: ""
 aliases:
+  - Sockwyrm
 ---
 
 > [!info] General

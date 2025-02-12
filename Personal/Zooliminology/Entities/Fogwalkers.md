@@ -1,8 +1,10 @@
 ---
+website: https://zooliminology.wixsite.com/zoolim/courses-1/fogwalkers
 tags:
   - "#Entity"
 date released: ""
 aliases:
+  - Fogwalker
 ---
 
 > [!info] General

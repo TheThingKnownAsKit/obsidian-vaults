@@ -1,12 +1,14 @@
 ---
+website: https://zooliminology.wixsite.com/zoolim/courses-1/spumes
 tags:
   - "#Entity"
 date released: ""
 aliases:
+  - Spume
 ---
 
 > [!info] General
-> **Location:** Miscellaneous, inner area of [[Far Plane|Far Planes]]
+> **Location:** [[Mariana]]
 > **Size:** "They're like... the size of an 8 year old"
 > **Group Name:**
 > 

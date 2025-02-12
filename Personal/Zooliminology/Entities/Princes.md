@@ -1,8 +1,10 @@
 ---
+website: https://zooliminology.wixsite.com/zoolim/courses-1/princes
 tags:
   - "#Entity"
 date released: ""
 aliases:
+  - Prince
 ---
 
 > [!info] General

@@ -1,8 +1,10 @@
 ---
+website: https://zooliminology.wixsite.com/zoolim/courses-1/light-mimic
 tags:
   - "#Entity"
 date released: ""
 aliases:
+  - Light Mimic
 ---
 
 > [!info] General

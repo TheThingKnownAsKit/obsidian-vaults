@@ -1,12 +1,14 @@
 ---
+website: https://zooliminology.wixsite.com/zoolim/courses-1/night-skies
 tags:
   - "#Entity"
 date released: ""
 aliases:
+  - Night Sky
 ---
 
 > [!info] General
-> **Location:** "Deep within the [[Far Plane]]"
+> **Location:** [[Mariana]] and maybe [[Gamezone]]
 > **Size:** Appear to be small, exact size unknown
 > **Group Name:** A constellation
 > 
