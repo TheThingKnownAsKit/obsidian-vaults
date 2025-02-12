@@ -1,13 +1,13 @@
 ---
 tags:
   - "#Entity"
-  - "#Brutalia"
-date released: 2024-05-09
+date released: ""
 aliases:
 ---
+
 > [!info] General
 > 
-> **Location:** Brutalia
+> **Location:** [[Brutalia]]
 > **Size:** Varies by Specimen
 > **Group Name:** A quadriped
 > 
