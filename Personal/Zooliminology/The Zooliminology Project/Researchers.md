@@ -4,14 +4,28 @@ tags:
   - "#Researchers"
 aliases:
 ---
-- Rho
-- Kappa
+- Alpha (white hoodie)
+	- Founder
+	- Invented clipping pens
+- Rho (yellow)
+- Kappa (purple just based on vibes but i have no proof)
 	- WoW access key allegedly stolen by an entity
 	- Installed peggle on employee pcs. Wants to play spore
 	- Spore USBs allegedly stolen
 	- Uses :3 canonically
-- Delta
+- Delta (purple w/ cat ears)
 	- Registrar
-- Nu
+- Nu (light green)
 	- Ate the entities of his own free will (ill kill him)
-- Epsilon
+- Epsilon (white with an E on the shoulder)
+- Eta (minecraft cyan)
+- Theta (pink)
+	- Discovered the first extraplanar entity on a trip to retrieve the missing items from the Sweden incident. Met [[Striders]]
+- Sigma (black)
+	- Maybe narrates the videos
+- Tau (green)
+- Gamma (beige old timey outfit)
+	- Tried to lease far plane interiors as apartments for a quick buck
+- Phi (orange)
+	- Takes all the pictures
+- Psi (red)
