@@ -11,12 +11,15 @@
             "id": "06e260f2590afa6f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "TMA TTRPG/Rulebook.pdf"
+                "file": "TMA TTRPG/Ideas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "Rulebook"
+              "icon": "lucide-file",
+              "title": "Ideas"
             }
           }
         ]
@@ -203,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294
+    "width": 294,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,9 +227,10 @@
   },
   "active": "06e260f2590afa6f",
   "lastOpenFiles": [
+    "TMA TTRPG/Rulebook.pdf",
+    "TMA TTRPG/Ideas.md",
     "TMA TTRPG/Plot.md",
     "TMA TTRPG/Tessa x.md",
-    "TMA TTRPG/Rulebook.pdf",
     "TMA TTRPG/Player Handbook.pdf",
     "Harry Potter - Old Magic/Sheets/Alexandria.md",
     "Harry Potter - Old Magic/Character Profiles/Alexandria Solace.md",
@@ -264,7 +269,6 @@
     "Wiki/Prestidigitation.md",
     "Wiki/Misty Step.md",
     "Wiki/Mage Hand.md",
-    "Wiki/Invisibility.md",
     "Assets/stamp_speed.png",
     "Assets/stamp_proficiency.png",
     "Assets/stamp_maxhp.png",

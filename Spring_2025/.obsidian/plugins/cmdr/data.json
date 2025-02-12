@@ -7,7 +7,7 @@
   "leftRibbon": [
     {
       "id": "obsidian-git:push",
-      "icon": "lucide-ambulance",
+      "icon": "lucide-aperture",
       "name": "Git: Commit-and-sync",
       "mode": "a631fc33c03e0d30"
     }

@@ -19,7 +19,7 @@ So correct classifications over all classifications. In a confusion matrix, it i
 ![[Pasted image 20250206153854.png]]
 ![[Pasted image 20250206153923.png]]
 
-<mark style="background: #ADCCFFA6;">True Positive Rate/Recall/Sensitivity</mark> is how many instances did you find out all of the instances. High TPR is good
+<mark style="background: #ADCCFFA6;">True Positive Rate/Recall/Sensitivity</mark> is how many instances did you find out all of the instances. High TPR is good. Recall considers of the _actual_ objects of that class, how many were labeled as such.
 $$TPR=\frac{TP}{TP+FN}$$
 ![[Pasted image 20250206154017.png]]
 
@@ -34,6 +34,7 @@ $$TNR=\frac{TN}{FP+TN}$$
 <mark style="background: #ADCCFFA6;">False Negative Rate/Miss Rate</mark> is TPR + FNR = 1. Both top row equations
 $$FNR=\frac{FN}{TP+FN}$$
 ![[Pasted image 20250206154345.png]]
+
 <mark style="background: #ADCCFFA6;">Precision</mark> is the positive predictive value. It reports on a column of the confusion matrix. Precision and recall are often reported together
 $$Precision=\frac{TP}{FP+TP}$$
 ![[Pasted image 20250206154514.png]]

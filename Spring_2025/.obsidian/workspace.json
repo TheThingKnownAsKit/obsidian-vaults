@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b79918534b92e3db",
+        "id": "3b1574b4d75a07d9",
         "type": "tabs",
         "children": [
           {
-            "id": "ddc74eb9a1be64e2",
+            "id": "83fe861aede33ddb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Style Guide.md",
+                "file": "RAIK-370H, Data & Models II/Lectures/2-6-2025, Performance Metrics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Style Guide"
+              "title": "2-6-2025, Performance Metrics"
+            }
+          },
+          {
+            "id": "c95b08ebbbb2a9ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RAIK-381H, Finance/Lectures/2-11-2025, Chapter 5B.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2-11-2025, Chapter 5B"
             }
           }
         ]
@@ -181,21 +195,28 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "ddc74eb9a1be64e2",
+  "active": "83fe861aede33ddb",
   "lastOpenFiles": [
+    "RAIK-381H, Finance/Lectures/2-11-2025, Chapter 5B.md",
+    "RAIK-381H, Finance/Lectures/2-4-2025, Chapter 5A.md",
+    "RAIK-381H, Finance/Lectures/2-6-2025, Chapter 5A.md",
+    "RAIK-370H, Data & Models II/Lectures/2-6-2025, Performance Metrics.md",
+    "RAIK-370H, Data & Models II/Lectures/1-23-2025, Naive Bayes.md",
+    "RAIK-370H, Data & Models II/Lectures/1-28-2025, Decision Tree Entropy.md",
+    "RAIK-370H, Data & Models II/Lectures/2-4-2025, Decision Tree ID3.md",
+    "MATH-314, Linear Algebra/Lectures/2-10-2025, 2.3 Gaussian Elimination and Rank, 3.1 Linear Combinations of Vectors and their Span.md",
+    "Attachments/Lecture2-Introduction to Concepts of PL_03_Syntax and Semantics_Biding 1.pdf",
+    "CSCE-322, Programming Language Concepts/Lectures/2-10-2025, Formal Languages and Grammar.md",
+    "CSCE-322, Programming Language Concepts/Lectures/2-7-2025, Syntax, Semantics, and Binding.md",
     "Latex Cheat Sheet.pdf",
     "Style Guide.md",
     "RAIK-186H, Leadership II/186 Syllabus.pdf",
     "Plugins and Themes.md",
-    "CSCE-322, Programming Language Concepts/Lectures/2-10-2025, Formal Languages and Grammar.md",
     "Attachments/Pasted image 20250210145942.png",
     "Attachments/Pasted image 20250210145922.png",
     "Attachments/Pasted image 20250210145912.png",
     "Attachments/Pasted image 20250210145844.png",
-    "MATH-314, Linear Algebra/Lectures/2-10-2025, 2.3 Gaussian Elimination and Rank, 3.1 Linear Combinations of Vectors and their Span.md",
-    "Attachments/Lecture2-Introduction to Concepts of PL_03_Syntax and Semantics_Biding 1.pdf",
     "Attachments/3.1-Linear-Combinations-and-Span-COMPLETE.pdf",
-    "CSCE-322, Programming Language Concepts/Lectures/2-7-2025, Syntax, Semantics, and Binding.md",
     "Attachments/Lecture2-Introduction to Concepts of PL_03_Syntax and Semantics_Biding.pdf",
     "CSCE-322, Programming Language Concepts/Lectures/2-5-2025, Language Categories and Implementation Methods.md",
     "RAIK-186H, Leadership II/Cases/Mount Everest.pdf",
@@ -203,31 +224,24 @@
     "RAIK-186H, Leadership II/Cases/Uber.pdf",
     "RAIK-186H, Leadership II/Cases/Shivani Carriers.pdf",
     "RAIK-186H, Leadership II/Cases/Lea Block.pdf",
-    "RAIK-186H, Leadership II/Cases/Cisco.pdf",
     "Attachments/Pasted image 20250210142013.png",
     "Attachments/Pasted image 20250210140554.png",
     "Spring_2025/Spring_2025/Test.md",
     "MATH-314, Linear Algebra/Lectures/2-3-2025, 2.1 Introduction to Systems of Linear Equations.md",
     "Attachments/Pasted image 20250210094551.png",
     "Attachments/Pasted image 20250210094005.png",
-    "RAIK-381H, Finance/Lectures/2-4-2025, Chapter 5.md",
     "RAIK-381H, Finance/Homework/HW 3.md",
     "Attachments/Pasted image 20250207121932.png",
     "Attachments/Pasted image 20250207121732.png",
     "MATH-314, Linear Algebra/Lectures/2-5-2025, 2.2 Augmented Matrix.md",
-    "RAIK-381H, Finance/Lectures/2-6-2025, Chapter.md",
     "CSCE-322, Programming Language Concepts/Lectures/2-3-2025, Language Design Trade-Offs and Influences on Language Design.md",
     "CSCE-322, Programming Language Concepts/Lectures/1-27-2025, Programming Domains and Language Evaluation Criteria.md",
-    "RAIK-370H, Data & Models II/Lectures/2-5-2025, Performance Metrics.md",
-    "RAIK-370H, Data & Models II/Lectures/2-4-2025, Decision Tree ID3.md",
     "RAIK-370H, Data & Models II/Lectures/2-6-2025.md",
     "RAIK-381H, Finance/Homework/HW 2.md",
-    "RAIK-370H, Data & Models II/Lectures/1-28-2025, Decision Tree Entropy.md",
     "CSCE-322, Programming Language Concepts/Lectures/1-22-2025, Course Overview.md",
     "MATH-314, Linear Algebra/Lectures/1-29-2025, 1.3 Lines and Planes.md",
     "RAIK-381H, Finance/Lectures/1-30-2025, Chapter 3.md",
     "RAIK-381H, Finance/Lectures/1-23-2025, Chapter 2.md",
-    "MATH-314, Linear Algebra/Lectures/1-27-2025, 1.2 Unit Vectors, Dot Product, Orthogonal Projection.md",
-    "MATH-314, Linear Algebra/Lectures/1-22-2025, 1.1 Introduction to Vectors.md"
+    "MATH-314, Linear Algebra/Lectures/1-27-2025, 1.2 Unit Vectors, Dot Product, Orthogonal Projection.md"
   ]
 }
