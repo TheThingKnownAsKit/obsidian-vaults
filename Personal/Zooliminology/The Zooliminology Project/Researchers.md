@@ -8,13 +8,28 @@ aliases:
 	- Founder
 	- Invented clipping pens
 - Rho (yellow)
-- Kappa (purple just based on vibes but i have no proof)
+	- Strange?
+	- Politely lifts Kappa up and moves them when in the way. Can lift at least 7.5 stone without trouble
+	- Rolled the target balls
+	- May or may not be able to read
+	- Symbol taped on
+- Kappa (blue)
+	- The IT guy. Sits in an office all day
 	- WoW access key allegedly stolen by an entity
 	- Installed peggle on employee pcs. Wants to play spore
 	- Spore USBs allegedly stolen
 	- Uses :3 canonically
+	- Into the SMT series and old school dungeon crawlers
+	- Wants drones in the far plane
+	- Has never clipped before
+	- Like lava cake. The hotter the better
+	- Diet of an 8 year old
+	- Shows Golbo teletubbies and Yo Gabba Gabba
 - Delta (purple w/ cat ears)
 	- Registrar
+	- Rho is their strange junior. Dislike the asks about Rho
+	- Usually doesn't sign off on tumblr posts so look at tags. Technically the one running the blog
+	- Sleeps with a saint rain world plushie 
 - Nu (light green)
 	- Ate the entities of his own free will (ill kill him)
 - Epsilon (white with an E on the shoulder)
@@ -26,6 +41,10 @@ aliases:
 - Tau (green)
 - Gamma (beige old timey outfit)
 	- Tried to lease far plane interiors as apartments for a quick buck
+	- Canonically into crypto (pitched Golb Coin to Alpha)
 - Phi (orange)
 	- Takes all the pictures
 - Psi (red)
+- Pi
+	- Looked at the [[The Infinite Polygon Cube]] too long and is now permanently laggy/glitchy (not constantly but frequent)
+	- Has an average face allegedly 

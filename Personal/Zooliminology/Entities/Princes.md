@@ -2,7 +2,7 @@
 website: https://zooliminology.wixsite.com/zoolim/courses-1/princes
 tags:
   - "#Entity"
-date released: ""
+date released: 2024-02-18
 aliases:
   - Prince
 ---
@@ -17,4 +17,16 @@ aliases:
 
 ![[Pasted image 20250212000941.png]]
 
+Care guide notes:
+- Eyes actually do work but we don't know how
+- Tail is fragile as hell
+- Usually seen in small groups
+- If a Princes tail is destroyed it turns into a Queen
+
+Based on Prince Rupert's drop that is almost indestructible at the body but the tail is fragile as hell
+
+Tumblr notes:
 - Princes initially investigate Golbo before eventually ignoring it
+- Has pain-like reactions to damage to their bdy
+- Could theoretically melt off the tail to get rid of the extreme weakness in exchange for less overall durability
+- Researchers have developed tail cases to slip onto them that would cushion any impacts while avoiding discomfort

@@ -2,7 +2,7 @@
 website: https://zooliminology.wixsite.com/zoolim/courses-1/ghosts
 tags:
   - "#Entity"
-date released: ""
+date released: 2023-09-14
 aliases:
   - Ghost
 ---

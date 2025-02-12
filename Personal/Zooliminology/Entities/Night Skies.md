@@ -2,7 +2,7 @@
 website: https://zooliminology.wixsite.com/zoolim/courses-1/night-skies
 tags:
   - "#Entity"
-date released: ""
+date released: 2023-09-09
 aliases:
   - Night Sky
 ---

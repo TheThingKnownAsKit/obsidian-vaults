@@ -2,7 +2,7 @@
 website: https://zooliminology.wixsite.com/zoolim/courses-1/sockwyrm
 tags:
   - "#Entity"
-date released: ""
+date released: 2023-12-10
 aliases:
   - Sockwyrm
 ---

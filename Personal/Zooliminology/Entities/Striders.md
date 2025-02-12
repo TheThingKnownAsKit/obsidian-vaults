@@ -2,7 +2,7 @@
 website: https://zooliminology.wixsite.com/zoolim/courses-1/striders
 tags:
   - "#Entity"
-date released: ""
+date released: 2023-08-28
 aliases:
   - Strider
 ---

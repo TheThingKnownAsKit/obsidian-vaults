@@ -14,3 +14,6 @@ aliases:
 > **Habited By:** [[Longlegs]]
 
 ![[Pasted image 20250212004142.png]]
+
+Tumblr notes:
+- Composed almost entirely of concrete
