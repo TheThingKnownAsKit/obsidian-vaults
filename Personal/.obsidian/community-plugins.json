@@ -1,3 +1,11 @@
 [
-  "remotely-save"
+  "remotely-save",
+  "cmdr",
+  "obsidian-dialogue-plugin",
+  "obsidian-dictionary-plugin",
+  "folder-note-plugin",
+  "highlightr-plugin",
+  "omnisearch",
+  "obsidian-style-settings",
+  "obsidian-git"
 ]
