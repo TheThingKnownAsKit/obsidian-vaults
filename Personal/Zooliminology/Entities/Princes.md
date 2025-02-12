@@ -16,3 +16,5 @@ aliases:
 > **Notable Behaviors:** "These entities roam corridors and wade in small terraces."
 
 ![[Pasted image 20250212000941.png]]
+
+- Princes initially investigate Golbo before eventually ignoring it

@@ -15,3 +15,7 @@ aliases:
 > **Notable Behaviors:** Golbo does nothing except exist.
 
 ![[Pasted image 20250212001559.png]]
+
+- My baby
+- Likely solitary since the Golbo at the zoo was found alone
+- No brain (literally) no thoughts

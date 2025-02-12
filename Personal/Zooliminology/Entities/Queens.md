@@ -16,3 +16,5 @@ aliases:
 > **Notable Behaviors:** Unknown
 
 ![[Pasted image 20250212000941.png]]
+
+- Queens will not enter storage closets or places with construction materials

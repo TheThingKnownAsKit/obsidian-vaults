@@ -11,12 +11,14 @@
             "id": "6f5180160568a1c3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Zooliminology/Attachments/Pasted image 20250212004142.png"
+                "file": "Zooliminology/The Zooliminology Project/Lore and Events.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250212004142"
+              "icon": "lucide-file",
+              "title": "Lore and Events"
             }
           }
         ]
@@ -166,35 +168,35 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "36e094adde24b527",
+  "active": "6f5180160568a1c3",
   "lastOpenFiles": [
+    "Zooliminology/The Zooliminology Project/Researchers.md",
+    "Zooliminology/The Zooliminology Project/Lore and Events.md",
+    "Zooliminology/The Zooliminology Project/General Entity Notes.md",
+    "Zooliminology/Items/The Infinite Polygon Cube.md",
+    "Zooliminology/Entities/Longlegs.md",
+    "Zooliminology/Entities/Miish.md",
+    "Zooliminology/Entities/Golbo.md",
+    "Zooliminology/Entities/Queens.md",
+    "Zooliminology/Entities/Princes.md",
+    "Zooliminology/Attachments/Pasted image 20250212004142.png",
     "Zooliminology/Locations/Brutalia.md",
     "Zooliminology/Entities/Striders.md",
     "Zooliminology/Entities/Spumes.md",
     "Zooliminology/Entities/Sockwyrms.md",
     "Zooliminology/Entities/Sailors.md",
-    "Zooliminology/Entities/Queens.md",
-    "Zooliminology/Entities/Princes.md",
     "Zooliminology/Entities/Portal.md",
     "Zooliminology/Entities/Pelets.md",
     "Zooliminology/Entities/Night Skies.md",
-    "Zooliminology/Entities/Miish.md",
     "Zooliminology/Entities/Maax.md",
-    "Zooliminology/Entities/Longlegs.md",
     "Zooliminology/Entities/Light Mimics.md",
     "Zooliminology/Entities/Kytes.md",
-    "Zooliminology/Entities/Golbo.md",
     "Zooliminology/Entities/Ghosts.md",
     "Zooliminology/Entities/Fogwalkers.md",
     "Zooliminology/Entities/Dropletts.md",
     "Zooliminology/Locations/Powerplant.md",
     "Zooliminology/Locations/Winter.md",
     "Zooliminology/Locations/The Rain Lot.md",
-    "Zooliminology/Locations/The Far Plains.md",
-    "Zooliminology/Locations/Port.md",
-    "Zooliminology/Locations/Poolscape.md",
-    "Zooliminology/Locations/Mariana.md",
-    "Zooliminology/Attachments/Pasted image 20250212004142.png",
     "Zooliminology/Attachments/Pasted image 20250212003733.png",
     "Zooliminology/Attachments/Pasted image 20250211235520.png",
     "Zooliminology/Attachments/Pasted image 20250211235406.png",
@@ -206,7 +208,7 @@
     "Zooliminology/Attachments/Pasted image 20250212002046.png",
     "Zooliminology/Attachments",
     "Home.canvas",
-    "Zooliminology/Zoo",
+    "Zooliminology/The Zooliminology Project",
     "Zooliminology/Items",
     "Zooliminology/Locations",
     "Zooliminology/Entities",
