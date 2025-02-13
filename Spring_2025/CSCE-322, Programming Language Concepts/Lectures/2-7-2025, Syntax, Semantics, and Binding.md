@@ -1,5 +1,4 @@
-pdf here
-
+![[Lecture2-Introduction to Concepts of PL_03_Syntax and Semantics_Biding.pdf]]
 ## Syntax and Semantics
 <mark style="background: #ADCCFFA6;">Syntax</mark> is the form or structure of the expressions, statements, and program units
 - Grammar, set of sentences, legal strings

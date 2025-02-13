@@ -3,6 +3,8 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "Tally Price:": "number"
+    "Tally Price:": "number",
+    "date": "date",
+    "date released": "date"
   }
 }
