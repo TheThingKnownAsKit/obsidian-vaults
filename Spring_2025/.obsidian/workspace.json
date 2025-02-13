@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAIK-370H, Data & Models II/Lectures/2-6-2025, Performance Metrics.md",
+                "file": "MATH-314, Linear Algebra/Lectures/2-12-2025, 3.1 Linear Combinations of Vectors and their Span, 3.2 Linear Independence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-6-2025, Performance Metrics"
+              "title": "2-12-2025, 3.1 Linear Combinations of Vectors and their Span, 3.2 Linear Independence"
             }
           }
         ]
@@ -155,8 +155,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -177,14 +177,14 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
-      "cmdr:Git: Commit-and-sync": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "3a3f5b1bf7d55bde",
   "lastOpenFiles": [
-    "RAIK-370H, Data & Models II/Lectures/1-23-2025, Naive Bayes.md",
+    "Attachments/Pasted image 20250213170747.png",
     "RAIK-370H, Data & Models II/Lectures/2-6-2025, Performance Metrics.md",
+    "RAIK-370H, Data & Models II/Lectures/1-23-2025, Naive Bayes.md",
     "MATH-314, Linear Algebra/Lectures/2-12-2025, 3.1 Linear Combinations of Vectors and their Span, 3.2 Linear Independence.md",
     "Attachments/Pasted image 20250212184720.png",
     "Attachments/Pasted image 20250212184632.png",
