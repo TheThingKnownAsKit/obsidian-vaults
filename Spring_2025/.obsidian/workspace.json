@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH-314, Linear Algebra/Lectures/2-12-2025, 3.1 Linear Combinations of Vectors and their Span, 3.2 Linear Independence.md",
+                "file": "RAIK-370H, Data & Models II/Lectures/2-6-2025, Performance Metrics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-12-2025, 3.1 Linear Combinations of Vectors and their Span, 3.2 Linear Independence"
+              "title": "2-6-2025, Performance Metrics"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d22335cb5552995e",
@@ -184,6 +183,9 @@
   },
   "active": "3a3f5b1bf7d55bde",
   "lastOpenFiles": [
+    "RAIK-370H, Data & Models II/Lectures/1-23-2025, Naive Bayes.md",
+    "RAIK-370H, Data & Models II/Lectures/2-6-2025, Performance Metrics.md",
+    "MATH-314, Linear Algebra/Lectures/2-12-2025, 3.1 Linear Combinations of Vectors and their Span, 3.2 Linear Independence.md",
     "Attachments/Pasted image 20250212184720.png",
     "Attachments/Pasted image 20250212184632.png",
     "Attachments/Pasted image 20250212184619.png",
@@ -193,17 +195,13 @@
     "Attachments/Pasted image 20250212181540.png",
     "Attachments/Pasted image 20250212181412.png",
     "Attachments/3.2-Linear-Independence-COMPLETE.pdf",
-    "MATH-314, Linear Algebra/Lectures/2-12-2025, 3.1 Linear Combinations of Vectors and their Span, 3.2 Linear Independence.md",
     "Attachments/Pasted image 20250212175703.png",
     "Attachments/Pasted image 20250212175457.png",
-    "Attachments/Pasted image 20250212175455.png",
     "MATH-314, Linear Algebra/Lectures/2-10-2025, 2.3 Gaussian Elimination and Rank.md",
     "Attachments/3.1-Linear-Combinations-and-Span-COMPLETE.pdf",
-    "RAIK-370H, Data & Models II/Lectures/2-6-2025, Performance Metrics.md",
     "RAIK-381H, Finance/Lectures/2-11-2025, Chapter 5B.md",
     "RAIK-381H, Finance/Lectures/2-4-2025, Chapter 5A.md",
     "RAIK-381H, Finance/Lectures/2-6-2025, Chapter 5A.md",
-    "RAIK-370H, Data & Models II/Lectures/1-23-2025, Naive Bayes.md",
     "RAIK-370H, Data & Models II/Lectures/1-28-2025, Decision Tree Entropy.md",
     "RAIK-370H, Data & Models II/Lectures/2-4-2025, Decision Tree ID3.md",
     "Attachments/Lecture2-Introduction to Concepts of PL_03_Syntax and Semantics_Biding 1.pdf",

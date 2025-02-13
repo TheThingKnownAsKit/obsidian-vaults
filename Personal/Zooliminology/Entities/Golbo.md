@@ -42,3 +42,9 @@ Tumblr notes:
 - No idea why golbo cries
 - Use a wet cloth to clean if golbo is dirty
 - Petting goblo causes it no harm
+- Might cry to keep its eye lubricated???
+- Cannot be baked (ill kill you nu)
+- Allegedly blinked once since containment
+
+Breaking news: the tear discoloration under golbo's eye is a marking
+The organ inside of goblo is believed to be a form of nucleus

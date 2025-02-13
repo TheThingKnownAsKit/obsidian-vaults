@@ -25,13 +25,18 @@ aliases:
 	- Like lava cake. The hotter the better
 	- Diet of an 8 year old
 	- Shows Golbo teletubbies and Yo Gabba Gabba
-- Delta (purple w/ cat ears)
+- Delta (purple w/ cat ears, they/she)
 	- Registrar
 	- Rho is their strange junior. Dislike the asks about Rho
 	- Usually doesn't sign off on tumblr posts so look at tags. Technically the one running the blog
 	- Sleeps with a saint rain world plushie 
-- Nu (light green)
+- Nu (light green, he/they/its)
 	- Ate the entities of his own free will (ill kill him)
+		- Night skies
+		- Tried to bake golbo (i will find him.)
+		- Bit a prince and it shattered (ill bake him in an oven)
+	- Named water 2
+	- Botanist specializing in pseudoflora
 - Epsilon (white with an E on the shoulder)
 - Eta (minecraft cyan)
 - Theta (pink)

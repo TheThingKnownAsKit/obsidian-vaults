@@ -9,7 +9,7 @@ There have been no juvenile forms of any entities discovered. It is unknown how/
 Never been any humanoid or mammal (in biological function) resembling entities
 
 Entities do not eat food in the traditional sense and most dont even have mouths. Most theories believe they somehow absorb latent radiation in the air or they somehow convert air into usable energy to continue movement
-
+	Possible they photosynthesize 
 
 On Jan 30th this entry was released (no formal release yet tho)
 ![[Pasted image 20250212130612.png]]

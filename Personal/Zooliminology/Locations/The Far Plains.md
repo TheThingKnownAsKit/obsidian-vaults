@@ -16,3 +16,6 @@ aliases:
 > **Habited By:** [[Striders]], [[Kytes]], [[Maax]]
 
 ![[Pasted image 20250212003733.png]]
+
+Tumblr notes:
+- The wind turbines discovered in the far plains possess power lines. Researchers followed them but stopped after traveling 24 kilometers

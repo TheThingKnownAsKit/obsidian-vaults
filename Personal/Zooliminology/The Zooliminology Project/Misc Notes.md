@@ -34,3 +34,18 @@ The project is funded semi yearly by mysterious donors
 The plants in the far plane are not actually plants. They look like plants but the similarities end there. They do not have root systems and wither as soon as cut. Their 'cells' do not resemble plant cells and may not produce oxygen like plants do
 
 Old technology is used so more resources can be allocated to accessing and documenting the far plane (theyre broke basically). This does not appear to be set in the past, it seems to be set in the future
+
+The water in the far plane molecularly is not water. It is called water 2
+- Clear, tasteless, and odorless substance
+- Identical to water in every way except molecularly. The exact elements that make up water 2 are still being studied
+- Water 2 can quench human thirst but makes the drinker inebriated. Gives them a sense of giddiness or joy. They gain a willingness to engage in social interactions in an unorthodox manner. Minor hallucinations of colors, particles, or misc objects such as clouds or rainbows
+- Drinking 1 glass will inebriate someone for about 2 hours
+
+whatever this means
+![[Pasted image 20250212190906.png]]
+
+The project receives funding from bodies that wish to benefit from the research of the far plane. Likely ones we already know. Will remain unnamed
+
+The far plane is known to influence dreams in clipping zones
+
+Pseudoflora more like algae than true plants

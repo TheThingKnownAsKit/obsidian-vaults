@@ -2,7 +2,7 @@
 website: https://zooliminology.wixsite.com/zoolim/courses-1/maax
 tags:
   - "#Entity"
-date released: 2024-06-13
+date released: 2024-05-17
 aliases:
 ---
 
