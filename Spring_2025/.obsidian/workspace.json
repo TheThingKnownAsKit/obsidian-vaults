@@ -176,13 +176,14 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "cmdr:Git: Commit-and-sync": false
     }
   },
   "active": "3a3f5b1bf7d55bde",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20250213170747.png",
     "RAIK-370H, Data & Models II/Lectures/2-6-2025, Performance Metrics.md",
+    "Attachments/Pasted image 20250213170747.png",
     "RAIK-370H, Data & Models II/Lectures/1-23-2025, Naive Bayes.md",
     "MATH-314, Linear Algebra/Lectures/2-12-2025, 3.1 Linear Combinations of Vectors and their Span, 3.2 Linear Independence.md",
     "Attachments/Pasted image 20250212184720.png",
@@ -195,7 +196,6 @@
     "Attachments/Pasted image 20250212181412.png",
     "Attachments/3.2-Linear-Independence-COMPLETE.pdf",
     "Attachments/Pasted image 20250212175703.png",
-    "Attachments/Pasted image 20250212175457.png",
     "MATH-314, Linear Algebra/Lectures/2-10-2025, 2.3 Gaussian Elimination and Rank.md",
     "Attachments/3.1-Linear-Combinations-and-Span-COMPLETE.pdf",
     "RAIK-381H, Finance/Lectures/2-11-2025, Chapter 5B.md",
