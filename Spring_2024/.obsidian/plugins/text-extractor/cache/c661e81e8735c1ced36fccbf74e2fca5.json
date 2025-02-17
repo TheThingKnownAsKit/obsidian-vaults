@@ -1,1 +1,0 @@
-{"path":"Images/Pasted image 20240225155940.png","text":"Recursive algorithm to reverse a string. ReverseString(s) Input: A string s. Output: The reverse of s. If s is the empty string, Return(s) Let ¢ be the first character in s Remove ¢ from s s':= ReverseString(s) s := string s' with ¢ added to the end Return('s)","libVersion":"0.3.1","langs":"eng"}

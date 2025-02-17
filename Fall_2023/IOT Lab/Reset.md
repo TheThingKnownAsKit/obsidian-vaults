@@ -1,1 +1,0 @@
-Double tap then hold for 5 seconds, should start slowly flashing blue. Then you can flush it.

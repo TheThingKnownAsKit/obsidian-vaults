@@ -1,1 +1,0 @@
-{"path":"Images/Pasted image 20240225155855.png","text":"Recursive algorithm to compute the factorial function. Factorial(n) Input: A non-negative integer n. Output: n! If (n = 0), Return( 1) r:= Factorial(n- 1) // The recursive call Return(r*n)","libVersion":"0.3.1","langs":"eng"}

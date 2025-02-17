@@ -1,1 +1,0 @@
-{"path":"Images/Pasted image 20240218143811.png","text":"-order(v) process(v) For every child w of v: -order(w) End-for versal. Post-order(v) For every child w of v: Post-order(w) End-for process(v)","libVersion":"0.3.1","langs":"eng"}

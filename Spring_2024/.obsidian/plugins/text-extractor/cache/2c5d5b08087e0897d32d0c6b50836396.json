@@ -1,1 +1,0 @@
-{"path":"Images/Pasted image 20240218165042.png","text":"visit(v) v=a a b c d For every neighbor w of v IfwnotinT addwto T g e add {vw}to T visit(w) End-if f End-for Return Return from visit(a) Depth-first-search complete!","libVersion":"0.3.1","langs":"eng"}
