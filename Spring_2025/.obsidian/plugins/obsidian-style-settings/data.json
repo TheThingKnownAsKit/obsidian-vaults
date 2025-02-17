@@ -1,7 +1,5 @@
 {
   "encore-settings@@theme-dark": "encore-theme-dark-materialocean",
-  "encore-settings@@colors": "encore-colors-colorful",
-  "encore-settings@@encore-translucency-image": "url(\"https://drive.google.com/file/d/1iTM6CeKb1PuAuYdpRxppjgl0WWesMe2l/view?usp=sharing\")",
   "encore-settings@@encore-translucency": true,
-  "encore-settings@@encore-translucency-background": "encore-bg-prismatic"
+  "encore-settings@@colors": "encore-colors-colorful"
 }
