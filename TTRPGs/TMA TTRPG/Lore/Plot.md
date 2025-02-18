@@ -1,5 +1,6 @@
 The Machine fear of being another cog in the machine, of being replaced by steel and gears, of the incomprehensible systems that are so much better than you, of wires and rust overtaking all organic things
     the wheel will turn would be a fun phrase for somewhere in there perhaps an avatar, a statement giver, etc
+    The Iron Rot
 
 the premise of the ttrpg is (spoilers for the end of the show) youre one of the alternate dimensions that the fears escaped to at the end of the series so my setting would be like what if we had the industrial revolution but on steroids 10x the amount of factories, more smog, more dense urban areas (get suburbs out of here) similar technology to rn so people are even scared of ai and such
 

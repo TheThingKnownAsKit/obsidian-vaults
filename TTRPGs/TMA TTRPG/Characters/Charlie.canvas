@@ -44,7 +44,7 @@
         "border": "invisible",
         "textAlign": "center"
       },
-      "text": "NAME",
+      "text": "Charlotte Anderson",
       "type": "text",
       "width": 349,
       "x": -691,
@@ -56,7 +56,7 @@
       "styleAttributes": {
         "border": "invisible"
       },
-      "text": "TYPE",
+      "text": "Occultist",
       "type": "text",
       "width": 132,
       "x": -505,
@@ -68,7 +68,7 @@
       "styleAttributes": {
         "border": "invisible"
       },
-      "text": "DESCR",
+      "text": "Tech-Savy",
       "type": "text",
       "width": 140,
       "x": -652,
@@ -81,7 +81,7 @@
         "border": "invisible",
         "textAlign": "center"
       },
-      "text": "FOCUS",
+      "text": "Practically Lives Online",
       "type": "text",
       "width": 352,
       "x": -691,

@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "06e260f2590afa6f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "TMA TTRPG/Player Handbook.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Player Handbook"
-            }
-          },
-          {
-            "id": "c5ec2cc70733fea8",
+            "id": "715bb0021968d392",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -32,20 +20,20 @@
             }
           },
           {
-            "id": "715bb0021968d392",
+            "id": "c5ec2cc70733fea8",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "TMA TTRPG/Character Sheet.canvas",
+                "file": "TMA TTRPG/Characters/Charlie.canvas",
                 "viewState": {
-                  "x": 80.50578413992177,
-                  "y": -310.737273717952,
-                  "zoom": -0.807284651915478
+                  "x": -179.40775171778267,
+                  "y": -334.0821708360937,
+                  "zoom": -0.5396973840092533
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Character Sheet"
+              "title": "Charlie"
             }
           },
           {
@@ -54,17 +42,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TMA TTRPG/Consent Stuff.md",
+                "file": "TMA TTRPG/Characters/Tessa Hayes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Consent Stuff"
+              "title": "Tessa Hayes"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -267,30 +255,38 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "715bb0021968d392",
+  "active": "c5ec2cc70733fea8",
   "lastOpenFiles": [
-    "TMA TTRPG/Ideas.md",
-    "TMA TTRPG/Character Sheet.canvas",
-    "TMA TTRPG/Consent Stuff.md",
-    "TMA TTRPG/Character Sheet.pdf",
-    "TMA TTRPG/Consent Checklist.pdf",
     "TMA TTRPG/Rulebook.pdf",
-    "TMA TTRPG/Player Handbook.pdf",
-    "TMA TTRPG/Plot.md",
+    "TMA TTRPG/Characters/Charlie.canvas",
+    "TMA TTRPG/Characters/Tessa Hayes.md",
+    "TMA TTRPG/Character Sheet.canvas",
+    "TMA TTRPG/Characters/Charlotte Anderson.md",
+    "TMA TTRPG/Characters/Gus Wells.md",
+    "TMA TTRPG/Characters/Untitled.md",
+    "TMA TTRPG/Characters/Gus.md",
+    "TMA TTRPG/Ideas.md",
+    "TMA TTRPG/Consent Stuff.md",
+    "TMA TTRPG/Lore/The Machine.md",
+    "TMA TTRPG/PDFs",
+    "TMA TTRPG/Lore/Plot.md",
+    "TMA TTRPG/Characters",
+    "TMA TTRPG/Lore",
+    "TMA TTRPG/PDFs/Player Handbook.pdf",
+    "TMA TTRPG/PDFs/Character Sheet.pdf",
+    "TMA TTRPG/PDFs/Consent Checklist.pdf",
     "Harry Potter - Old Magic/Character Profiles/Alexandria Solace.md",
     "Harry Potter - Old Magic/Character Profiles/Alane Gartens.md",
-    "TMA TTRPG/Tessa x.md",
     "Harry Potter - Old Magic/Sheets/Alexandria.md",
     "PJO/Character Profiles/Mirabelle Dalton.md",
     "TMA TTRPG/Rule Notes.md",
     "Images/Pasted image 20250205220352.png",
     "Bram.md",
-    "TMA TTRPG/Character Portfolio.pdf",
+    "TMA TTRPG/PDFs/Character Portfolio.pdf",
     "TMA TTRPG/TMA-Character-Portfolio-Form-Fillable-2024-10-31-o5bmn3.pdf",
     "TMA TTRPG",
     "Fragments of Decays/Toia 2024-05-05-18-07.png",
     "Backstory.md",
-    "Pathfinder",
     "Fragments of Decays/Toia 2024-01-11-00-20.png",
     "Fragments of Decays/Closeup.png",
     "Harry Potter - Old Magic/Character Profiles/Benjamin Peregrine.md",
@@ -298,20 +294,13 @@
     "Harry Potter - Old Magic/Character Profiles/Fern Jackson.md",
     "Harry Potter - Old Magic/Character Profiles/Nicolas Dean.md",
     "Harry Potter - Old Magic/Character Profiles/Iris Orion.md",
-    "HP",
     "Test Stats/Test.canvas",
     "Testing.md",
     "Test Stats/Intro Card.md",
-    "Test Stats",
     "Character Sheet.md",
     "Fragments of Decays/Gods.md",
     "Characters/Diero Falone/Canvas - Diero Falone.canvas",
-    "Characters/Diero Falone/AC - Diero Falone.md",
-    "README.md",
     "canvas-character-sheet-main/Characters/Diero Falone/Canvas - Diero Falone.canvas",
-    "Wiki/Vicious Mockery.md",
-    "Wiki/Light.md",
-    "Wiki/Prestidigitation.md",
     "Assets/stamp_speed.png",
     "Assets/stamp_proficiency.png",
     "Assets/stamp_maxhp.png",
