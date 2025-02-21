@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "2-19-2025, 4.1 Matrix Operations"
             }
+          },
+          {
+            "id": "f750849efcdf1540",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Latex Cheat Sheet.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Latex Cheat Sheet"
+            }
           }
         ]
       }
@@ -78,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d22335cb5552995e",
@@ -184,18 +195,24 @@
   },
   "active": "3a3f5b1bf7d55bde",
   "lastOpenFiles": [
-    "Attachments/4.1-Matrix-Operations-COMPLETE.pdf",
+    "Latex Cheat Sheet.pdf",
+    "Style Guide.md",
     "MATH-314, Linear Algebra/Lectures/2-19-2025, 4.1 Matrix Operations.md",
+    "MATH-314, Linear Algebra/Lectures/2-17-2025, 3.2 Linear Independence.md",
+    "Attachments/Pasted image 20250221094622.png",
+    "Attachments/Pasted image 20250221094556.png",
+    "RAIK-370H, Data & Models II/Lectures/2-20-2025, K-Means Clustering.md",
+    "Attachments/07 K-Means Clustering.pdf",
+    "RAIK-370H, Data & Models II/Lectures/2-18-2025, K-Nearest Neighbor.md",
+    "Attachments/4.1-Matrix-Operations-COMPLETE.pdf",
     "Attachments/Pasted image 20250219135433.png",
     "Attachments/Pasted image 20250219135259.png",
     "Attachments/Pasted image 20250219135215.png",
     "Attachments/Pasted image 20250219124305.png",
     "Attachments/Pasted image 20250219124046.png",
     "Attachments/Pasted image 20250219123734.png",
-    "RAIK-370H, Data & Models II/Lectures/2-18-2025, K-Nearest Neighbor.md",
     "Attachments/06 K-Nearest Neighbor.pdf",
     "RAIK-370H, Data & Models II/Lectures/2-6-2025, Performance Metrics.md",
-    "MATH-314, Linear Algebra/Lectures/2-17-2025, 3.2 Linear Independence.md",
     "MATH-314, Linear Algebra/Lectures/2-12-2025, 3.1 Linear Combinations of Vectors and their Span, 3.2 Linear Independence.md",
     "Attachments/3.1-Linear-Combinations-and-Span-COMPLETE.pdf",
     "Attachments/Pasted image 20250217153350.png",
@@ -204,8 +221,6 @@
     "CSCE-322, Programming Language Concepts/Lectures/2-10-2025, Formal Languages and Grammar.md",
     "Attachments/Pasted image 20250213170747.png",
     "RAIK-370H, Data & Models II/Lectures/1-23-2025, Naive Bayes.md",
-    "Attachments/Pasted image 20250212184720.png",
-    "Attachments/Pasted image 20250212184632.png",
     "Attachments/3.2-Linear-Independence-COMPLETE.pdf",
     "MATH-314, Linear Algebra/Lectures/2-10-2025, 2.3 Gaussian Elimination and Rank.md",
     "RAIK-381H, Finance/Lectures/2-11-2025, Chapter 5B.md",
@@ -215,19 +230,15 @@
     "RAIK-370H, Data & Models II/Lectures/2-4-2025, Decision Tree ID3.md",
     "Attachments/Lecture2-Introduction to Concepts of PL_03_Syntax and Semantics_Biding 1.pdf",
     "CSCE-322, Programming Language Concepts/Lectures/2-7-2025, Syntax, Semantics, and Binding.md",
-    "Latex Cheat Sheet.pdf",
-    "Style Guide.md",
     "RAIK-186H, Leadership II/186 Syllabus.pdf",
     "Plugins and Themes.md",
     "Attachments/Lecture2-Introduction to Concepts of PL_03_Syntax and Semantics_Biding.pdf",
     "CSCE-322, Programming Language Concepts/Lectures/2-5-2025, Language Categories and Implementation Methods.md",
-    "RAIK-186H, Leadership II/Cases/Mount Everest.pdf",
     "Spring_2025/Spring_2025/Test.md",
     "MATH-314, Linear Algebra/Lectures/2-3-2025, 2.1 Introduction to Systems of Linear Equations.md",
     "RAIK-381H, Finance/Homework/HW 3.md",
     "MATH-314, Linear Algebra/Lectures/2-5-2025, 2.2 Augmented Matrix.md",
     "CSCE-322, Programming Language Concepts/Lectures/2-3-2025, Language Design Trade-Offs and Influences on Language Design.md",
-    "CSCE-322, Programming Language Concepts/Lectures/1-27-2025, Programming Domains and Language Evaluation Criteria.md",
-    "RAIK-370H, Data & Models II/Lectures/2-6-2025.md"
+    "CSCE-322, Programming Language Concepts/Lectures/1-27-2025, Programming Domains and Language Evaluation Criteria.md"
   ]
 }
