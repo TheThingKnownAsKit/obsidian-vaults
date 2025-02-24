@@ -1,1 +1,0 @@
-{"path":"Images/Pasted image 20240227111723.png","text":"public int summationToN (int n) { if (n == 0) { return 0; } == int sum = summationToN(n-1) + n; n= 1 return sum; =12 } n= 3 n= 4 // what would happen if we called: n= 5 summationToN(7); //? =0 n= 7","libVersion":"0.3.1","langs":"eng"}

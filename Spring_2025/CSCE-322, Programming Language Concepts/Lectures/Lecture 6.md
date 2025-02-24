@@ -1,0 +1,1 @@
+Language implementation systems must analyze source code, regardless of the specific implementation approach. Nearly all syntax analysis is based on a formal description of the syntax of the source language (BNF)

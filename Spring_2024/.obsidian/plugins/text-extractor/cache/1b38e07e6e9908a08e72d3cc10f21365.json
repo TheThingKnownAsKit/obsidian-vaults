@@ -1,1 +1,0 @@
-{"path":"Images/Pasted image 20240225155909.png","text":"Recursive algorithm to compute the power set of a set. PowerSet(A) Input: A set A. Output: The power set of A. If (A = @), Return( {8} ) Select an elementa € A A=A-{a} P := PowerSet(A) //the recursive call P =P Foreach S € P' Add Su{a} to P End-for Return(P)","libVersion":"0.3.1","langs":"eng"}
