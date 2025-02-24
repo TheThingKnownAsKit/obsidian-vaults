@@ -1,3 +1,5 @@
+![[Week 03 - FINA 361H & RAIK 381H - Chapter 5 (Part 1).pdf]]
+
 ## Time Value of Money
 ![[Pasted image 20250204153711.png]]
 
