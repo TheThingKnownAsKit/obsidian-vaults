@@ -168,6 +168,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "cmdr:Git: Commit-and-sync": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,
