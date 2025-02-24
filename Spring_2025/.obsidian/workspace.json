@@ -8,27 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3a3f5b1bf7d55bde",
+            "id": "3b017d8d94347dea",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Latex Cheat Sheet.pdf"
+                "file": "CSCE-322, Programming Language Concepts/Lectures/2-10-2025, Formal Languages and Grammar.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Latex Cheat Sheet"
+              "icon": "lucide-file",
+              "title": "2-10-2025, Formal Languages and Grammar"
             }
           },
           {
-            "id": "f750849efcdf1540",
+            "id": "553ef0823f9ff340",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Latex Cheat Sheet.pdf"
+                "file": "CSCE-322, Programming Language Concepts/concepts-of-programming-languages-12th-12nbsped-2017059077-9780134997186-0134997182_compress.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Latex Cheat Sheet"
+              "title": "concepts-of-programming-languages-12th-12nbsped-2017059077-9780134997186-0134997182_compress"
             }
           }
         ]
@@ -191,37 +193,42 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3a3f5b1bf7d55bde",
+  "active": "3b017d8d94347dea",
   "lastOpenFiles": [
+    "CSCE-322, Programming Language Concepts/Lectures/Lecture 3 Context Free Grammars and Language Generation.md",
+    "CSCE-322, Programming Language Concepts/Lectures/Lecture 4 Language Recognition.md",
+    "CSCE-322, Programming Language Concepts/concepts-of-programming-languages-12th-12nbsped-2017059077-9780134997186-0134997182_compress.pdf",
+    "Attachments/Pasted image 20250224105118.png",
+    "Attachments/Pasted image 20250224104052.png",
+    "Attachments/Pasted image 20250224103713.png",
+    "Attachments/Lecture4-LanguageRecognition.pdf",
+    "CSCE-322, Programming Language Concepts/Lectures/Lecture 6.md",
+    "Attachments/Pasted image 20250224103341.png",
+    "Attachments/Pasted image 20250224103144.png",
+    "Attachments/Pasted image 20250224103114.png",
+    "Attachments/Pasted image 20250224103103.png",
+    "Attachments/Lecture3-ContexFree-Grammars.pdf",
+    "RAIK-381H, Finance/381 Syllabus.pdf",
+    "MATH-314, Linear Algebra/Lectures/2-24-2025, 4.3 Homogenous Linear Systems.md",
+    "Attachments/4.3-Homogeneous-Linear-Systems-COMPLETE 1.pdf",
+    "Attachments/4.3-Homogeneous-Linear-Systems-COMPLETE.pdf",
+    "CSCE-322, Programming Language Concepts/Lectures/2-10-2025, Formal Languages and Grammar.md",
+    "CSCE-322, Programming Language Concepts/Lectures/todo.md",
+    "MATH-314, Linear Algebra/Lectures/2-19-2025, 4.2 Linear Systems as Matrix and Linear Combination Equations.md",
+    "MATH-314, Linear Algebra/Lectures/2-19-2025, 4.1 Matrix Operations.md",
+    "Attachments/Pasted image 20250224093950.png",
+    "Attachments/Pasted image 20250224093840.png",
+    "Attachments/Pasted image 20250224093830.png",
+    "Attachments/4.2-Linear-Systems-as-Matrix-and-Vector-Equations-COMPLETE (1).pdf",
+    "Latex Cheat Sheet.pdf",
+    "MATH-314, Linear Algebra/Lectures/2-17-2025, 3.2 Linear Independence.md",
+    "RAIK-370H, Data & Models II/370 Syllabus.pdf",
     "Style Guide.md",
     "RAIK-381H, Finance/FundamentalsOfFinancialManagement16.pdf",
-    "RAIK-381H, Finance/FundamentalsOfFinancialManagement16 1.pdf",
-    "CSCE-322, Programming Language Concepts/concepts-of-programming-languages-12th-12nbsped-2017059077-9780134997186-0134997182_compress.pdf",
-    "CSCE-322, Programming Language Concepts/Programming Languages- Kenneth C. Louden - 3ed.pdf",
-    "CSCE-322, Programming Language Concepts/Essentials of Programming Languages, 3e.pdf",
-    "CSCE-322, Programming Language Concepts/COPL.pdf",
-    "CSCE-322, Programming Language Concepts/322 Syllabus.pdf",
-    "CSCE-322, Programming Language Concepts/322 Syllabus.pdf",
-    "MATH-314, Linear Algebra/314 Syllabus.pdf",
-    "MATH-314, Linear Algebra/314 Syllabus.pdf",
-    "MATH-314, Linear Algebra/Lectures/2-19-2025, 4.1 Matrix Operations.md",
-    "MATH-314, Linear Algebra/Lectures/2-17-2025, 3.2 Linear Independence.md",
-    "Attachments/Pasted image 20250221094622.png",
-    "Attachments/Pasted image 20250221094556.png",
     "RAIK-370H, Data & Models II/Lectures/2-20-2025, K-Means Clustering.md",
     "RAIK-370H, Data & Models II/Lectures/2-18-2025, K-Nearest Neighbor.md",
-    "Attachments/Pasted image 20250219135433.png",
-    "Attachments/Pasted image 20250219135259.png",
-    "Attachments/Pasted image 20250219135215.png",
-    "Attachments/Pasted image 20250219124305.png",
-    "Attachments/Pasted image 20250219124046.png",
-    "Attachments/Pasted image 20250219123734.png",
     "RAIK-370H, Data & Models II/Lectures/2-6-2025, Performance Metrics.md",
     "MATH-314, Linear Algebra/Lectures/2-12-2025, 3.1 Linear Combinations of Vectors and their Span, 3.2 Linear Independence.md",
-    "Attachments/Pasted image 20250217153350.png",
-    "CSCE-322, Programming Language Concepts/Lectures/2-14-2025.md",
-    "CSCE-322, Programming Language Concepts/Lectures/2-10-2025, Formal Languages and Grammar.md",
-    "Attachments/Pasted image 20250213170747.png",
     "RAIK-370H, Data & Models II/Lectures/1-23-2025, Naive Bayes.md",
     "MATH-314, Linear Algebra/Lectures/2-10-2025, 2.3 Gaussian Elimination and Rank.md",
     "RAIK-381H, Finance/Lectures/2-11-2025, Chapter 5B.md",
@@ -232,11 +239,6 @@
     "CSCE-322, Programming Language Concepts/Lectures/2-7-2025, Syntax, Semantics, and Binding.md",
     "Plugins and Themes.md",
     "CSCE-322, Programming Language Concepts/Lectures/2-5-2025, Language Categories and Implementation Methods.md",
-    "Spring_2025/Spring_2025/Test.md",
-    "MATH-314, Linear Algebra/Lectures/2-3-2025, 2.1 Introduction to Systems of Linear Equations.md",
-    "RAIK-381H, Finance/Homework/HW 3.md",
-    "MATH-314, Linear Algebra/Lectures/2-5-2025, 2.2 Augmented Matrix.md",
-    "CSCE-322, Programming Language Concepts/Lectures/2-3-2025, Language Design Trade-Offs and Influences on Language Design.md",
-    "CSCE-322, Programming Language Concepts/Lectures/1-27-2025, Programming Domains and Language Evaluation Criteria.md"
+    "Spring_2025/Spring_2025/Test.md"
   ]
 }
