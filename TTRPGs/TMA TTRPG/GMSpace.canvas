@@ -1,0 +1,24 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "file": "Images/Pasted image 20250225114832.png",
+      "height": 417,
+      "id": "fe8846d53db1b550",
+      "type": "file",
+      "width": 722,
+      "x": -503,
+      "y": -622
+    },
+    {
+      "file": "Images/Pasted image 20250225115008.png",
+      "height": 310,
+      "id": "77a1238fcf5cc008",
+      "type": "file",
+      "width": 601,
+      "x": -166,
+      "y": -1065
+    }
+  ]
+}

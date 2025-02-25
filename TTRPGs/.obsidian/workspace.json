@@ -8,19 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "06e260f2590afa6f",
+            "id": "4c42f5dd44d20137",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "TMA TTRPG/Player Handbook.pdf"
+                "file": "TMA TTRPG/Lore/The Wire Man.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "Player Handbook"
+              "icon": "lucide-file",
+              "title": "The Wire Man"
             }
           },
           {
-            "id": "c5ec2cc70733fea8",
+            "id": "9752c93e056d5e4c",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -30,41 +33,8 @@
               "icon": "lucide-file-text",
               "title": "Rulebook"
             }
-          },
-          {
-            "id": "715bb0021968d392",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "TMA TTRPG/Character Sheet.canvas",
-                "viewState": {
-                  "x": -53.154725886136504,
-                  "y": -313.80803098011245,
-                  "zoom": -0.8677289517417626
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Character Sheet"
-            }
-          },
-          {
-            "id": "b1801e7bf8f5bd66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TMA TTRPG/Consent Stuff.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Consent Stuff"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,12 +199,22 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
             "id": "41afbf3c1f689b5c",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "d537c1d3d1c06c92",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -259,38 +239,56 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "cmdr:Git: Commit-and-sync": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "cmdr:Git: Commit-and-sync": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "715bb0021968d392",
+  "active": "4c42f5dd44d20137",
   "lastOpenFiles": [
-    "TMA TTRPG/Ideas.md",
-    "TMA TTRPG/Character Sheet.canvas",
-    "TMA TTRPG/Consent Stuff.md",
-    "TMA TTRPG/Character Sheet.pdf",
-    "TMA TTRPG/Consent Checklist.pdf",
+    "TMA TTRPG/Lore/The Machine.md",
+    "TMA TTRPG/GMSpace.canvas",
     "TMA TTRPG/Rulebook.pdf",
-    "TMA TTRPG/Player Handbook.pdf",
-    "TMA TTRPG/Plot.md",
+    "Images/Pasted image 20250225115008.png",
+    "Images/Pasted image 20250225114832.png",
+    "TMA TTRPG/Consent Stuff.md",
+    "TMA TTRPG/Lore/The Wire Man.md",
+    "TMA TTRPG/Untitled.md",
+    "Images/Pasted image 20250225111758.png",
+    "Images/Pasted image 20250225111736.png",
+    "Images/Pasted image 20250225111729.png",
+    "Images/Pasted image 20250225111721.png",
+    "TMA TTRPG/Current Notes.md",
+    "TMA TTRPG/Characters/Charlie.canvas",
+    "TMA TTRPG/Characters/Tessa Hayes.md",
+    "TMA TTRPG/Character Sheet.canvas",
+    "TMA TTRPG/Characters/Charlotte Anderson.md",
+    "TMA TTRPG/Characters/Gus Wells.md",
+    "TMA TTRPG/Characters/Untitled.md",
+    "TMA TTRPG/Characters/Gus.md",
+    "TMA TTRPG/Ideas.md",
+    "TMA TTRPG/PDFs",
+    "TMA TTRPG/Lore/Plot.md",
+    "TMA TTRPG/Characters",
+    "TMA TTRPG/Lore",
+    "TMA TTRPG/PDFs/Player Handbook.pdf",
+    "TMA TTRPG/PDFs/Character Sheet.pdf",
+    "TMA TTRPG/PDFs/Consent Checklist.pdf",
     "Harry Potter - Old Magic/Character Profiles/Alexandria Solace.md",
     "Harry Potter - Old Magic/Character Profiles/Alane Gartens.md",
-    "TMA TTRPG/Tessa x.md",
     "Harry Potter - Old Magic/Sheets/Alexandria.md",
     "PJO/Character Profiles/Mirabelle Dalton.md",
     "TMA TTRPG/Rule Notes.md",
     "Images/Pasted image 20250205220352.png",
     "Bram.md",
-    "TMA TTRPG/Character Portfolio.pdf",
+    "TMA TTRPG/PDFs/Character Portfolio.pdf",
     "TMA TTRPG/TMA-Character-Portfolio-Form-Fillable-2024-10-31-o5bmn3.pdf",
     "TMA TTRPG",
     "Fragments of Decays/Toia 2024-05-05-18-07.png",
     "Backstory.md",
-    "Pathfinder",
     "Fragments of Decays/Toia 2024-01-11-00-20.png",
     "Fragments of Decays/Closeup.png",
     "Harry Potter - Old Magic/Character Profiles/Benjamin Peregrine.md",
@@ -298,26 +296,10 @@
     "Harry Potter - Old Magic/Character Profiles/Fern Jackson.md",
     "Harry Potter - Old Magic/Character Profiles/Nicolas Dean.md",
     "Harry Potter - Old Magic/Character Profiles/Iris Orion.md",
-    "HP",
     "Test Stats/Test.canvas",
     "Testing.md",
-    "Test Stats/Intro Card.md",
-    "Test Stats",
-    "Character Sheet.md",
-    "Fragments of Decays/Gods.md",
     "Characters/Diero Falone/Canvas - Diero Falone.canvas",
-    "Characters/Diero Falone/AC - Diero Falone.md",
-    "README.md",
     "canvas-character-sheet-main/Characters/Diero Falone/Canvas - Diero Falone.canvas",
-    "Wiki/Vicious Mockery.md",
-    "Wiki/Light.md",
-    "Wiki/Prestidigitation.md",
-    "Assets/stamp_speed.png",
-    "Assets/stamp_proficiency.png",
-    "Assets/stamp_maxhp.png",
-    "Assets/stamp_level.png",
-    "Assets/stamp_init.png",
-    "Assets/stamp_ac.png",
     "Canvas - Diero Falone.canvas",
     "HP/Untitled.canvas",
     "Home.canvas"
