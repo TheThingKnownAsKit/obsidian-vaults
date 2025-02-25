@@ -12,7 +12,7 @@
   ],
   "nodes": [
     {
-      "file": "TMA TTRPG/Character Sheet.pdf",
+      "file": "TMA TTRPG/PDFs/Character Sheet.pdf",
       "height": 1000,
       "id": "f2d051684f22f67c",
       "styleAttributes": {
@@ -25,7 +25,7 @@
       "y": -800
     },
     {
-      "file": "TMA TTRPG/Character Sheet.pdf",
+      "file": "TMA TTRPG/PDFs/Character Sheet.pdf",
       "height": 1020,
       "id": "0690c4e0356effa6",
       "styleAttributes": {
@@ -807,7 +807,7 @@
       "id": "a1d08d08de4848da",
       "styleAttributes": {
         "border": "invisible",
-        "textAlign": "center"
+        "textAlign": null
       },
       "text": "",
       "type": "text",
@@ -820,7 +820,7 @@
       "id": "f1e00913fa604e6d",
       "styleAttributes": {
         "border": "invisible",
-        "textAlign": "center"
+        "textAlign": null
       },
       "text": "",
       "type": "text",
@@ -833,7 +833,7 @@
       "id": "ac962f693f93a80d",
       "styleAttributes": {
         "border": "invisible",
-        "textAlign": "center"
+        "textAlign": null
       },
       "text": "",
       "type": "text",
@@ -846,7 +846,7 @@
       "id": "53b7ec8a61c2ec92",
       "styleAttributes": {
         "border": "invisible",
-        "textAlign": "center"
+        "textAlign": null
       },
       "text": "",
       "type": "text",
@@ -859,7 +859,7 @@
       "id": "119f304f1eddcbe3",
       "styleAttributes": {
         "border": "invisible",
-        "textAlign": "center"
+        "textAlign": null
       },
       "text": "",
       "type": "text",
@@ -872,7 +872,7 @@
       "id": "09128ba432a23ed6",
       "styleAttributes": {
         "border": "invisible",
-        "textAlign": "center"
+        "textAlign": null
       },
       "text": "",
       "type": "text",
