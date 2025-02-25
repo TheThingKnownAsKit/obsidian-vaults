@@ -1,1 +1,0 @@
-{"path":"Images/Pasted image 20240331195921.png","text":"People = { Sue, Harry, Sam } Files = { File A, File B, File C, File D } Relation A: pAf if person p has access to file f FileA FileB FileC FileD Sue 0 1 1 1 A={(Sue, File B) (Sue, File C) (Sue, File D) Harry 4 o o 4 (Harry, File A) (Harry, File D) } Sam 0 0 0 0","libVersion":"0.3.1","langs":"eng"}

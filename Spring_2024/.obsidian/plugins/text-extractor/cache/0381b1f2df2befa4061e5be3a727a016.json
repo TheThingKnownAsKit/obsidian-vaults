@@ -1,1 +1,0 @@
-{"path":"Images/Pasted image 20240225151237.png","text":"Definition 18.3.1: Isomorphic graphs. Let G = (V,E) and G'=(V'E). G and G' are isomorphic if there is a bijection f: V — V' such that for every pair of vertices x, y € V, {x, y} € E if and only if {f(x), f(y)} € E\". The function f is called an isomorphism from G to G\".","libVersion":"0.3.1","langs":"eng"}

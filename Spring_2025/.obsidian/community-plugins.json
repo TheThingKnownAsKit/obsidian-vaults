@@ -1,13 +1,13 @@
 [
-  "table-editor-obsidian",
   "highlightr-plugin",
-  "obsidian-image-toolkit",
   "omnisearch",
   "text-extractor",
-  "obsidian-style-settings",
   "codeblock-customizer",
   "quick-latex",
   "obsidian-latex-suite",
   "obsidian-git",
-  "cmdr"
+  "cmdr",
+  "obsidian-style-settings",
+  "table-editor-obsidian",
+  "obsidian-image-toolkit"
 ]
