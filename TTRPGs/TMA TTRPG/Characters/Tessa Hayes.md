@@ -8,6 +8,7 @@ date: 2025-02-07
 aliases: 
 sheet:
 ---
+
 > [!info] General
 > Gender, Pronouns: woman, she/her
 > Sexuality: Bisexual

@@ -1,17 +1,16 @@
 ---
 tags:
   - "#NPC"
-  - "#Eye"
-  - "#Web"
   - "#Institute"
 date: 2025-02-07
 aliases: 
 sheet:
 ---
+
 > [!info] General
-> Gender, Pronouns: woman, she/her
-> Sexuality: Bisexual
-> Age: 27
+> Gender, Pronouns: man, she/her
+> Sexuality: 
+> Age: 
 > D.O.B.: 
 > From: 
 > Playlist: 
@@ -20,6 +19,4 @@ sheet:
 > 
 > Relatives: 
 
-## Physical Description
-## Story
-y
+IT/Tech repair
