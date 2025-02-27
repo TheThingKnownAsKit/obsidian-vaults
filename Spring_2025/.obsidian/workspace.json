@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE-322, Programming Language Concepts/Lectures/Lecture 6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 6"
-            }
-          },
-          {
-            "id": "cdd09be41273f314",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "RAIK-381H, Finance/Lectures/2-27-2025, Chapter 7.md",
                 "mode": "source",
                 "source": false
@@ -35,15 +21,14 @@
               "title": "2-27-2025, Chapter 7"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "237b908ddc69cc4c",
+        "id": "0021c80b99043d04",
         "type": "tabs",
         "children": [
           {
-            "id": "e41ff966a0fdb2d4",
+            "id": "becd0dc3509b1bbe",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -111,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d22335cb5552995e",
@@ -214,11 +200,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e41ff966a0fdb2d4",
+  "active": "3b017d8d94347dea",
   "lastOpenFiles": [
+    "Attachments/Week 05 - FINA 361H & RAIK 381H - Chapter 7.pdf",
     "RAIK-381H, Finance/Lectures/2-27-2025, Chapter 7.md",
-    "RAIK-381H, Finance/Lectures/2-25-2025, Chapter 7.md",
     "CSCE-322, Programming Language Concepts/Lectures/Lecture 6.md",
+    "Attachments/Lecture6-Lexical and Syntax Analysis_02.pdf",
+    "Attachments/Lecture6-Lexical and Syntax Analysis_01.pdf",
+    "CSCE-322, Programming Language Concepts/Programming Languages- Kenneth C. Louden - 3ed.pdf",
+    "Attachments/Pasted image 20250227161108.png",
+    "Attachments/Pasted image 20250227160324.png",
+    "Attachments/Pasted image 20250227160314.png",
+    "Attachments/Pasted image 20250227160306.png",
+    "Attachments/Pasted image 20250227155208.png",
+    "Attachments/Pasted image 20250227154843.png",
+    "RAIK-381H, Finance/Lectures/2-25-2025, Chapter 7.md",
     "Attachments/Pasted image 20250226192357.png",
     "Attachments/Pasted image 20250226192343.png",
     "Attachments/Pasted image 20250226192328.png",
@@ -238,19 +234,9 @@
     "CSCE-322, Programming Language Concepts/Lectures/Lecture 4 Language Recognition.md",
     "CSCE-322, Programming Language Concepts/Lectures/Lecture 3 Context Free Grammars and Language Generation.md",
     "Attachments/4.4-Inverse-of-a-Matrix-COMPLETE.pdf",
-    "Attachments/Week 05 - FINA 361H & RAIK 381H - Chapter 7.pdf",
     "RAIK-381H, Finance/Lectures/2-11-2025, Chapter 5B.md",
     "RAIK-381H, Finance/FundamentalsOfFinancialManagement16 1.pdf",
     "CSCE-322, Programming Language Concepts/REGEX Cheatsheet.pdf",
-    "Attachments/Week 04 - FINA 361H & RAIK 381H - Chapter 5 (Part 2).pdf",
-    "Attachments/Week 03 - FINA 361H & RAIK 381H - Chapter 5 (Part 1).pdf",
-    "Attachments/Week 02 - FINA 361H & RAIK 381H - Chapter 3.pdf",
-    "Attachments/Pasted image 20250224105118.png",
-    "Attachments/Pasted image 20250224104052.png",
-    "Attachments/Pasted image 20250224103713.png",
-    "Attachments/Pasted image 20250224103341.png",
-    "Attachments/Pasted image 20250224103144.png",
-    "Attachments/Pasted image 20250224103114.png",
     "CSCE-322, Programming Language Concepts/Lectures/2-10-2025, Formal Languages and Grammar.md",
     "CSCE-322, Programming Language Concepts/Lectures/1-27-2025, Programming Domains and Language Evaluation Criteria.md",
     "CSCE-322, Programming Language Concepts/Lectures/2-3-2025, Language Design Trade-Offs and Influences on Language Design.md",
@@ -260,7 +246,6 @@
     "RAIK-381H, Finance/Lectures/2-4-2025, Chapter 5A.md",
     "RAIK-381H, Finance/Lectures/1-30-2025, Chapter 3.md",
     "RAIK-381H, Finance/Lectures/1-23-2025, Chapter 2.md",
-    "CSCE-322, Programming Language Concepts/Lectures/todo.md",
-    "Style Guide.md"
+    "CSCE-322, Programming Language Concepts/Lectures/todo.md"
   ]
 }

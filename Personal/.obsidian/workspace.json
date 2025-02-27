@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book of Hours/Skills/Anbary & Lapidary.md",
+                "file": "Book of Hours/Books/Twenty-Six Enticements, Seven Torments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anbary & Lapidary"
+              "title": "Twenty-Six Enticements, Seven Torments"
             }
           },
           {
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,9 +198,18 @@
   },
   "active": "8bad64928ff21aed",
   "lastOpenFiles": [
-    "Book of Hours/Skills/Edicts Liminal.md",
-    "Book of Hours/Skills/Anbary & Lapidary.md",
+    "Book of Hours/Books/Travelling at Night, Vol 1.md",
+    "Book of Hours/Books/Travelling at Night, Vol 2.md",
+    "Book of Hours/Books/The Republic of Teeth.md",
+    "Book of Hours/Books/The Geminiad II.md",
+    "Book of Hours/Books/Old Coppernose and the Softer Metal.md",
     "Book of Hours/Books/Eva's Treasury.md",
+    "Book of Hours/Books/Feather-Decked Journal.md",
+    "Book of Hours/Books/De Horis Book I.md",
+    "Book of Hours/Books/Black Nephrite.md",
+    "Book of Hours/Books/Apollo and Marsyas.md",
+    "Book of Hours/Skills/Anbary & Lapidary.md",
+    "Book of Hours/Skills/Edicts Liminal.md",
     "Book of Hours/Objects/Serpentinite Slab.md",
     "Book of Hours/Memories/Sound.md",
     "Book of Hours/Memories/Regret.md",
@@ -209,21 +219,12 @@
     "Book of Hours/Assistance/Coffinmaker's Assistance.md",
     "Book of Hours/Memories/Hindsight.md",
     "Book of Hours/Assistance",
-    "Book of Hours/Books/Travelling at Night, Vol 1.md",
     "Book of Hours/Memories/Impulse.md",
     "Book of Hours/Memories/Hail.md",
     "Book of Hours/Memories/Scent.md",
     "Book of Hours/Memories/Sight.md",
     "Book of Hours/Memories/Storm.md",
     "Book of Hours/Memories/Storm (Weather).md",
-    "Book of Hours/Memories/Touch.md",
-    "Book of Hours/Memories/Gale.md",
-    "Book of Hours/Objects/Vase of Gorse.md",
-    "Book of Hours/Objects/Quire of Paper.md",
-    "Book of Hours/Objects/Pillas-Oat Bread.md",
-    "Book of Hours/Objects/'Raveline Summer'.md",
-    "Book of Hours/Skills/Rhyme & Remembrance.md",
-    "Book of Hours/Books/Travelling at Night, Vol 2.md",
     "Book of Hours/Recipes",
     "Book of Hours/Locations/Hush House",
     "Book of Hours/Locations/Out Of Bounds",
