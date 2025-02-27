@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "20ddf0fa9ee54301",
+        "id": "9faa3950b4e0eb44",
         "type": "tabs",
         "children": [
           {
-            "id": "4c42f5dd44d20137",
+            "id": "1cbc876ded259ed1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TMA TTRPG/Lore/Plot.md",
+                "file": "TMA TTRPG/Episodes/Episode 2 - Train Time.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Plot"
-            }
-          },
-          {
-            "id": "957c02d38d4a9064",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TMA TTRPG/Lore/The Machine.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "The Machine"
+              "title": "Episode 2 - Train Time"
             }
           }
         ]
@@ -250,11 +235,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c42f5dd44d20137",
+  "active": "1cbc876ded259ed1",
   "lastOpenFiles": [
     "TMA TTRPG/Lore/The Machine.md",
+    "TMA TTRPG/Episodes/Episode 2 - Train Time.md",
+    "TMA TTRPG/Episodes/Episode 1 - FleshTech.md",
+    "TMA TTRPG/Lore/Untitled.md",
+    "TMA TTRPG/Lore/Plot.md",
     "TMA TTRPG/Characters/Charlotte Barriault.md",
-    "TMA TTRPG/Episodes/Episode 1 -.md",
     "TMA TTRPG/Lore/The Wire Man.md",
     "TMA TTRPG/PDFs/Rulebook.pdf",
     "TMA TTRPG/Characters/Tessa Hayes.md",
@@ -267,7 +255,6 @@
     "Images/Pasted image 20250225145127.png",
     "TMA TTRPG/Ideas.md",
     "TMA TTRPG/Consent Stuff.md",
-    "TMA TTRPG/Lore/Plot.md",
     "TMA TTRPG/Tessa x.md",
     "TMA TTRPG/Plot.md",
     "TMA TTRPG/Character Sheet.pdf",
@@ -299,7 +286,6 @@
     "Fragments of Decays/Toia 2024-01-11-00-20.png",
     "Harry Potter - Old Magic/Character Profiles/Benjamin Peregrine.md",
     "Harry Potter - Old Magic/Character Profiles/Arlo Jackson.md",
-    "Harry Potter - Old Magic/Character Profiles/Fern Jackson.md",
     "Test Stats/Test.canvas",
     "Characters/Diero Falone/Canvas - Diero Falone.canvas",
     "canvas-character-sheet-main/Characters/Diero Falone/Canvas - Diero Falone.canvas",
