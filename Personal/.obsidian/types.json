@@ -19,6 +19,7 @@
     "nectar_intensity": "number",
     "heart_intensity": "number",
     "grail_intensity": "number",
-    "mystery_intensity": "number"
+    "mystery_intensity": "number",
+    "cost": "number"
   }
 }

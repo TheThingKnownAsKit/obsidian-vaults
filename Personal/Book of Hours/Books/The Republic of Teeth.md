@@ -5,7 +5,6 @@ tags:
   - Readable
   - Codex
   - BaronialPeriod
-  - SubjectSerpentsAndVenoms
 mystery: Scale
 mystery_intensity: 6
 read?: no
@@ -17,6 +16,7 @@ read?: no
 > An eccentric political tract by Valentine Dewulf.
 > 
 > **Location:** [[Keeper's Lodge]]
+> **Memory(s):** 
 
 > [!warning] Investigation
 > 

@@ -5,7 +5,6 @@ tags:
   - Codex
   - BaronialPeriod
   - Readable
-  - SubjectWolfStories
 mystery: Moon
 mystery_intensity: 6
 read?: yes
@@ -17,6 +16,7 @@ read?: yes
 > One of Valentine Dewulf's dream-journals, in which he records his visions of 'a place that is no place, beneath the house that is no house.'
 > 
 > **Location:** [[Watchman's Tower - First Floor]]
+> **Memory(s):** [[Fear]]
 
 > [!warning] Investigation
 > 

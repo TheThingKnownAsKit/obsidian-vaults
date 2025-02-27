@@ -5,7 +5,6 @@ tags:
   - Readable
   - Codex
   - NocturnalPeriod
-  - SubjectSightsAndSensations
 mystery: Sky
 mystery_intensity: 6
 read?: no
@@ -17,6 +16,7 @@ read?: no
 > The annotated dream-journals of Christopher Illopoly, sometimes called 'the only readable occultist': literate, entertaining, bewildering.
 > 
 > **Location:** [[Keeper's Lodge]]
+> **Memory(s):** 
 
 > [!warning] Investigation
 > 
