@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book of Hours/Objects/'As Above, So Below'.md",
+                "file": "Book of Hours/Books/The Geminiad II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "'As Above, So Below'"
+              "title": "The Geminiad II"
+            }
+          },
+          {
+            "id": "23ed04e04b59829e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book of Hours/Books/De Horis Book I.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "De Horis Book I"
+            }
+          },
+          {
+            "id": "474efec1c5c7a9bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book of Hours/Books/Twenty-Six Enticements, Seven Torments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Twenty-Six Enticements, Seven Torments"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 295
   },
   "right": {
     "id": "84859d5eb9bac699",
@@ -160,19 +189,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "cmdr:Git: Commit-and-sync": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "cmdr:Git: Commit-and-sync": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50bdb77fd16581c1",
+  "active": "474efec1c5c7a9bf",
   "lastOpenFiles": [
+    "Book of Hours/Books/Travelling at Night, Vol 2.md",
+    "Book of Hours/Books/Travelling at Night, Vol 1.md",
+    "Book of Hours/Books/The Republic of Teeth.md",
+    "Book of Hours/Books/The Geminiad II.md",
+    "Book of Hours/Books/Old Coppernose and the Softer Metal.md",
+    "Book of Hours/Books/Feather-Decked Journal.md",
+    "Book of Hours/Books/Eva's Treasury.md",
+    "Book of Hours/Books/De Horis Book I.md",
+    "Book of Hours/Books/Black Nephrite.md",
+    "Book of Hours/Books/Apollo and Marsyas.md",
+    "Book of Hours/Books/Twenty-Six Enticements, Seven Torments.md",
+    "Book of Hours/Objects/'As Above, So Below'.md",
     "Book of Hours/Objects/'Raveline Summer'.md",
     "Book of Hours/Objects/'The Tattered Outlaw'.md",
     "Book of Hours/Objects/'Walter Dewulf'.md",
@@ -187,18 +228,6 @@
     "Book of Hours/Objects/Potted Dragon Tree.md",
     "Book of Hours/Objects/Quire of Paper.md",
     "Book of Hours/Objects/Red Deer Antlers.md",
-    "Book of Hours/Objects/Shadowless Silk.md",
-    "Book of Hours/Memories/Scent.md",
-    "Book of Hours/Objects/Shaving Mirror.md",
-    "Book of Hours/Objects/Starstrewn Chair.md",
-    "Book of Hours/Objects/Straw-Cushioned Chair.md",
-    "Book of Hours/Objects/Treasury of Shelters.md",
-    "Book of Hours/Objects/Vase of Gorse.md",
-    "Book of Hours/Objects/Yeth-Hound Horns.md",
-    "Book of Hours/Books/Feather-Decked Journal.md",
-    "Book of Hours/Books/Black Nephrite.md",
-    "Book of Hours/Locations/Out Of Bounds/St Brandan's Cove.md",
-    "Book of Hours/Locations/Out Of Bounds/Cucurbit Bridge.md",
     "Book of Hours/Locations/Hush House",
     "Book of Hours/Locations/Out Of Bounds",
     "Home.canvas",

@@ -16,5 +16,7 @@ read?: yes
 > **Location:** [[Keeper's Lodge]]
 
 > [!warning] Investigate
+> 
+> NA
 
 
