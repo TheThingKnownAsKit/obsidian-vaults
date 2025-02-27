@@ -18,9 +18,9 @@ heart_intensity: 1
 
 > [!info] Info
 > 
-> **Location(s):** [[Keeper's Lodge]]
+> **Location(s):** 
 > **Recipe(s):** 
-> **Memory(s):** 
+> **Memory(s):** [[Sight]], destroys the item
 
 > [!summary] Description
 > 

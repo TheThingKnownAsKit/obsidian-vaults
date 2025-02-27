@@ -17,7 +17,7 @@ lantern_intensity: 1
 > 
 > **Location(s):** [[Keeper's Lodge]]
 > **Recipe(s):** N/A
-> **Memory(s):** [[Touch]]
+> **Memory(s):** [[Taste]], destroys item
 
 > [!abstract] Description
 > 

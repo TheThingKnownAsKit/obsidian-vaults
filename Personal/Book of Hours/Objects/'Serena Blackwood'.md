@@ -10,7 +10,7 @@ lantern_intensity: 1
 > 
 > **Location(s):** [[Watchman's Tower - Gatehouse]]
 > **Recipe(s):** 
-> **Memory(s):** 
+> **Memory(s):** [[Sight]]
 
 > [!summary] Description
 > 

@@ -13,10 +13,9 @@ scale_intensity: 2
 > 
 > **Location(s):** [[Watchman's Tower - Gatehouse]] x2
 > **Recipe(s):** 
-> **Memory(s):** 
+> **Memory(s):** [[Sight]]
 
 > [!summary] Description
 > 
 > Yeth-Hound Horns
 > In times past the Yeth pursued the impious and impure across the moors of this country. Hendrik Dewulf never liked them.
-

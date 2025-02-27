@@ -9,9 +9,9 @@ scale_intensity: 1
 
 > [!info] Info
 > 
-> **Location(s):** [[Keeper's Lodge]]
+> **Location(s):** 
 > **Recipe(s):** 
-> **Memory(s):** 
+> **Memory(s):** [[Touch]], destroys the item
 
 > [!summary] Description
 > 

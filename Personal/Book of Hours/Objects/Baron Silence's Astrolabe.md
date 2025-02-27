@@ -11,7 +11,7 @@ sky_intensity: 1
 > 
 > **Location(s):** [[Watchman's Tower - First Floor]]
 > **Recipe(s):** 
-> **Memory(s):** 
+> **Memory(s):** [[Touch]]
 
 > [!summary] Description
 > 

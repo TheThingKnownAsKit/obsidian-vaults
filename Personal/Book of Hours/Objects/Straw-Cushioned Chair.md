@@ -10,10 +10,9 @@ lantern_intensity: 1
 > 
 > **Location(s):** [[Keeper's Lodge]]
 > **Recipe(s):** 
-> **Memory(s):** 
+> **Memory(s):** [[Touch]]
 
 > [!summary] Description
 > 
 > Straw-Cushioned Chair
 > Upholstered without any particular skill.
-

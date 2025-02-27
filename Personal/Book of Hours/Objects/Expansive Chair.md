@@ -10,7 +10,7 @@ grail_intensity: 1
 > 
 > **Location(s):** [[Watchman's Tower - Gatehouse]] x2
 > **Recipe(s):** 
-> **Memory(s):** 
+> **Memory(s):** [[Touch]]
 
 > [!summary] Description
 > 

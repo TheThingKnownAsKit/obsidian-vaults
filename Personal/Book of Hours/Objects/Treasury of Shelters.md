@@ -12,10 +12,9 @@ sky_intensity: 1
 > 
 > **Location(s):** [[Watchman's Tower - Gatehouse]]
 > **Recipe(s):** 
-> **Memory(s):** 
+> **Memory(s):** [[Touch]]
 
 > [!summary] Description
 > 
 > Treasury of Shelters
 > It's like an armoury for not getting pneumonia.
-

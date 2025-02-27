@@ -12,7 +12,7 @@ moth_intensity: 1
 > 
 > **Location(s):** [[Keeper's Lodge]]
 > **Recipe(s):** 
-> **Memory(s):** 
+> **Memory(s):** [[Sight]]
 
 > [!summary] Description
 > 

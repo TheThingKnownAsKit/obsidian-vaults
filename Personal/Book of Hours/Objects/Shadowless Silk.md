@@ -11,7 +11,7 @@ lantern_intensity: 1
 > 
 > **Location(s):** [[Keeper's Lodge]]
 > **Recipe(s):** 
-> **Memory(s):** 
+> **Memory(s):** [[Scent]], destroys the item
 
 > [!summary] Description
 > 
