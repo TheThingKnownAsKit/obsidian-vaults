@@ -1,0 +1,15 @@
+![[Week 01 - FINA 361H & RAIK 381H - Chapters 1 & 2 1.pdf]]
+
+The point of financial markets is efficient allocation of capital. Matching savers & borrowers. Allocating to most productive use of money
+
+<mark style="background: #ADCCFFA6;">Financial intermediators</mark> are banks and such that lend savers money to borrowers
+![[Pasted image 20250123154900.png]]
+
+A firm "goes public" through an Initial Public Offering (IPO) process. It lists an IPO price per share, and the IPO will buy shares from the company to sell to the public
+	Some try direct
+
+<mark style="background: #ADCCFFA6;">Primary market</mark> is the creation of new shares and selling to the public through an IPO or seasoned equity offering (SEO) (similar to IPO but the firm is already public)
+<mark style="background: #ADCCFFA6;">Secondary market</mark> is a way of transferring wealth from individual to individual. People trade in the market themselves, including corporations
+
+![[Pasted image 20250123155316.png]]
+![[Pasted image 20250123155333.png]]

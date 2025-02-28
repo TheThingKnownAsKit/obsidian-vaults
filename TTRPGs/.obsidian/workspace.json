@@ -1,79 +1,37 @@
 {
   "main": {
-    "id": "a46253548ca9b1ea",
+    "id": "07f86bbbdaf67502",
     "type": "split",
     "children": [
       {
-        "id": "20ddf0fa9ee54301",
+        "id": "4bd3d12af2f203c1",
         "type": "tabs",
         "children": [
           {
-            "id": "715bb0021968d392",
+            "id": "9158e85d022901c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TMA TTRPG/Current Notes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Current Notes"
-            }
-          },
-          {
-            "id": "88e7e1a6e1f421a3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "TMA TTRPG/Rulebook.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Rulebook"
-            }
-          },
-          {
-            "id": "4c42f5dd44d20137",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "TMA TTRPG/Rulebook.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Rulebook"
-            }
-          },
-          {
-            "id": "9752c93e056d5e4c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "TMA TTRPG/Rulebook.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Rulebook"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "aa5965665eaa7643",
+    "id": "6e871f9612486a77",
     "type": "split",
     "children": [
       {
-        "id": "8918fcb3313b2295",
+        "id": "13ffdf22a1f0725c",
         "type": "tabs",
         "children": [
           {
-            "id": "9cfd829764106ae0",
+            "id": "f8aa374f29cc318c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -86,12 +44,12 @@
             }
           },
           {
-            "id": "0c022a899c0569ac",
+            "id": "3af569044d5f6259",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"date\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +61,7 @@
             }
           },
           {
-            "id": "80278d786c31154a",
+            "id": "ce2ea92a6a5ead4f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -116,24 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "0d9e02b39ccfc51f",
+    "id": "43159e6303ff0ba4",
     "type": "split",
     "children": [
       {
-        "id": "ad22e87ea4aa2d3c",
+        "id": "6a9de9ad551d7b71",
         "type": "tabs",
         "children": [
           {
-            "id": "6d4ac140dd73f65b",
+            "id": "589ff9f5306012cc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backstory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,70 +99,39 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Backstory"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "354bc3e3acb9921c",
+            "id": "010d41afe4a2e26f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backstory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Backstory"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "50cd103e222fe1e3",
+            "id": "fad7fa5412bfa459",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "d2b207e88816802e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Backstory.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Backstory"
-            }
-          },
-          {
-            "id": "150adb69d9c230f3",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "31f7e7431d7521a4",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "7601f0fadf604e5a",
+            "id": "bc75dcff9ad8ed23",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -220,17 +145,21 @@
             }
           },
           {
-            "id": "bcf67a8e9ad4e2ff",
+            "id": "5f0f079f4b1c525c",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
-            "id": "41afbf3c1f689b5c",
+            "id": "663069a050d4e475",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -239,84 +168,28 @@
               "title": "Initiative Tracker"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 294,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": true,
-      "graph:Open graph view": true,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "templates:Insert template": true,
+      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "cmdr:Git: Commit-and-sync": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "cmdr:Git: Commit-and-sync": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "88e7e1a6e1f421a3",
-  "lastOpenFiles": [
-    "TMA TTRPG/Current Notes.md",
-    "TMA TTRPG/Rulebook.pdf",
-    "TMA TTRPG/Characters/Charlie.canvas",
-    "TMA TTRPG/Characters/Tessa Hayes.md",
-    "TMA TTRPG/Character Sheet.canvas",
-    "TMA TTRPG/Characters/Charlotte Anderson.md",
-    "TMA TTRPG/Characters/Gus Wells.md",
-    "TMA TTRPG/Characters/Untitled.md",
-    "TMA TTRPG/Characters/Gus.md",
-    "TMA TTRPG/Ideas.md",
-    "TMA TTRPG/Consent Stuff.md",
-    "TMA TTRPG/Lore/The Machine.md",
-    "TMA TTRPG/PDFs",
-    "TMA TTRPG/Lore/Plot.md",
-    "TMA TTRPG/Characters",
-    "TMA TTRPG/Lore",
-    "TMA TTRPG/PDFs/Player Handbook.pdf",
-    "TMA TTRPG/PDFs/Character Sheet.pdf",
-    "TMA TTRPG/PDFs/Consent Checklist.pdf",
-    "Harry Potter - Old Magic/Character Profiles/Alexandria Solace.md",
-    "Harry Potter - Old Magic/Character Profiles/Alane Gartens.md",
-    "Harry Potter - Old Magic/Sheets/Alexandria.md",
-    "PJO/Character Profiles/Mirabelle Dalton.md",
-    "TMA TTRPG/Rule Notes.md",
-    "Images/Pasted image 20250205220352.png",
-    "Bram.md",
-    "TMA TTRPG/PDFs/Character Portfolio.pdf",
-    "TMA TTRPG/TMA-Character-Portfolio-Form-Fillable-2024-10-31-o5bmn3.pdf",
-    "TMA TTRPG",
-    "Fragments of Decays/Toia 2024-05-05-18-07.png",
-    "Backstory.md",
-    "Fragments of Decays/Toia 2024-01-11-00-20.png",
-    "Fragments of Decays/Closeup.png",
-    "Harry Potter - Old Magic/Character Profiles/Benjamin Peregrine.md",
-    "Harry Potter - Old Magic/Character Profiles/Arlo Jackson.md",
-    "Harry Potter - Old Magic/Character Profiles/Fern Jackson.md",
-    "Harry Potter - Old Magic/Character Profiles/Nicolas Dean.md",
-    "Harry Potter - Old Magic/Character Profiles/Iris Orion.md",
-    "Test Stats/Test.canvas",
-    "Testing.md",
-    "Test Stats/Intro Card.md",
-    "Character Sheet.md",
-    "Characters/Diero Falone/Canvas - Diero Falone.canvas",
-    "canvas-character-sheet-main/Characters/Diero Falone/Canvas - Diero Falone.canvas",
-    "Assets/stamp_speed.png",
-    "Assets/stamp_proficiency.png",
-    "Assets/stamp_maxhp.png",
-    "Assets/stamp_level.png",
-    "Assets/stamp_init.png",
-    "Assets/stamp_ac.png",
-    "Canvas - Diero Falone.canvas",
-    "HP/Untitled.canvas",
-    "Home.canvas"
-  ]
+  "active": "9158e85d022901c3",
+  "lastOpenFiles": []
 }

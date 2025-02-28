@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -139,7 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RAIK-184H Comp Sci II/ZyBooks/Queue and Deque.md"
+                "file": "RAIK-184H Comp Sci II/ZyBooks/Queue and Deque.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline of Queue and Deque"
@@ -168,9 +172,7 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": true,
-      "command-palette:Open command palette": false,
-      "remotely-save:Remotely Save": false,
-      "omnisearch:Omnisearch": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "f307e24716284a23",

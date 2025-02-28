@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "86153224525113de",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd2cfe47f3f6310d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce4a7cbf5505ca2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Style Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0622476f7e61ce7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9e9c1a801eedc3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "161359d5b87d04eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd182d9545c124e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23fae95d502e0173",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d22335cb5552995e",
+    "type": "split",
+    "children": [
+      {
+        "id": "525e430bbbea61f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "641c9ad1554bc225",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Style Guide.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f0a06cefd1c34fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Style Guide.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e6b169d80d9250aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c376b8446853caf9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Style Guide.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "remotely-save:Remotely Save": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "ce4a7cbf5505ca2b",
+  "lastOpenFiles": [
+    "Plugins and Themes.md",
+    "CLASS-NUM, Title/Attachments/Ink/Writing/2024.7.10 - 11.35am.writing",
+    "CLASS-NUM, Title/Test.md",
+    "Welcome.md",
+    "Style Guide.md",
+    "CSCE-231, Computer Systems Engineering/Attachments/Ink/Writing/2024.7.10 - 11.35am.writing",
+    "CSCE-231, Computer Systems Engineering/Attachments/Ink/Writing",
+    "CLASS-NUM, Title/Attachments/Ink/Writing",
+    "CSCE-231, Computer Systems Engineering/Attachments/Ink",
+    "CLASS-NUM, Title/Attachments/Ink",
+    "RAIK-341H, Marketing/Lectures",
+    "RAIK-341H, Marketing/Attachments",
+    "RAIK-283H, Software Engineering III/Lectures",
+    "RAIK-270H, Statistics and Applications/Lectures"
+  ]
+}

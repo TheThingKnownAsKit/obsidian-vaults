@@ -1,0 +1,9 @@
+{
+  "encore-settings@@theme-dark": "encore-theme-dark-slate",
+  "encore-settings@@encore-translucency": true,
+  "encore-settings@@encore-highlight-border": true,
+  "sanctum@@dark-mode-contrast-mode": "sanctum-default-dark",
+  "sanctum@@color-accent-rgb-d": "92, 153, 124",
+  "sanctum@@active-line-accent": "var(--background-hover)",
+  "primary-theme@@interface_editor-bg": "editor-bg-default"
+}

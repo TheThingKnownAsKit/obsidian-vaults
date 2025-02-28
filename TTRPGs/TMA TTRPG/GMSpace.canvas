@@ -1,0 +1,39 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "height": 60,
+      "id": "6f335fb5b31b44c1",
+      "styleAttributes": {
+      },
+      "text": "",
+      "type": "text",
+      "width": 260,
+      "x": -560,
+      "y": -840
+    },
+    {
+      "file": "Images/Pasted image 20250225114832.png",
+      "height": 450,
+      "id": "fe8846d53db1b550",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 780,
+      "x": -700,
+      "y": -1040
+    },
+    {
+      "file": "Images/Pasted image 20250225115008.png",
+      "height": 403,
+      "id": "77a1238fcf5cc008",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 780,
+      "x": -700,
+      "y": -1443
+    }
+  ]
+}

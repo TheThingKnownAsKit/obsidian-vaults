@@ -1,0 +1,47 @@
+f![[Week 02 - FINA 361H & RAIK 381H - Chapter 3.pdf]]
+
+## Free Cash Flow
+$$FCF=operating\ cash\ flow-investing\ cash\ flow$$
+OR
+$$FCF=EBIT*(1-t)+depreciation-CAPEX-increase\ in\ NOWC$$
+
+<mark style="background: #ADCCFFA6;">EBIT</mark> stands for earnings before interest and taxes. Sometimes given on directly on an income statement
+EBIT(1-T) is sometime referred to as <mark style="background: #ADCCFFA6;">NOPAT</mark> or net operating profit after taxes. The profit a company would generate if it had no debt and held only operating assets
+<mark style="background: #ADCCFFA6;">T</mark> is tax percentage rate. Essentially net operating profit with taxes added back in
+Depreciation and amortization are <mark style="background: #BBFABBA6;">added back because these are noncash expenses that reduce EBIT but do not reduce the amount of cash the company has available to pay its investors.</mark>
+
+<mark style="background: #ADCCFFA6;">CAPEX</mark> or capital expenditures are funds used by a company to acquire, upgrade, and maintain physical assets
+$$CAPEX_{t+1}=PPE_{t+1}-PPE_{t}+Depreciation_{t+1}$$
+Where PPE stands for property, plant, and equipment. 
+
+<mark style="background: #ADCCFFA6;">NOWC</mark> stands for net operating working capital (NOWC) is the same as net working capital except it excludes notes payable
+$$NOWC=(Accounts\ Receivable+Inventories)-(Accounts\ Payable+Accruals)$$
+Accruals are things like wages & taxes
+<mark style="background: #BBFABBA6;">Note that it is an INCREASE in NOWC we want, so subtract new NOWC from old NOWC</mark>
+new - old in the NOWC calculation
+
+## Retained Earnings
+$$RE=\sum^{n}_{t=s} Retained\ Earnings_{t-1}+Net\ Income_{t}-\ Dividends_{t}$$
+Where s is the starting year, n is the ending year (usually current year)
+
+## Individual Taxes
+You take your income, subtract the appropriate deduction, and consult the tax rates
+
+$Taxable\ Income=Income-Deduction$
+$$Taxes=Taxable\ Income*Tax\ Bracket $$
+
+| Rate | Bracket Begins | Bracket Ends |
+| ---- | -------------- | ------------ |
+| 10%  | 0              | $11,600      |
+| 12%  | $11,600        | $47,150      |
+| 22%  | $47,150        | $100,525     |
+| 24%  | $100,525       | $191,950     |
+| 32%  | $191,950       | $243,725     |
+| 35%  | $243,725       | $609,350     |
+| 37%  | $609,350+      |              |
+The way it works is you tax the first 11,600 of your taxable income at 10%, then the next (47150 - 11600) 33550 at 12%, and so on until you've taxed all of it
+![[Pasted image 20250131172615.png]]
+
+![[Pasted image 20250131153009.png]]
+
+<mark style="background: #ADCCFFA6;">Marginal tax rate</mark> is the highest tax bracket you will be taxed at

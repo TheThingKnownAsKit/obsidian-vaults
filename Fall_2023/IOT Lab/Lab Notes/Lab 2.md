@@ -1,0 +1,4 @@
+* I got stuck during task 2 trying to figure out just how to make a second TC object. I didn't understand it at all and the datasheet didn't help. This was mostly due to me not knowing C++ that well. I took a few hours to learn some basic C++ and then after another hour or so of trying to write the actual code, I figured it out.
+* Learn some C
+
+**When using NPWM or NFRQ, the top value is determined by the counter mode. In 8-bit mode, the Period register (PER) is used as the top value and the top value can be changed by writing to the PER register. In 16- and 32-bit mode, the top value is fixed to the maximum value of the counter.**

@@ -1,0 +1,25 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Tally Price:": "number",
+    "date": "date",
+    "date released": "date",
+    "edge_intensity": "number",
+    "scale_intensity": "number",
+    "knock_intensity": "number",
+    "lantern_intensity": "number",
+    "rose_intensity": "number",
+    "sky_intensity": "number",
+    "skill_level": "number",
+    "moon_intensity": "number",
+    "winter_intensity": "number",
+    "moth_intensity": "number",
+    "nectar_intensity": "number",
+    "heart_intensity": "number",
+    "grail_intensity": "number",
+    "mystery_intensity": "number",
+    "cost": "number"
+  }
+}

@@ -169,8 +169,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -183,23 +183,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "cmdr:Git: Commit-and-sync": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "cmdr:Git: Commit-and-sync": false
     }
   },
   "active": "3a3f5b1bf7d55bde",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "RAIK-381H, Finance/Homework/HW 3.md",
+    "Attachments/Week 05 - FINA 361H & RAIK 381H - Chapter 7.pdf",
+    "CSCE-322, Programming Language Concepts/REGEX Cheatsheet.pdf",
+    "Attachments/4.4-Inverse-of-a-Matrix-COMPLETE.pdf",
+    "RAIK-381H, Finance/Lectures/2-25-2025, Chapter 7.md",
+    "MATH-314, Linear Algebra/Lectures/2-26-2025, 4.4 The Inverse of a Matrix.md",
+    "Attachments/Pasted image 20250226192357.png",
+    "Attachments/Pasted image 20250226192343.png",
+    "Attachments/Pasted image 20250226192328.png",
+    "Attachments/Pasted image 20250226192313.png",
     "RAIK-381H, Finance/Lectures/2-4-2025, Chapter 5A.md",
     "RAIK-381H, Finance/Lectures/1-30-2025, Chapter 3.md",
-    "RAIK-381H, Finance/Homework/HW 3.md",
     "RAIK-381H, Finance/Homework/HW 2.md",
     "RAIK-381H, Finance/Lectures/1-23-2025, Chapter 2.md",
     "RAIK-381H, Finance/Lectures/1-21-2025, Chapter 1.md",
@@ -216,9 +225,6 @@
     "MATH-314, Linear Algebra/Lectures/2-24-2025, 4.3 Homogenous Linear Systems.md",
     "MATH-314, Linear Algebra/Lectures/2-12-2025, 3.1 Linear Combinations of Vectors and their Span, 3.2 Linear Independence.md",
     "Attachments/06 K-Nearest Neighbor.pdf",
-    "Attachments/4.1-Matrix-Operations-COMPLETE.pdf",
-    "Attachments/4.3-Homogeneous-Linear-Systems-COMPLETE.pdf",
-    "Attachments/4.3-Homogeneous-Linear-Systems-COMPLETE 1.pdf",
     "RAIK-370H, Data & Models II/Lectures/2-20-2025, K-Means Clustering.md",
     "RAIK-370H, Data & Models II/Lectures/2-18-2025, K-Nearest Neighbor.md",
     "MATH-314, Linear Algebra/Lectures/2-19-2025, 4.1 Matrix Operations.md",
@@ -233,15 +239,8 @@
     "Attachments/Pasted image 20250224103341.png",
     "Attachments/Pasted image 20250224103144.png",
     "Attachments/Pasted image 20250224103114.png",
-    "Attachments/Pasted image 20250224103103.png",
-    "Attachments/Pasted image 20250224093950.png",
-    "Attachments/Pasted image 20250224093840.png",
-    "Attachments/Pasted image 20250224093830.png",
     "RAIK-370H, Data & Models II/Lectures/2-6-2025, Performance Metrics.md",
     "RAIK-370H, Data & Models II/Lectures/1-23-2025, Naive Bayes.md",
-    "MATH-314, Linear Algebra/Lectures/2-10-2025, 2.3 Gaussian Elimination and Rank.md",
-    "RAIK-370H, Data & Models II/Lectures/1-28-2025, Decision Tree Entropy.md",
-    "RAIK-370H, Data & Models II/Lectures/2-4-2025, Decision Tree ID3.md",
-    "CSCE-322, Programming Language Concepts/Lectures/2-10-2025, Formal Languages and Grammar.md"
+    "MATH-314, Linear Algebra/Lectures/2-10-2025, 2.3 Gaussian Elimination and Rank.md"
   ]
 }

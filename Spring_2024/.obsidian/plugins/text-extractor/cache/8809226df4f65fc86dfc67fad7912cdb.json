@@ -1,0 +1,1 @@
+{"path":"Images/Pasted image 20240331160238.png","text":"SOLUTION Notice that the ratio is 0.95 and the first term is 33. The series converges since [0.95| < 1. What it converges to is 33/(1 — 0.95). The sum 334 33-0.95+33-0.952 + --- + 33 .0.95% of the first 51 terms is 51 R","libVersion":"0.3.1","langs":"eng"}

@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "335dc23a32668cce",
+    "type": "split",
+    "children": [
+      {
+        "id": "b87d0cc18b067bd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63de032051a3955f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IOT Lab/Remade PDFs/CSCE 438 - 838 Lab 6 Automating Things.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "693562b7bd337c69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring 2024 Time Table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fab40a1b2312901e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring 2024 Time Table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee05ad6b12eab791",
+    "type": "split",
+    "children": [
+      {
+        "id": "e04897a0a184cade",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0abd2a1c8468dc53",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c9bb5ead150d8c14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d77092d71d6cbaf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235.5
+  },
+  "right": {
+    "id": "f7d189afc2614003",
+    "type": "split",
+    "children": [
+      {
+        "id": "561402da34ca9741",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5d7f7afe02e02ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spring 2024 Time Table.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4efbf840166c309",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Spring 2024 Time Table.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "94585306c68ace9a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "78123703c55ad38b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spring 2024 Time Table.md"
+              }
+            }
+          },
+          {
+            "id": "17c0d3fe6d8a3be0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "remotely-save:Remotely Save": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "fab40a1b2312901e",
+  "lastOpenFiles": [
+    "Fall 2023 Time Table.md",
+    "Spring 2024 Time Table.md",
+    "IOT Lab/Remade PDFs/CSCE 438 - 838 Lab 1 Watchdog Timer.md",
+    "IOT Lab/TODO.md",
+    "IOT Lab/Remade PDFs/CSCE 438 - 838 Lab 6 Automating Things.md",
+    "IOT Lab/Remade PDFs/CSCE 438 - 838 Lab 5 Connecting IoT to the Cloud with MS Azure.md",
+    "IOT Lab/Remade PDFs/CSCE 438 - 838 Lab 4 Connecting Things to the Internet.md",
+    "IOT Lab/Remade PDFs/CSCE 438 - 838 Lab 3 IoT System Integration.md",
+    "IOT Lab/Remade PDFs/CSCE 438 - 838 Lab 2 Clocks, Timers, and Interrupts.md",
+    "IOT Lab/Remade PDFs/CSCE 438 - 838 Arduino Installation and Setup.md",
+    "Deliverables/PDF Creation Details.md",
+    "Deliverables/Rubric Rough Drafts.md",
+    "Deliverables/CSS Snippets/removeSpaceBeforeList.css",
+    "Deliverables/CSS Snippets/imageBorderSnippet.css",
+    "Deliverables/CSS Snippets",
+    "Deliverables",
+    "Images/Pasted image 20240227132127.png",
+    "Images/Pasted image 20240226153925.png",
+    "Images/Pasted image 20240226153553.png",
+    "Images/Pasted image 20240226152620.png",
+    "Images/Pasted image 20240221150340.png",
+    "Images/Screenshot 2024-02-20 154825.png",
+    "Images/Pasted image 20240220151926.png",
+    "Images/Pasted image 20240220150342.png",
+    "Images/Pasted image 20240220145740.png",
+    "Images/Lab 4/HubCreationMenu.png",
+    "IOT Lab/Notes on PDFs.md",
+    "IOT Lab/WIP/Submission Instructions.md",
+    "IOT Lab/STEPS TO GET CLOUD ARDUINO WORKING.md",
+    "IOT Lab/Untitled",
+    "IOT Lab/WIP",
+    "IOT Lab/Notes.md",
+    "IOT Lab/Reset.md",
+    "Excalidraw/Clock System Diagram.md",
+    "Excalidraw/WDT Diagram.md",
+    "Images/Lab 4",
+    "Untitled.canvas",
+    "Images/Lab 3",
+    "Kickoff Notes.md",
+    "IOT Lab/Lab Notes/Lab 2.md",
+    "IOT Lab/Lab Documentation/Lab 2 Documentation.md",
+    "IOT Lab/Lab Documentation/Lab 1 Documentation.md",
+    "Images/Lab 2",
+    "Spring 2024 Time Table.tex",
+    "IOT Lab/Lab Notes/Lab 1.md",
+    "Welcome.md"
+  ]
+}
