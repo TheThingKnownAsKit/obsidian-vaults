@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "4bab25d73757ab4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6078934feff650d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28ac5e782eaa9e32",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1c7e3c14cb64b1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8abe0ec45cedef37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbc4cece05306f63",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7a2cd3cde8c8a94f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fb6dbbd1f0a724cf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8040dd0381655b7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "084a4add61a53b35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "499cccb1a00662a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "14b2c7372211ffe9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d141e845805c99b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d2865cf98ec7a5ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false,
+      "cmdr:Git: Commit-and-sync": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "28ac5e782eaa9e32",
+  "lastOpenFiles": [
+    "Attachments/01 Naive Bayes-EllaMLaptop.pdf",
+    "Attachments/1.1-Intro-to-Vectors-COMPLETE-EllaMLaptop.pdf",
+    "CSCE-322, Programming Language Concepts/Lectures/Lecture 6 Parsers.md",
+    "Attachments/Pasted image 20250228111108.png",
+    "CSCE-322, Programming Language Concepts/Lectures/Lecture 4 Language Recognition.md",
+    "CSCE-322, Programming Language Concepts/Lectures/Lecture 3 Context Free Grammars and Language Generation.md",
+    "CSCE-322, Programming Language Concepts/Lectures/todo.md",
+    "CSCE-322, Programming Language Concepts/Lectures/Lecture 6 - Copy.md",
+    "CSCE-322, Programming Language Concepts/Lectures/Lecture 4 Language Recognition - Copy.md",
+    "CSCE-322, Programming Language Concepts/Lectures/Lecture 3 Context Free Grammars and Language Generation - Copy.md",
+    "CSCE-322, Programming Language Concepts/Lectures/2-14-2025.md",
+    "MATH-314, Linear Algebra/Lectures/2-19-2025, 4.2 Linear Systems as Matrix and Linear Combination Equations.md",
+    "CSCE-322, Programming Language Concepts/Lectures/2-10-2025, Formal Languages and Grammar - Copy.md",
+    "CSCE-322, Programming Language Concepts/Lectures/2-7-2025, Syntax, Semantics, and Binding - Copy.md",
+    "CSCE-322, Programming Language Concepts/Lectures/1-27-2025, Programming Domains and Language Evaluation Criteria - Copy.md",
+    "CSCE-322, Programming Language Concepts/Lectures/1-22-2025, Course Overview - Copy.md",
+    "Style Guide - Copy.md",
+    "Latex Cheat Sheet - Copy.pdf",
+    "conflict-files-obsidian-git.md",
+    "MATH-314, Linear Algebra/Lectures/2-17-2025, 3.2 Linear Independence.md",
+    "MATH-314, Linear Algebra/Lectures/2-26-2025, 4.4 The Inverse of a Matrix.md",
+    "MATH-314, Linear Algebra/Lectures/2-12-2025, 3.1 Linear Combinations of Vectors and their Span, 3.2 Linear Independence.md",
+    "MATH-314, Linear Algebra/Lectures/2-19-2025, 4.1 Matrix Operations.md",
+    "MATH-314, Linear Algebra/Lectures/1-27-2025, 1.2 Unit Vectors, Dot Product, Orthogonal Projection.md",
+    "MATH-314, Linear Algebra/Lectures/2-3-2025, 2.1 Introduction to Systems of Linear Equations.md",
+    "MATH-314, Linear Algebra/Lectures/2-24-2025, 4.3 Homogenous Linear Systems.md",
+    "MATH-314, Linear Algebra/Lectures/2-24-2025, 4.3 Homogenous Linear Systems - Copy.md",
+    "MATH-314, Linear Algebra/Lectures/2-26-2025, 4.4 The Inverse of a Matrix - Copy.md"
+  ]
+}

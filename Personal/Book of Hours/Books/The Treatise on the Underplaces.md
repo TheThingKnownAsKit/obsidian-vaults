@@ -15,7 +15,7 @@ read?: no
 > The Treatise on Underplaces
 > Herein, the seventeenth-century mystic and antiquarian Claude Hersault describes the 'Bounds' or 'Underplaces' on the borders of dream. He warns that they shift over time.
 > 
-> **Location:** [[Watchman's Tower - Observatory]]
+> **Location:** [[Watchman's Tower - First Floor]]
 > **Memory(s):** 
 
 > [!warning] Investigation

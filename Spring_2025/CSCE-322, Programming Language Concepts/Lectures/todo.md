@@ -1,1 +1,0 @@
-rewrite these to just be notes on the same slides because for some reason multiple lectures all fall under one lecture category and its awful here
