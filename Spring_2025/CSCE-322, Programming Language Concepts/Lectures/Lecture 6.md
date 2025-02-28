@@ -1,9 +1,16 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Language implementation systems must analyze source code, regardless of the specific implementation approach. Nearly all syntax analysis is based on a formal description of the syntax of the source language (BNF)
 =======
+=======
+![[Lecture6-Lexical and Syntax Analysis_01.pdf]]
+
+>>>>>>> origin/main
 Language implementation systems must analyze source code, regardless of the specific implementation approach. Nearly all syntax analysis is based on a formal description of the syntax of the source language (BNF)
 
 ---
+
+![[Lecture6-Lexical and Syntax Analysis_02.pdf]]
 
 Goals of the parser, given an input program:
 - Find all syntax errors; for each, produce an appropriate diagnostic message and recover quickly

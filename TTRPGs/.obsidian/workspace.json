@@ -164,6 +164,16 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "bda1c684f73314c1",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
