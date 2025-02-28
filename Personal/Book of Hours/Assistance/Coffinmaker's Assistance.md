@@ -11,6 +11,8 @@ winter_intensity: 2
 
 > [!summary] Description
 > 
+> **Obtained:** Give Winter to the house
+> 
 > Coffinmaker's Assistance
 > A tamer of trees, a worker of woods, a consigner of cadavers. He has also been known to try his hand, very diffidently, at poetry. [Make use of the Coffinmaker's help before dawn.]
 

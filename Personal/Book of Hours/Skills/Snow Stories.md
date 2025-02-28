@@ -3,9 +3,9 @@ tags:
   - Skill
   - Moon
   - Winter
-skill_level: 1
-moon_intensity: 1
-winter_intensity: 2
+skill_level: 2
+moon_intensity: 2
+winter_intensity: 3
 ---
 
 > [!summary] Description

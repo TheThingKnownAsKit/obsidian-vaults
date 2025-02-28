@@ -5,15 +5,15 @@ tags:
   - Readable
   - Codex
   - BaronialPeriod
-mystery: Scale
-mystery_intensity: 6
+mystery: Knock
+mystery_intensity: 12
 read?: no
 ---
 
 > [!info] Info
 > 
-> The Republic of Teeth
-> An eccentric political tract by Valentine Dewulf.
+> OGHKOR OGHKOR TISSILAK OGHKOR
+> A surprisingly chatty text by an entity that identifies itself as 'the Excellency Gnathobasis'.
 > 
 > **Location:** [[Watchman's Tower - First Floor]]
 > **Memory(s):** 
