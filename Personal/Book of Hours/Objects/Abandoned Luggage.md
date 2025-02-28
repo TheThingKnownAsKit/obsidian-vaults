@@ -14,7 +14,7 @@ rose_intensity: 1
 > [!info] Info
 > 
 > **Location(s):** 
-> **Recipe(s):** 
+> **Acquired From:** A Walk on the Moor
 > **Memory(s):** 
 
 > [!summary] Description

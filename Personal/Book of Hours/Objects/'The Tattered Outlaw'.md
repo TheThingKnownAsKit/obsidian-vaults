@@ -11,7 +11,7 @@ scale_intensity: 1
 > [!info] Info
 > 
 > **Location(s):** [[Watchman's Tower - Gatehouse]]
-> **Recipe(s):** 
+> **Acquired From:** N/A
 > **Memory(s):** [[Sight]]
 
 > [!summary] Description

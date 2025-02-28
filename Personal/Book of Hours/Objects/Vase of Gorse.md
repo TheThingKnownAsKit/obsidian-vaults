@@ -12,7 +12,7 @@ nectar_intensity: 1
 > [!info] Info
 > 
 > **Location(s):** [[Watchman's Tower - Gatehouse]]
-> **Recipe(s):** 
+> **Acquired From:** N/A
 > **Memory(s):** [[Touch]], destroys item
 
 > [!summary] Description

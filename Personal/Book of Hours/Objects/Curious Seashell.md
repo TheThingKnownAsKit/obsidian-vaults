@@ -12,10 +12,8 @@ scale_intensity: 1
 > [!info] Info
 > 
 > **Location(s):** [[Keeper's Lodge]]
-> **Recipe(s):** 
+> **Acquired From:** Beachcombing
 > **Memory(s):** 
-> 
-> Beachcombing
 
 > [!summary] Description
 > 

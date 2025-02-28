@@ -9,7 +9,7 @@ sky_intensity: 1
 > [!info] Info
 > 
 > **Location(s):** [[Watchman's Tower - Observatory]]
-> **Recipe(s):** 
+> **Acquired From:** N/A
 > **Memory(s):** [[Touch]]
 
 > [!summary] Description

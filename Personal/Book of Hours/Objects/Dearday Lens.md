@@ -18,8 +18,8 @@ forge_intensity: 1
 
 > [!info] Info
 > 
-> **Location(s):** [[Watchman's Tower - Observatory]]
-> **Recipe(s):** 
+> **Location(s):** 
+> **Acquired From:** 
 > **Memory(s):** 
 
 > [!summary] Description

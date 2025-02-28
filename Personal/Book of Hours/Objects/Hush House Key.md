@@ -12,7 +12,7 @@ winter_intensity: 3
 > [!info] Info
 > 
 > **Location(s):** [[Keeper's Lodge]]
-> **Recipe(s):** 
+> **Acquired From:** N/A
 > **Memory(s):** [[Sound]]
 
 > [!summary] Description

@@ -5,12 +5,20 @@ tags:
 
 > [!info] Info
 > 
-> **Required:** Soul
-> **Accepted:** Correspondence, Thing
-> **Not Accepted:** Fatigued, Malady
-> **Location:** [[Keeper's Lodge]] 
+> Lodge Fireplace
+> Fire always accepts gifts. And boils the kettle for tea.
+> 
+> **Required Input:** Soul, Thing
+> **Accepted Forms:**
+> *Soul:* All
+> *Thing:* Thing, Correspondence
+> 
+> **Not Accepted**: 
+> *Soul:* Fatigued, Malady
+> 
+> **Location:** [[Keeper's Lodge]]
 
 > [!abstract] Recipes
-> 
-
+> N/A
+>
 

@@ -19,7 +19,7 @@ heart_intensity: 1
 > [!info] Info
 > 
 > **Location(s):** 
-> **Recipe(s):** 
+> **Acquired From:** N/A
 > **Memory(s):** [[Sight]], destroys the item
 
 > [!summary] Description

@@ -9,7 +9,7 @@ rose_intensity: 1
 > [!info] Info
 > 
 > **Location(s):** [[Watchman's Tower - First Floor]]
-> **Recipe(s):** 
+> **Acquired From:** Luggage I think
 > **Memory(s):** N/A
 
 > [!summary] Description

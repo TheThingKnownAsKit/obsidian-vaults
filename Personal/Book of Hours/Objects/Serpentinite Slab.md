@@ -13,7 +13,7 @@ scale_intensity: 1
 > [!info] Info
 > 
 > **Location(s):** NA
-> **Recipe(s):** 
+> **Acquired From:** N/A
 > **Memory(s):** [[Touch]]
 
 > [!summary] Description

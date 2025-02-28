@@ -9,7 +9,7 @@ moon_intensity: 1
 > [!info] Info
 > 
 > **Location(s):** [[Watchman's Tower - First Floor]]
-> **Recipe(s):** 
+> **Acquired From:** N/A
 > **Memory(s):** [[Touch]]
 
 > [!summary] Description

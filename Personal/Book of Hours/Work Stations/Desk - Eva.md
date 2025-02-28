@@ -5,13 +5,41 @@ tags:
 
 > [!info] Info
 > 
-> **Required:** Soul, Skill, Memory | (Edge, Grail, Moon, or Winter)
-> **Accepted:** Readable, Blank, Tool, Ink
-> **Not Accepted:** Phonograph Record, Reel of Film, Fatigued
+> Desk: Eva
+> A magnificent eighteenth-century secretary desk commissioned for Lady Eva Dewulf, last of the Brancrug Dewulfs.
+> 
+> **Required Input:** Soul, Skill, Memory
+> **Accepted Forms:**
+> *Soul, Skill, and Memory:* Edge, Grail, Moon, Winter
+> *Papers:* Readable, Blank
+> *With:* Tool, Ink
+> 
+> **Not Accepted:** 
+> *Papers:* Phonograph Record, Reel of Film
+> *With:* Fatigued
+> 
 > **Location:** [[Watchman's Tower - First Floor]]
 
 > [!abstract] Recipes
 > 
-> **Prentice-Level:** Winter, [[Bittersweet Certainty]]
-
+> >[!example] Edge
+> >**Prentice-Level:** 
+> >**Scholar-Level:** 
+> >**Keeper-Level:** 
+> 
+> >[!example] Grail
+> >**Prentice-Level:** 
+> >**Scholar-Level:** 
+> >**Keeper-Level:** 
+> 
+> >[!example] Moon
+> >**Prentice-Level:** 
+> >**Scholar-Level:** 
+> >**Keeper-Level:** 
+> 
+> >[!example] Winter
+> >**Prentice-Level:** [[Bittersweet Certainty]]
+> >**Scholar-Level:** 
+> >**Keeper-Level:** 
+>
 
