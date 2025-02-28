@@ -9,7 +9,13 @@ heart_intensity: 2
 knock_intensity: 1
 ---
 
-> [!summary] Description
+> [!info] Description
 > 
 > Surgeries & Exsanguinations
 > Surgery entails the flow of blood, and the flow of blood entails purification, but the door also opens the other way.
+
+> [!summary] Recipes
+> 
+> **Prentice-Level:** 
+> *Heart:* 
+> *Knock:* 

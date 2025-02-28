@@ -14,8 +14,6 @@ tags:
 > 
 > **Location:** [[Keeper's Lodge]]
 
-> [!abstract] Recipes
-> 
-> 
+
 
 

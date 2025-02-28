@@ -20,26 +20,4 @@ tags:
 > 
 > **Location:** [[Watchman's Tower - Observatory]]
 
-> [!abstract] Recipes
-> 
-> >[!example] Forge
-> >**Prentice-Level:** 
-> >**Scholar-Level:** 
-> >**Keeper-Level:** 
-> 
-> >[!example] Moon
-> >**Prentice-Level:** 
-> >**Scholar-Level:** 
-> >**Keeper-Level:** 
-> 
-> >[!example] Rose
-> >**Prentice-Level:** 
-> >**Scholar-Level:** 
-> >**Keeper-Level:** 
-> 
-> >[!example] Sky
-> >**Prentice-Level:** 
-> >**Scholar-Level:** 
-> >**Keeper-Level:** 
->
 

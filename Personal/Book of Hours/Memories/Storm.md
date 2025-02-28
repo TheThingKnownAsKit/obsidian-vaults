@@ -9,7 +9,7 @@ sky_intensity: 2
 
 > [!info] Obtained From
 > 
-> [[Apollo and Marsyas]]
+> Reading [[Apollo and Marsyas]]
 > 
 
 > [!abstract] Description

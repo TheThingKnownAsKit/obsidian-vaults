@@ -12,7 +12,7 @@ forge_intensity: 1
 > 
 > **Location(s):** [[Watchman's Tower - First Floor]]
 > **Acquired From:** Prentice-level forge in [[Telescope]] 
-> **Memory(s):** 
+> **Memory(s):** [[Foresight]]
 
 > [!summary] Description
 > 

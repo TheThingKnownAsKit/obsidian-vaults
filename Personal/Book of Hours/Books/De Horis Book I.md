@@ -8,7 +8,7 @@ tags:
   - WrittenInLatin
 mystery: Nectar
 mystery_intensity: 4
-read?: no
+read?: yes
 ---
 
 > [!info] Info

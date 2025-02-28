@@ -19,27 +19,3 @@ tags:
 > *With:* Fatigued
 > 
 > **Location:** [[Watchman's Tower - First Floor]]
-
-> [!abstract] Recipes
-> 
-> >[!example] Edge
-> >**Prentice-Level:** 
-> >**Scholar-Level:** 
-> >**Keeper-Level:** 
-> 
-> >[!example] Grail
-> >**Prentice-Level:** 
-> >**Scholar-Level:** 
-> >**Keeper-Level:** 
-> 
-> >[!example] Moon
-> >**Prentice-Level:** 
-> >**Scholar-Level:** 
-> >**Keeper-Level:** 
-> 
-> >[!example] Winter
-> >**Prentice-Level:** [[Bittersweet Certainty]]
-> >**Scholar-Level:** 
-> >**Keeper-Level:** 
->
-

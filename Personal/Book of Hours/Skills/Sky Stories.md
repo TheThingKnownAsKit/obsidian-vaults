@@ -8,7 +8,13 @@ rose_intensity: 1
 sky_intensity: 2
 ---
 
-> [!summary] Description
+> [!info] Description
 > 
 > Sky Stories
 > The nine winds gossip, and sometimes we can listen.
+
+> [!summary] Recipes
+> 
+> **Prentice-Level:**
+> *Rose:* 
+> *Sky:* [[Wistful Air]]

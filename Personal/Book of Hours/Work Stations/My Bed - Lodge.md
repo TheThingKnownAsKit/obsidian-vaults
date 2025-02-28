@@ -18,26 +18,5 @@ tags:
 > 
 > **Location:** [[Keeper's Lodge]]
 
-> [!abstract] Recipes
-> 
-> >[!example] Forge
-> >**Prentice-Level:** 
-> >**Scholar-Level:** 
-> >**Keeper-Level:** 
-> 
-> >[!example] Heart
-> >**Prentice-Level:** 
-> >**Scholar-Level:** 
-> >**Keeper-Level:** 
-> 
-> >[!example] Knock
-> >**Prentice-Level:** 
-> >**Scholar-Level:** 
-> >**Keeper-Level:** 
-> 
-> >[!example] Scale
-> >**Prentice-Level:** 
-> >**Scholar-Level:** 
-> >**Keeper-Level:** 
->
+
 

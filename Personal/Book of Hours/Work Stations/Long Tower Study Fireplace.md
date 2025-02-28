@@ -5,8 +5,8 @@ tags:
 
 > [!info] Info
 > 
-> Lodge Fireplace
-> Fire always accepts gifts. And boils the kettle for tea.
+> Long Tower Study Fireplace
+> The fireplace doesn't exactly warm the room, but it keeps the chill more or less at bay.
 > 
 > **Required Input:** Soul, Thing
 > **Accepted Forms:**
@@ -16,6 +16,5 @@ tags:
 > **Not Accepted**: 
 > *Soul:* Fatigued, Malady
 > 
-> **Location:** [[Keeper's Lodge]]
-
+> **Location:** [[Long Tower - Solomon's Study]]
 

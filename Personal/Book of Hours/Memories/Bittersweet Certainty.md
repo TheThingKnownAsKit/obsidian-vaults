@@ -10,7 +10,7 @@ winter_intensity: 2
 
 > [!info] Obtained From
 > 
-> Prentice-level recipe in [[Desk - Eva]]
+> Prentice-level recipe with [[Snow Stories]]
 > 
 
 > [!abstract] Description

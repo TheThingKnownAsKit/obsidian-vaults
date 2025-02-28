@@ -8,7 +8,14 @@ moon_intensity: 2
 winter_intensity: 3
 ---
 
-> [!summary] Description
+> [!info] Description
 > 
 > Rhyme & Remembrance
 > To speak with the dead; to torment the living; to celebrate both.
+
+> [!summary] Recipes
+> 
+> **Prentice-Level:**
+> *Moon:* [[Midnight Mark]]
+> *Winter:* [[Bittersweet Certainty]]
+

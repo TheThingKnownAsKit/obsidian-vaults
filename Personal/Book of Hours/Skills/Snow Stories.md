@@ -8,7 +8,13 @@ moon_intensity: 2
 winter_intensity: 3
 ---
 
-> [!summary] Description
+> [!info] Description
 > 
 > Snow Stories
 > Of wind, woe, and winter.
+
+> [!summary] Recipes
+> 
+> **Prentice-Level:** 
+> *Moon:* [[Midnight Mark]]
+> *Winter:* [[Bittersweet Certainty]]
