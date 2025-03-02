@@ -10,7 +10,7 @@ moon_intensity: 1
 
 > [!info] Info
 > 
-> **Location(s):** [[Long Tower - Solomon's Study]] x2
+> **Location(s):** [[Long Tower - Solomon's Study]] x2 and [[Long Tower - Solomon's Quarters]] x2
 > **Acquired From:** N/A
 > **Memory(s):** 
 

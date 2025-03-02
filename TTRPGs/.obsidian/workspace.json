@@ -23,6 +23,23 @@
             }
           },
           {
+            "id": "835a4d426daa2861",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "TMA TTRPG/GMSpace.canvas",
+                "viewState": {
+                  "x": -105.55276634753915,
+                  "y": -992.1164204244315,
+                  "zoom": -0.49236250388364017
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "GMSpace"
+            }
+          },
+          {
             "id": "143e26ebca136304",
             "type": "leaf",
             "state": {
@@ -34,7 +51,8 @@
               "title": "Rulebook"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,13 +212,23 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
+          },
+          {
+            "id": "0088daa6ad93911a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,10 +246,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9158e85d022901c3",
+  "active": "835a4d426daa2861",
   "lastOpenFiles": [
     "TMA TTRPG/GMSpace.canvas",
     "TMA TTRPG/Episodes/Episode 1 - FleshTech.md",
+    "TMA TTRPG/Lore/The Machine.md",
     "TMA TTRPG/PDFs/Rulebook.pdf",
     "TMA TTRPG/Episodes/Episode 2 - Train Time.md",
     "TMA TTRPG/Characters/Charlotte Barriault.md",

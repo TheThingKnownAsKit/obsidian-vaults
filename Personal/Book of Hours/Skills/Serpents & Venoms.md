@@ -16,6 +16,6 @@ scale_intensity: 2
 > [!summary] Recipes
 > 
 > **Prentice-Level:**
-> *Moon:* 
-> *Scale:* 
+> *Moon:* [[Midnight Mark]]
+> *Scale:* [[Bisclavret's Knot]]
 

@@ -15,7 +15,7 @@ nectar_intensity: 1
 
 > [!info] Info
 > 
-> **Location(s):** 
+> **Location(s):** [[Long Tower - Solomon's Quarters]]
 > **Acquired From:** Inviting [[Rector's Assistance]] to Hush House
 > **Memory(s):** [[Sight]]
 

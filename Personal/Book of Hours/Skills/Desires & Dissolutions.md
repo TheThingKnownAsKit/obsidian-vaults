@@ -17,4 +17,4 @@ moon_intensity: 1
 > 
 > **Prentice-Level:**
 > *Grail:* [[Witching Tisane]]
-> *Moon:* 
+> *Moon:* [[Midnight Mark]]

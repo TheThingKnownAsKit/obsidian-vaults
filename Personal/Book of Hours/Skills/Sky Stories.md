@@ -16,5 +16,5 @@ sky_intensity: 2
 > [!summary] Recipes
 > 
 > **Prentice-Level:**
-> *Rose:* 
+> *Rose:* [[Confounding Parable]]
 > *Sky:* [[Wistful Air]]

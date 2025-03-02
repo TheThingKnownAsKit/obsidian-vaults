@@ -8,7 +8,7 @@ moon_intensity: 1
 
 > [!info] Info
 > 
-> **Location(s):** [[Watchman's Tower - First Floor]]
+> **Location(s):** [[St Brandan's Cloister]]
 > **Acquired From:** N/A
 > **Memory(s):** [[Touch]]
 
