@@ -11,12 +11,14 @@
             "id": "3eba894a6cd75fa5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CSCE-322, Programming Language Concepts/322 Syllabus.pdf"
+                "file": "MATH-314, Linear Algebra/Lectures/2-12-2025, 3.1 Linear Combinations of Vectors and their Span, 3.2 Linear Independence.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "322 Syllabus"
+              "icon": "lucide-file",
+              "title": "2-12-2025, 3.1 Linear Combinations of Vectors and their Span, 3.2 Linear Independence"
             }
           }
         ]
@@ -172,14 +174,15 @@
   },
   "active": "3eba894a6cd75fa5",
   "lastOpenFiles": [
-    "MATH-314, Linear Algebra/Lectures/2-19-2025, 4.2 Linear Systems as Matrix and Linear Combination Equations.md",
     "MATH-314, Linear Algebra/Lectures/2-17-2025, 3.2 Linear Independence.md",
+    "MATH-314, Linear Algebra/Lectures/2-19-2025, 4.1 Matrix Operations.md",
+    "MATH-314, Linear Algebra/Lectures/2-19-2025, 4.2 Linear Systems as Matrix and Linear Combination Equations.md",
+    "MATH-314, Linear Algebra/Lectures/2-24-2025, 4.3 Homogenous Linear Systems.md",
     "MATH-314, Linear Algebra/Lectures/2-26-2025, 4.4 The Inverse of a Matrix.md",
     "MATH-314, Linear Algebra/Lectures/2-12-2025, 3.1 Linear Combinations of Vectors and their Span, 3.2 Linear Independence.md",
-    "MATH-314, Linear Algebra/Lectures/2-19-2025, 4.1 Matrix Operations.md",
     "MATH-314, Linear Algebra/Lectures/1-27-2025, 1.2 Unit Vectors, Dot Product, Orthogonal Projection.md",
+    "CSCE-322, Programming Language Concepts/322 Syllabus.pdf",
     "MATH-314, Linear Algebra/Lectures/2-3-2025, 2.1 Introduction to Systems of Linear Equations.md",
-    "MATH-314, Linear Algebra/Lectures/2-24-2025, 4.3 Homogenous Linear Systems.md",
     "MATH-314, Linear Algebra/Lectures/2-24-2025, 4.3 Homogenous Linear Systems - Copy.md",
     "MATH-314, Linear Algebra/Lectures/2-26-2025, 4.4 The Inverse of a Matrix - Copy.md"
   ]

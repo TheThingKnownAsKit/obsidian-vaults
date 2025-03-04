@@ -23,7 +23,7 @@ Plays the orientation take which tells the following:
 	- Archives information is confidential to employees
 	- Restricted content requires supervisor permission to access
 - Resources they can and cannot use
-	- Any equipment deemed suitable by Mr. Wells
+	- Any equipment deemed suitable by your equipment supervisor
 	- Cannot access governmental resources (this is not a government agency)
 	- Transportation is provided and costs are covered
 	- Basically anything you need to facilitate your investigation can be acquired. Some will require paperwork, some is restricted due to confidential information, but otherwise it's your highest priority to investigate each incident to the fullest
@@ -116,6 +116,7 @@ General storybeats after this are
 	- Several incidents involving BB in the slums neighborhood area 
 	- Most of which corroborate what the Jimmy Young said
 	- One in particular has way more details. They lost a hand to a toaster. Follow up investigations show they're still alive (one of the few) and available for comment if you hunt them down
+		- John Dale
 	- Notably each of these say the store was located somewhere different than the others
 ## Locations
 ### Jimmy Young's Apartment
