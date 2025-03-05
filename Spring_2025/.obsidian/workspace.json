@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH-314, Linear Algebra/Lectures/2-12-2025, 3.1 Linear Combinations of Vectors and their Span, 3.2 Linear Independence.md",
+                "file": "CSCE-322, Programming Language Concepts/Exams/Midterm 1 Review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-12-2025, 3.1 Linear Combinations of Vectors and their Span, 3.2 Linear Independence"
+              "title": "Midterm 1 Review"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8040dd0381655b7e",
@@ -174,12 +174,29 @@
   },
   "active": "3eba894a6cd75fa5",
   "lastOpenFiles": [
+    "RAIK-370H, Data & Models II/Exams/Midterm 1 Master Document.md",
+    "CSCE-322, Programming Language Concepts/Exams/Midterm 1 Review.md",
+    "CSCE-322, Programming Language Concepts/Exams",
+    "Attachments/Pasted image 20250304195104.png",
+    "Attachments/Pasted image 20250304194255.png",
+    "RAIK-370H, Data & Models II/Lectures/2-4-2025, Decision Tree ID3.md",
+    "RAIK-370H, Data & Models II/Lectures/1-28-2025, Decision Tree Entropy.md",
+    "RAIK-370H, Data & Models II/Lectures/2-6-2025, Performance Metrics.md",
+    "Attachments/Pasted image 20250304184751.png",
+    "Attachments/Pasted image 20250304184703.png",
+    "Attachments/Pasted image 20250304184630.png",
+    "Attachments/Pasted image 20250304183820.png",
+    "RAIK-370H, Data & Models II/Lectures/2-20-2025, K-Means Clustering.md",
+    "RAIK-370H, Data & Models II/Lectures/2-18-2025, K-Nearest Neighbor.md",
+    "RAIK-370H, Data & Models II/Lectures/1-23-2025, Naive Bayes.md",
+    "Latex Cheat Sheet.pdf",
+    "RAIK-370H, Data & Models II/Exams",
+    "MATH-314, Linear Algebra/Lectures/2-12-2025, 3.1 Linear Combinations of Vectors and their Span, 3.2 Linear Independence.md",
     "MATH-314, Linear Algebra/Lectures/2-17-2025, 3.2 Linear Independence.md",
     "MATH-314, Linear Algebra/Lectures/2-19-2025, 4.1 Matrix Operations.md",
     "MATH-314, Linear Algebra/Lectures/2-19-2025, 4.2 Linear Systems as Matrix and Linear Combination Equations.md",
     "MATH-314, Linear Algebra/Lectures/2-24-2025, 4.3 Homogenous Linear Systems.md",
     "MATH-314, Linear Algebra/Lectures/2-26-2025, 4.4 The Inverse of a Matrix.md",
-    "MATH-314, Linear Algebra/Lectures/2-12-2025, 3.1 Linear Combinations of Vectors and their Span, 3.2 Linear Independence.md",
     "MATH-314, Linear Algebra/Lectures/1-27-2025, 1.2 Unit Vectors, Dot Product, Orthogonal Projection.md",
     "CSCE-322, Programming Language Concepts/322 Syllabus.pdf",
     "MATH-314, Linear Algebra/Lectures/2-3-2025, 2.1 Introduction to Systems of Linear Equations.md",
