@@ -1,7 +1,7 @@
 - Decision Trees
 	- ID3 algorithm
-	- Entropy
-	- Information Gain
+		- Entropy
+		- Information Gain
 	- Application of Decision Tree ID3 algorithm (pros/cons)
 
 ## Naive Bayes
@@ -143,7 +143,7 @@ Cons:
 Unsupervised algorithm for grouping similar features based on just locality of data
 
 Steps:
-1. Initialize K randomly placed points, called centroid
+1. Initialize K randomly placed points, called centroids
 2. Compute the distance from every centroid K to every other point in the data set and assign every point in the data set to its nearest centroid
 3. Move each centroid K to the new centroid based on all assigned nearest points
 4. Repeat until no change in any centroid or until a max number of iterations reached
