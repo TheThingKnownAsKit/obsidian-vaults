@@ -8,7 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3eba894a6cd75fa5",
+            "id": "4dbad16c9c82d9fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSCE-322, Programming Language Concepts/Lectures/Lecture 6 Parsers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 6 Parsers"
+            }
+          },
+          {
+            "id": "87a75a45ca8fa287",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "CSCE-322 Midterm 1 Master Document"
-            }
-          },
-          {
-            "id": "4dbad16c9c82d9fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RAIK-370H, Data & Models II/Exams/RAIK-370H Midterm 1 Master Document.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RAIK-370H Midterm 1 Master Document"
             }
           }
         ]
@@ -186,14 +186,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3eba894a6cd75fa5",
+  "active": "4dbad16c9c82d9fe",
   "lastOpenFiles": [
+    "CSCE-322, Programming Language Concepts/Exams/CSCE-322 Midterm 1 Master Document.md",
+    "CSCE-322, Programming Language Concepts/Lectures/Lecture 6 Parsers.md",
+    "RAIK-370H, Data & Models II/Exams/RAIK-370H Midterm 1 Master Document.md",
+    "Attachments/Pasted image 20250305175849.png",
+    "Attachments/Pasted image 20250305175029.png",
+    "RAIK-370H, Data & Models II/Lectures/2-4-2025, Decision Tree ID3.md",
+    "Attachments/03 Decision Trees Part 2.pdf",
+    "RAIK-370H, Data & Models II/Lectures/1-28-2025, Decision Tree Entropy.md",
     "Attachments/Pasted image 20250305155051.png",
     "Attachments/Pasted image 20250305154950.png",
     "Attachments/Pasted image 20250305154831.png",
     "Attachments/Pasted image 20250305154808.png",
     "Latex Cheat Sheet.pdf",
-    "CSCE-322, Programming Language Concepts/Exams/CSCE-322 Midterm 1 Master Document.md",
     "CSCE-322, Programming Language Concepts/Lectures/Lecture 5.md",
     "Attachments/Pasted image 20250305154049.png",
     "Attachments/Lecture5-Ambiguity and Disambiguating Grammars.pdf",
@@ -203,20 +210,14 @@
     "Attachments/Pasted image 20250305152354.png",
     "Attachments/Pasted image 20250305152321.png",
     "CSCE-322, Programming Language Concepts/Lectures/Lecture 3 Context Free Grammars and Language Generation.md",
-    "Attachments/Pasted image 20250305151601.png",
-    "Attachments/Pasted image 20250305151518.png",
-    "Attachments/Pasted image 20250305144636.png",
     "CSCE-322, Programming Language Concepts/Lectures/2-14-2025.md",
     "CSCE-322, Programming Language Concepts/Lectures/2-10-2025, Formal Languages and Grammar.md",
     "CSCE-322, Programming Language Concepts/Lectures/2-7-2025, Syntax, Semantics, and Binding.md",
-    "RAIK-370H, Data & Models II/Exams/RAIK-370H Midterm 1 Master Document.md",
     "CSCE-322, Programming Language Concepts/Lectures/2-5-2025, Language Categories and Implementation Methods.md",
     "CSCE-322, Programming Language Concepts/Lectures/2-3-2025, Language Design Trade-Offs and Influences on Language Design.md",
     "CSCE-322, Programming Language Concepts/Lectures/1-27-2025, Programming Domains and Language Evaluation Criteria.md",
     "CSCE-322, Programming Language Concepts/Lectures/1-22-2025, Course Overview.md",
     "CSCE-322, Programming Language Concepts/Exams",
-    "RAIK-370H, Data & Models II/Lectures/2-4-2025, Decision Tree ID3.md",
-    "RAIK-370H, Data & Models II/Lectures/1-28-2025, Decision Tree Entropy.md",
     "RAIK-370H, Data & Models II/Lectures/2-6-2025, Performance Metrics.md",
     "RAIK-370H, Data & Models II/Lectures/2-20-2025, K-Means Clustering.md",
     "RAIK-370H, Data & Models II/Lectures/2-18-2025, K-Nearest Neighbor.md",

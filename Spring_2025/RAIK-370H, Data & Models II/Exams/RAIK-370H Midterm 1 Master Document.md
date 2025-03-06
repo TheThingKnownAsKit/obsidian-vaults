@@ -1,7 +1,4 @@
 - Decision Trees
-	- ID3 algorithm
-		- Entropy
-		- Information Gain
 	- Application of Decision Tree ID3 algorithm (pros/cons)
 
 ## Naive Bayes
@@ -81,17 +78,89 @@ Cons:
 
 - <mark style="background: #ADCCFFA6;">ID3 algorithm</mark>
 
+Remember this algorithm builds trees, so node language is used. Decision trees are a bit like a flow chart of if it has this certain feature, continue to this state and look at these options. <mark style="background: #BBFABBA6;">We're basically building a flowchart of most likely class selections based on features</mark>
+	Uses one columns different state options as the classes to predict another column's state kinda
+
+The basic idea of the algorithm is
+1. Calculate how "well" each feature can separate the data
+2. Select the feature that "maximally" separates data as 
+3. Recursively, split each branch on the remaining features based on how "well" they each perform
+
+A decision stump is when only a single feature is used to make a decision. It only has the root and two arms
+
 ---
 
 - <mark style="background: #ADCCFFA6;">Entropy</mark>
+
+Entropy is how uncertain you are of the outcome of something. 0-100%. It is the expected value of the information content of a random variable:
+$$H(X)=-\sum^n_{i=1}p(x_{i})*\log_{b}(p(x_{i}))$$
+- H is the uncertainty of a random variable X
+- $p(x_{i})$ is the probability of option i for column x
+- b is the number of possible options for column x (usually 2)
+
+For example, a fair coin is $H(X)=-0.5*\log_{2}(0.5)-0.5*\log_{2}=1$ which is 100% entropy or uncertainty
+
+This is also <mark style="background: #ADCCFFA6;">prior probilities</mark>. Which is basically just the entropy of one feature. I don't know what the word prior is doing here
 
 ---
 
 - <mark style="background: #ADCCFFA6;">Information Gain</mark>
 
+Using prior probabilities (which is just the probability of the individual feature you're current node value is), you can calculate information gain to maximally separate the data
+	This defines the expected reduction in uncertainty due to sorting aka splitting X on the values of v of feature F
+$$Gain(X,F)=Entropy(X)-\sum_{v\epsilon values(F)}\frac{|X_{v}|}{|X|}*Entropy(X_{v})$$
+- X is the feature we're splitting on
+- F is the current feature we're comparing it to to see how well it "maximally" splits with X
+- $X_{v}$ is every value that the feature X can be
+- Entropy(X)
+
+In words, you have two feature columns, X and F. X is static (for this specific node split anyways), and we're calculating it's information gain with F. We do this with all features remaining in this node branch, and whichever F gives the highest information gain, we split it on that
+
+For every value that feature F can be, we calculate the equivalent entropy from X's data with that feature
+
+EXAMPLE: Consider the following data
+
+| Weather | Age      | Ice Cream? |
+| ------- | -------- | ---------- |
+| Hot     | Under 30 | Yes        |
+| Hot     | Over 30  | No         |
+| Cold    | Under 30 | Yes        |
+Our starting node is Ice Cream? And we want to know if we should split it with Weather or Age
+
+**Step 1.** calculate prior entropy of Ice Cream?
+$$Entropy(Ice\ Cream)=-P(Yes)*\log_{2}(P(Yes))-P(No)*\log_{2}(P(No))$$
+Looking at the table above, just count the instances of Yes and No in the Ice Cream? column
+$$Entropy(Ice\ Cream)=-\frac{2}{3}*\log_{2}\left( \frac{2}{3} \right)-\frac{1}{3}*\log_{2}\left( \frac{1}{3} \right)=0.92$$
+
+**Step 2.** calculate information gain for the Weather feature
+In this instance, our X is the feature Ice Cream and our F is Weather
+$$Gain(Ice\ Cream,Weather)=Entropy(Ice\ Cream)-\sum_{v\epsilon(Weather)}\frac{|Ice\ Cream_{v}|}{|Ice\ Cream|}*Entropy(Ice\ Cream_{v})$$
+Firstly, we know the entropy of ice cream from step 1
+Secondly, you just put the instances of each Ice Cream state over total feature length of Ice Cream for the fraction
+
+Thirdly, to calculate the entropy of the specific feature value, do the entropy calculation but cross-reference the X column with matching values from the F column. What I mean by that is only consider Ice Cream? columns where the Weather is hot, for example
+	There's two instances of the weather being hot, and Ice Cream? is yes and no in those two, so
+	$$H(Ice\ Cream_{Hot})=-0.5*\log_{2}(0.5)-0.5*\log_{2}(0.5)=1$$
+	There's only one instance of the weather being cold, and Ice Cream? is Yes for that, so we have 0% uncertainty since there's only one option
+
+Put it all together and you get:
+$$Gain(Ice\ Cream, Weather)=Entropy(Ice\ Cream)-\frac{|Ice\ Cream_{Hot}|}{|Ice\ Cream|}*Entropy(Ice\ Cream_{Hot})-\frac{|Ice\ Cream_{Cold}|}{|Ice\ Cream|}*Entropy(Ice\ Cream_{Cold})$$
+$$Gain(Ice\ Cream, Weather)=0.92-\frac{2}{3}*1-\frac{1}{3}*0=0.25$$
+
+**Step 3.** Do it all again but instead use Age, you'll get:
+$$Gain(Ice\ Cream, Age)=0.92-\frac{2}{3}*0-\frac{1}{3}*0=0.92$$
+
+**Step 4.** Compare them. In this case, a gain of 0.92 from Age is better than a gain of 0.25 from Weather, so we select Age
+![[Pasted image 20250305175849.png]]
+
+Since there is only two other features besides Ice Cream? to split on, this is where we end
+
 ---
 
 - <mark style="background: #ADCCFFA6;">Application of Decision Tree ID3 algorithm (pros/cons)</mark>
+Pros: it's fast, easy to interpret, great with categorical data
+
+Cons: it is a greedy algorithm, it can also overfit data if there's a lot of categories in a feature (bit of a weaker con chat gave)
 
 ## Supervised and Unsupervised Learning
 
