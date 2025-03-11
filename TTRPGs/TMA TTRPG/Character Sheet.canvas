@@ -12,6 +12,17 @@
   ],
   "nodes": [
     {
+      "height": 675,
+      "id": "378e159893db3e6f",
+      "isStartNode": true,
+      "label": "Start Slide",
+      "sideRatio": 1.7777777777777777,
+      "type": "group",
+      "width": 1200,
+      "x": -120,
+      "y": -620
+    },
+    {
       "file": "TMA TTRPG/PDFs/Character Sheet.pdf",
       "height": 1000,
       "id": "f2d051684f22f67c",

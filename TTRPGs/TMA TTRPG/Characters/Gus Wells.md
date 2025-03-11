@@ -6,10 +6,7 @@ date: 2025-02-07
 aliases: 
 sheet:
 ---
-<<<<<<< HEAD
-=======
 
->>>>>>> origin/main
 > [!info] General
 > Gender, Pronouns: man, she/her
 > Sexuality: 

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4adb2c94dcc80918",
+        "id": "5b004392ad906dee",
         "type": "tabs",
         "children": [
           {
-            "id": "fa78b1a8446e96df",
+            "id": "9f8bdb13f6da2554",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book of Hours/Locations/Hush House/Practice Garden.md",
+                "file": "Book of Hours/Assistance/Coffinmaker's Assistance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Practice Garden"
+              "title": "Coffinmaker's Assistance"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"Book of Hours/Memories/\" tag:#Lantern  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book of Hours/Locations/Hush House/Practice Garden.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Practice Garden"
+              "title": "Backlinks"
             }
           },
           {
@@ -164,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,34 +179,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa78b1a8446e96df",
+  "active": "9f8bdb13f6da2554",
   "lastOpenFiles": [
-    "Book of Hours/Objects/'As Above, So Below'.md",
-    "Book of Hours/Locations/Hush House/Practice Garden.md",
-    "Book of Hours/Memories/Sunny.md",
-    "Book of Hours/Memories/Sight.md",
-    "Book of Hours/Memories/Foresight.md",
-    "Book of Hours/Memories/Bittersweet Certainty.md",
-    "Book of Hours/Objects/Bowl of Sea-Blest Pears.md",
-    "Book of Hours/Objects/Nightsky Chair.md",
-    "Book of Hours/Books/The Flayed Tantra.md",
-    "Book of Hours/Books/Sunset Celia and the End of Days.md",
-    "Book of Hours/Locations/Hush House/Watchman's Tower - First Floor.md",
-    "Book of Hours/Books/A Light in the Inkwell.md",
-    "Book of Hours/Books/Deaths and Their Evasions.md",
-    "Book of Hours/Books/Eva's Treasury.md",
-    "Book of Hours/Objects/Isle-Water (Glass).md",
+    "Book of Hours/Objects/Yew Blank.md",
+    "Book of Hours/Objects/Yeth-Hound Horns.md",
+    "Book of Hours/Objects/Writing-Case.md",
+    "Book of Hours/Objects/Witching Tisane.md",
     "Book of Hours/Objects/Widow's Candle.md",
-    "Book of Hours/Objects/'The Foundation of the Sun'.md",
-    "Book of Hours/Locations/Hush House/Long Tower - Solomon's Quarters.md",
-    "Book of Hours/Locations/Hush House/Long Tower - Solomon's Study.md",
-    "Book of Hours/Objects/'Solomon Husher'.md",
-    "Book of Hours/Locations/Hush House/Keeper's Lodge.md",
-    "Book of Hours/Assistance/Rector's Assistance.md",
-    "Book of Hours/Assistance/Untitled.md",
-    "Book of Hours/Assistance/Midwife's Assistance.md",
-    "Book of Hours/Assistance/Coffinmaker's Assistance.md",
-    "Book of Hours/Memories/Hindsight.md",
+    "Book of Hours/Objects/Whispering Sand.md",
+    "Book of Hours/Objects/Vase of Gorse.md",
+    "Book of Hours/Objects/Treasury of Shelters.md",
+    "Book of Hours/Objects/Straw-Cushioned Chair.md",
+    "Book of Hours/Objects/Starstrewn Chair.md",
+    "Book of Hours/Objects/Shaving Mirror.md",
+    "Book of Hours/Objects/Shadowless Silk.md",
+    "Book of Hours/Objects/Serpentinite Slab.md",
+    "Book of Hours/Objects/Sea Holly.md",
+    "Book of Hours/Objects/Red Deer Antlers.md",
+    "Book of Hours/Objects/Quire of Paper.md",
+    "Book of Hours/Objects/Quartz Chunk.md",
+    "Book of Hours/Objects/Potted Dragon Tree.md",
+    "Book of Hours/Objects/Pillas-Oat Bread.md",
+    "Book of Hours/Objects/Pilchards.md",
+    "Book of Hours/Objects/Perinculate.md",
+    "Book of Hours/Objects/Nivine Parchment.md",
+    "Book of Hours/Objects/Nightsky Chair.md",
+    "Book of Hours/Objects/Mist-Kissed Water (Glass).md",
+    "Book of Hours/Objects/Mirrorscope.md",
+    "Book of Hours/Objects/Midnight Mark.md",
     "Book of Hours/Memories/Untitled",
     "Zooliminology/Attachments/Pasted image 20250212002619.png~RF1dcdf1a.TMP",
     "Zooliminology/Attachments/Pasted image 20250212001818.png~RF1dcde6e.TMP",

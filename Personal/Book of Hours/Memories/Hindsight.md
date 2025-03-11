@@ -14,6 +14,6 @@ winter_intensity: 2
 
 > [!abstract] Description
 > 
-> Memory: Impulse
-> It doesn't exactly make sense - but I understand it anyway.
+> Memory: Hindsight
+> Some things we can only really understand when they're gone.
 

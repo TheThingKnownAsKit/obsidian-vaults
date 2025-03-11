@@ -8,6 +8,8 @@ Known to leave corpses in the form of wired people trapped in wire cubes (shown 
 
 Associated with The Mechanical Child ritual
 
+Level 7 monster (21)
+
 https://open.spotify.com/track/1Qfjvgiz93Zw3ePs0mVfEt?si=88ddb61dec224123
 
 ![[Pasted image 20250225111758.png]]

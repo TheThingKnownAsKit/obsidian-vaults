@@ -141,6 +141,10 @@ Not much here besides being able to find some information on how Jimmy got to wo
 ### Police Station
 Mostly an option to establish how shitty the police are. They basically do nothing if you're poor and no more useful information on the toaster victim
 
+### Factory (Not Jimmy's)
+The Wire Man is here also investigating the flesh tech. There are mostly just remains in the factory
+
+Layout is
 
 
 

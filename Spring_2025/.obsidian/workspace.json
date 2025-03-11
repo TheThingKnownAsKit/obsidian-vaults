@@ -8,31 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4dbad16c9c82d9fe",
+            "id": "5cbf76eff4970da4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE-322, Programming Language Concepts/Lectures/Lecture 6 Parsers.md",
+                "file": "RAIK-381H, Finance/Lectures/3-3-2025, Chapter 8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 6 Parsers"
+              "title": "3-3-2025, Chapter 8"
             }
           },
           {
-            "id": "87a75a45ca8fa287",
+            "id": "23d3b52c6198115c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CSCE-322, Programming Language Concepts/Exams/CSCE-322 Midterm 1 Master Document.md",
-                "mode": "source",
-                "source": false
+                "file": "Latex Cheat Sheet.pdf"
               },
-              "icon": "lucide-file",
-              "title": "CSCE-322 Midterm 1 Master Document"
+              "icon": "lucide-file-text",
+              "title": "Latex Cheat Sheet"
             }
           }
         ]
@@ -92,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8040dd0381655b7e",
@@ -186,50 +185,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4dbad16c9c82d9fe",
+  "active": "5cbf76eff4970da4",
   "lastOpenFiles": [
+    "Attachments/Week 06 - FINA 361H & RAIK 381H - Chapter 8.pdf",
+    "RAIK-381H, Finance/Lectures/3-3-2025, Chapter 8.md",
+    "Attachments/Pasted image 20250310180641.png",
+    "Attachments/Pasted image 20250310175930.png",
+    "Latex Cheat Sheet.pdf",
+    "CSCE-322, Programming Language Concepts/Topic Based Notes/Lisp, Scheme, and Racket.md",
+    "Attachments/Pasted image 20250310175409.png",
+    "Attachments/Pasted image 20250310175051.png",
+    "RAIK-381H, Finance/Lectures/2-27-2025, Chapter 7.md",
+    "CSCE-322, Programming Language Concepts/Topic Based Notes/Functional Programming Specifics.md",
+    "MATH-314, Linear Algebra/Lectures/3-10-2025, 5.2 Bases and Dimensions.md",
+    "Attachments/Pasted image 20250310110835.png",
+    "Attachments/5.2-Basis-and-Dimension-COMPLETE.pdf",
+    "Attachments/Pasted image 20250310104204.png",
+    "Attachments/Pasted image 20250310104029.png",
+    "CSCE-322, Programming Language Concepts/Topic Based Notes/Ambiguous Grammars.md",
+    "CSCE-322, Programming Language Concepts/Topic Based Notes/Context-Free Grammar, BNF, and EBNF.md",
+    "CSCE-322, Programming Language Concepts/Topic Based Notes/Flex and Bison (TODO).md",
+    "CSCE-322, Programming Language Concepts/Topic Based Notes/Derivations (TODO).md",
+    "CSCE-322, Programming Language Concepts/Topic Based Notes/Parsing (TODO).md",
+    "CSCE-322, Programming Language Concepts/Topic Based Notes/Regular Grammar and Finite State Automata.md",
+    "CSCE-322, Programming Language Concepts/Topic Based Notes/Syntax and Lexical Analysis.md",
+    "CSCE-322, Programming Language Concepts/Topic Based Notes/Vocabulary Portion of the Class.md",
     "CSCE-322, Programming Language Concepts/Exams/CSCE-322 Midterm 1 Master Document.md",
-    "CSCE-322, Programming Language Concepts/Lectures/Lecture 6 Parsers.md",
+    "CSCE-322, Programming Language Concepts/Topic Based Notes/Regular Grammar (TODO).md",
+    "CSCE-322, Programming Language Concepts/Topic Based Notes",
+    "MATH-314, Linear Algebra/Lectures/3-10-2025, 5.1 Rn and Subspace of Rn.md",
+    "Attachments/Pasted image 20250310095720.png",
+    "Attachments/Pasted image 20250310095639.png",
+    "Attachments/Pasted image 20250310095623.png",
+    "Attachments/5.1-Real-Vector-Spaces-COMPLETE.pdf",
+    "MATH-314, Linear Algebra/Lectures/2-26-2025, 4.4 The Inverse of a Matrix.md",
+    "CSCE-322, Programming Language Concepts/REGEX Cheatsheet.pdf",
+    "CSCE-322, Programming Language Concepts/Exams/Specific Midterm 1 Concepts.md",
     "RAIK-370H, Data & Models II/Exams/RAIK-370H Midterm 1 Master Document.md",
-    "Attachments/Pasted image 20250305175849.png",
-    "Attachments/Pasted image 20250305175029.png",
+    "CSCE-322, Programming Language Concepts/Lectures/Lecture 6 Parsers.md",
     "RAIK-370H, Data & Models II/Lectures/2-4-2025, Decision Tree ID3.md",
     "Attachments/03 Decision Trees Part 2.pdf",
     "RAIK-370H, Data & Models II/Lectures/1-28-2025, Decision Tree Entropy.md",
-    "Attachments/Pasted image 20250305155051.png",
-    "Attachments/Pasted image 20250305154950.png",
-    "Attachments/Pasted image 20250305154831.png",
-    "Attachments/Pasted image 20250305154808.png",
-    "Latex Cheat Sheet.pdf",
     "CSCE-322, Programming Language Concepts/Lectures/Lecture 5.md",
-    "Attachments/Pasted image 20250305154049.png",
     "Attachments/Lecture5-Ambiguity and Disambiguating Grammars.pdf",
     "CSCE-322, Programming Language Concepts/Lectures/Lecture 4 Language Recognition.md",
     "CSCE-322, Programming Language Concepts/COPL.pdf",
-    "Attachments/Pasted image 20250305152422.png",
-    "Attachments/Pasted image 20250305152354.png",
-    "Attachments/Pasted image 20250305152321.png",
     "CSCE-322, Programming Language Concepts/Lectures/Lecture 3 Context Free Grammars and Language Generation.md",
-    "CSCE-322, Programming Language Concepts/Lectures/2-14-2025.md",
-    "CSCE-322, Programming Language Concepts/Lectures/2-10-2025, Formal Languages and Grammar.md",
-    "CSCE-322, Programming Language Concepts/Lectures/2-7-2025, Syntax, Semantics, and Binding.md",
-    "CSCE-322, Programming Language Concepts/Lectures/2-5-2025, Language Categories and Implementation Methods.md",
-    "CSCE-322, Programming Language Concepts/Lectures/2-3-2025, Language Design Trade-Offs and Influences on Language Design.md",
-    "CSCE-322, Programming Language Concepts/Lectures/1-27-2025, Programming Domains and Language Evaluation Criteria.md",
-    "CSCE-322, Programming Language Concepts/Lectures/1-22-2025, Course Overview.md",
-    "CSCE-322, Programming Language Concepts/Exams",
-    "RAIK-370H, Data & Models II/Lectures/2-6-2025, Performance Metrics.md",
-    "RAIK-370H, Data & Models II/Lectures/2-20-2025, K-Means Clustering.md",
-    "RAIK-370H, Data & Models II/Lectures/2-18-2025, K-Nearest Neighbor.md",
-    "RAIK-370H, Data & Models II/Lectures/1-23-2025, Naive Bayes.md",
-    "RAIK-370H, Data & Models II/Exams",
-    "MATH-314, Linear Algebra/Lectures/2-12-2025, 3.1 Linear Combinations of Vectors and their Span, 3.2 Linear Independence.md",
-    "MATH-314, Linear Algebra/Lectures/2-17-2025, 3.2 Linear Independence.md",
-    "MATH-314, Linear Algebra/Lectures/2-19-2025, 4.1 Matrix Operations.md",
-    "MATH-314, Linear Algebra/Lectures/2-19-2025, 4.2 Linear Systems as Matrix and Linear Combination Equations.md",
-    "MATH-314, Linear Algebra/Lectures/2-24-2025, 4.3 Homogenous Linear Systems.md",
-    "MATH-314, Linear Algebra/Lectures/2-26-2025, 4.4 The Inverse of a Matrix.md",
-    "MATH-314, Linear Algebra/Lectures/1-27-2025, 1.2 Unit Vectors, Dot Product, Orthogonal Projection.md",
-    "CSCE-322, Programming Language Concepts/322 Syllabus.pdf"
+    "CSCE-322, Programming Language Concepts/Exams"
   ]
 }

@@ -1,5 +1,3 @@
-- Decision Trees
-	- Application of Decision Tree ID3 algorithm (pros/cons)
 
 ## Naive Bayes
 - <mark style="background: #ADCCFFA6;">Assumptions of Naive Bayes</mark>
