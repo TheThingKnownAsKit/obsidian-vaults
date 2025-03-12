@@ -11,12 +11,14 @@
             "id": "9cb7ae25fe7583bc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Latex Cheat Sheet.pdf"
+                "file": "CSCE-231, Computer Systems Engineering/Recitation And Lab/Bomb lab.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Latex Cheat Sheet"
+              "icon": "lucide-file",
+              "title": "Bomb lab"
             }
           }
         ]
@@ -138,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Latex Cheat Sheet.pdf",
+                "file": "CSCE-231, Computer Systems Engineering/Recitation And Lab/Bomb lab.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Latex Cheat Sheet"
+              "title": "Outline of Bomb lab"
             }
           },
           {
@@ -178,6 +180,8 @@
   },
   "active": "9cb7ae25fe7583bc",
   "lastOpenFiles": [
+    "RAIK-270H, Statistics and Applications/Final Exam Notes.md",
+    "Latex Cheat Sheet.pdf",
     "Dean's Leader Hours.md",
     "Plugins and Themes.md",
     "Style Guide.md",
@@ -192,7 +196,6 @@
     "Attachments/Pasted image 20241218122646.png",
     "Attachments/Pasted image 20241218115622.png",
     "Attachments/Pasted image 20241218104419.png",
-    "RAIK-270H, Statistics and Applications/Final Exam Notes.md",
     "RAIK-270H, Statistics and Applications/Lectures/9-13-2024 Intro to Probability.md",
     "RAIK-270H, Statistics and Applications/ZyBooks/Ch 3.5-3.6 & Ch 4.1.md",
     "RAIK-270H, Statistics and Applications/ZyBooks/Ch 3.1-3.4.md",
@@ -207,8 +210,6 @@
     "RAIK-270H, Statistics and Applications/Lectures/9-4-2024.md",
     "RAIK-270H, Statistics and Applications/Lectures/9-6-2024.md",
     "RAIK-270H, Statistics and Applications/Lectures/11-15-2024.md",
-    "RAIK-270H, Statistics and Applications/Lectures/11-20-2024.md",
-    "Latex Cheat Sheet.pdf",
     "Attachments/Pasted image 20241217163955.png",
     "Attachments/Pasted image 20241217163052.png",
     "Attachments/Pasted image 20241217162702.png",

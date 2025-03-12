@@ -4,33 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c1521b6de4662ab9",
+        "id": "572176603f04340b",
         "type": "tabs",
         "children": [
           {
-            "id": "5cbf76eff4970da4",
+            "id": "f5d120f21ca7331f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAIK-381H, Finance/Lectures/3-3-2025, Chapter 8.md",
+                "file": "MATH-314, Linear Algebra/Lectures/3-12-2025, 5.3 Subspaces of Rn Associated to Matrices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3-3-2025, Chapter 8"
-            }
-          },
-          {
-            "id": "23d3b52c6198115c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Latex Cheat Sheet.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Latex Cheat Sheet"
+              "title": "3-12-2025, 5.3 Subspaces of Rn Associated to Matrices"
             }
           }
         ]
@@ -90,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 276
   },
   "right": {
     "id": "8040dd0381655b7e",
@@ -162,8 +150,19 @@
               "icon": "lucide-list",
               "title": "Outline of 2-19-2025, 4.2 Linear Systems as Matrix and Linear Combination Equations"
             }
+          },
+          {
+            "id": "cf46ae82890ef042",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -184,23 +183,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5cbf76eff4970da4",
+  "active": "f5d120f21ca7331f",
   "lastOpenFiles": [
-    "Attachments/Week 06 - FINA 361H & RAIK 381H - Chapter 8.pdf",
+    "Attachments/Pasted image 20250312171517.png",
+    "Attachments/5.3-Subspaces-Associated-with-Matrices-COMPLETE.pdf",
+    "MATH-314, Linear Algebra/Lectures/3-12-2025, 5.3 Subspaces of Rn Associated to Matrices.md",
+    "Attachments/Pasted image 20250312165610.png",
+    "RAIK-284H, Software Engineering IV/284 Syllabus.pdf",
+    "RAIK-186H, Leadership II/186 Syllabus.pdf",
+    "CSCE-322, Programming Language Concepts/322 Syllabus.pdf",
+    "RAIK-381H, Finance/Lectures/3-11-2025, Chapter 9.md",
+    "Attachments/Week 07 - FINA 361H & RAIK 381H - Chapter 9.pdf",
+    "Attachments/Pasted image 20250311155422.png",
     "RAIK-381H, Finance/Lectures/3-3-2025, Chapter 8.md",
-    "Attachments/Pasted image 20250310180641.png",
-    "Attachments/Pasted image 20250310175930.png",
+    "RAIK-370H, Data & Models II/Lectures/3-11-2025, Linear Algebra Review.md",
+    "Attachments/08 Linear Algebra Overview.pdf",
+    "Attachments/Pasted image 20250311135939.png",
+    "Attachments/Pasted image 20250311135929.png",
+    "Attachments/Pasted image 20250311134449.png",
+    "Attachments/Pasted image 20250311134437.png",
+    "Attachments/Pasted image 20250311134422.png",
+    "Attachments/Pasted image 20250311130407.png",
+    "Attachments/Pasted image 20250311130223.png",
     "Latex Cheat Sheet.pdf",
+    "MATH-314, Linear Algebra/Lectures/2-24-2025, 4.3 Homogenous Linear Systems.md",
+    "MATH-314, Linear Algebra/Lectures/2-26-2025, 4.4 The Inverse of a Matrix.md",
+    "MATH-314, Linear Algebra/Lectures/2-19-2025, 4.2 Linear Systems as Matrix and Linear Combination Equations.md",
+    "MATH-314, Linear Algebra/Lectures/3-10-2025, 5.2 Bases and Dimensions.md",
+    "MATH-314, Linear Algebra/Lectures/3-10-2025, 5.1 Rn and Subspace of Rn.md",
+    "Attachments/Week 06 - FINA 361H & RAIK 381H - Chapter 8.pdf",
+    "Attachments/Pasted image 20250310180641.png",
     "CSCE-322, Programming Language Concepts/Topic Based Notes/Lisp, Scheme, and Racket.md",
-    "Attachments/Pasted image 20250310175409.png",
-    "Attachments/Pasted image 20250310175051.png",
     "RAIK-381H, Finance/Lectures/2-27-2025, Chapter 7.md",
     "CSCE-322, Programming Language Concepts/Topic Based Notes/Functional Programming Specifics.md",
-    "MATH-314, Linear Algebra/Lectures/3-10-2025, 5.2 Bases and Dimensions.md",
-    "Attachments/Pasted image 20250310110835.png",
     "Attachments/5.2-Basis-and-Dimension-COMPLETE.pdf",
-    "Attachments/Pasted image 20250310104204.png",
-    "Attachments/Pasted image 20250310104029.png",
     "CSCE-322, Programming Language Concepts/Topic Based Notes/Ambiguous Grammars.md",
     "CSCE-322, Programming Language Concepts/Topic Based Notes/Context-Free Grammar, BNF, and EBNF.md",
     "CSCE-322, Programming Language Concepts/Topic Based Notes/Flex and Bison (TODO).md",
@@ -212,24 +228,8 @@
     "CSCE-322, Programming Language Concepts/Exams/CSCE-322 Midterm 1 Master Document.md",
     "CSCE-322, Programming Language Concepts/Topic Based Notes/Regular Grammar (TODO).md",
     "CSCE-322, Programming Language Concepts/Topic Based Notes",
-    "MATH-314, Linear Algebra/Lectures/3-10-2025, 5.1 Rn and Subspace of Rn.md",
-    "Attachments/Pasted image 20250310095720.png",
-    "Attachments/Pasted image 20250310095639.png",
-    "Attachments/Pasted image 20250310095623.png",
-    "Attachments/5.1-Real-Vector-Spaces-COMPLETE.pdf",
-    "MATH-314, Linear Algebra/Lectures/2-26-2025, 4.4 The Inverse of a Matrix.md",
-    "CSCE-322, Programming Language Concepts/REGEX Cheatsheet.pdf",
     "CSCE-322, Programming Language Concepts/Exams/Specific Midterm 1 Concepts.md",
     "RAIK-370H, Data & Models II/Exams/RAIK-370H Midterm 1 Master Document.md",
-    "CSCE-322, Programming Language Concepts/Lectures/Lecture 6 Parsers.md",
-    "RAIK-370H, Data & Models II/Lectures/2-4-2025, Decision Tree ID3.md",
-    "Attachments/03 Decision Trees Part 2.pdf",
-    "RAIK-370H, Data & Models II/Lectures/1-28-2025, Decision Tree Entropy.md",
-    "CSCE-322, Programming Language Concepts/Lectures/Lecture 5.md",
-    "Attachments/Lecture5-Ambiguity and Disambiguating Grammars.pdf",
-    "CSCE-322, Programming Language Concepts/Lectures/Lecture 4 Language Recognition.md",
-    "CSCE-322, Programming Language Concepts/COPL.pdf",
-    "CSCE-322, Programming Language Concepts/Lectures/Lecture 3 Context Free Grammars and Language Generation.md",
-    "CSCE-322, Programming Language Concepts/Exams"
+    "CSCE-322, Programming Language Concepts/Lectures/Lecture 6 Parsers.md"
   ]
 }
