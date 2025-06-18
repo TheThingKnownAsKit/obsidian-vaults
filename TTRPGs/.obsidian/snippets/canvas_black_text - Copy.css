@@ -1,9 +1,0 @@
-/* Target text inside Canvas nodes */
-.canvas-node-content.markdown-rendered {
-    color: black !important;
-}
-
-/* Target text inside Canvas node preview */
-.canvas-node .markdown-preview-view {
-    color: black !important;
-}
