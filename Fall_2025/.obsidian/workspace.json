@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "d410dc8f45ecb998",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d4bcedeeb7673b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f6de8bdd5cdea19",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4969fb0fc0d5a909",
+    "type": "split",
+    "children": [
+      {
+        "id": "e000e906a3d0e16f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97f000b76c01fbc5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5b5ccecaeeff3056",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "81c653c61aef5bdb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4b68db1d682381fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d50fc47b5d0b6b3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed2d118e8cd9fd2b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7144f392390e63a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7d7a923ad9e5f5c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5da1380710ae6477",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "3e56107d5f066f50",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "7f6de8bdd5cdea19",
+  "lastOpenFiles": [
+    "CSCE-411, Data Modeling for Systems Development/CSCE_411_811_Syllabus_2025_Fall.pdf",
+    "CSCE-411, Data Modeling for Systems Development/Lectures",
+    "Style Guide.md",
+    "Latex Cheat Sheet.pdf",
+    "Attachments",
+    "RAIK-401H, Design Studio I",
+    "SOFT-467, Testing, Verification, & Analysis",
+    "SOFT-469, Secure Software Engineering",
+    "CSCE-378H, Human-Computer Interaction",
+    "CSCE-411, Data Modeling for Systems Development"
+  ]
+}
