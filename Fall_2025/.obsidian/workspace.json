@@ -11,10 +11,12 @@
             "id": "7f6de8bdd5cdea19",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "CSCE-411, Data Modeling for Systems Development/CSCE_411_811_Syllabus_2025_Fall.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CSCE_411_811_Syllabus_2025_Fall"
             }
           }
         ]
@@ -90,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CSCE-411, Data Modeling for Systems Development/CSCE_411_811_Syllabus_2025_Fall.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for CSCE_411_811_Syllabus_2025_Fall"
             }
           },
           {
@@ -108,11 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CSCE-411, Data Modeling for Systems Development/CSCE_411_811_Syllabus_2025_Fall.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from CSCE_411_811_Syllabus_2025_Fall"
             }
           },
           {
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "CSCE-411, Data Modeling for Systems Development/CSCE_411_811_Syllabus_2025_Fall.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of CSCE_411_811_Syllabus_2025_Fall"
             }
           },
           {
@@ -175,8 +180,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7f6de8bdd5cdea19",
+  "active": "97f000b76c01fbc5",
   "lastOpenFiles": [
+    "SOFT-469, Secure Software Engineering/Lectures",
+    "SOFT-469, Secure Software Engineering/CSCE469_Syllabus.pdf",
+    "CSCE-378H, Human-Computer Interaction/2025_HCI_Syllabus.pdf",
+    "CSCE-378H, Human-Computer Interaction/Lectures",
     "CSCE-411, Data Modeling for Systems Development/CSCE_411_811_Syllabus_2025_Fall.pdf",
     "CSCE-411, Data Modeling for Systems Development/Lectures",
     "Style Guide.md",
@@ -184,8 +193,6 @@
     "Attachments",
     "RAIK-401H, Design Studio I",
     "SOFT-467, Testing, Verification, & Analysis",
-    "SOFT-469, Secure Software Engineering",
-    "CSCE-378H, Human-Computer Interaction",
-    "CSCE-411, Data Modeling for Systems Development"
+    "SOFT-469, Secure Software Engineering"
   ]
 }
