@@ -1,0 +1,2 @@
+1. Hardest part was getting started everything seemed pretty intuitive after that. Because you cant see the labels of the alarms from the front view you'd have to rotate the alarm around to see everything and then after you've done that you can probably figure it out
+2. Again things seemed pretty intuitive once they took a look at all the sides of the alarm clock. It's hard to follow the flow before you have seen all the sides but once you have it'll help. The arrows definitely helped

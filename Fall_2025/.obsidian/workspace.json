@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3d4bcedeeb7673b7",
+        "id": "a616daae77715bf8",
         "type": "tabs",
         "children": [
           {
-            "id": "7f6de8bdd5cdea19",
+            "id": "d4d913d50f1dc1b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFT-467, Testing, Verification, & Analysis/Lectures/09-02-2025, Fuzz Testing.md",
+                "file": "CSCE-378H, Human-Computer Interaction/In Class Activities/A5 Alarm Clock Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09-02-2025, Fuzz Testing"
+              "title": "A5 Alarm Clock Notes"
             }
           }
         ]
@@ -182,18 +182,28 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7f6de8bdd5cdea19",
+  "active": "d4d913d50f1dc1b0",
   "lastOpenFiles": [
-    "Attachments/soft467-3-testing-review.pdf",
+    "CSCE-378H, Human-Computer Interaction/In Class Activities/Persona Scenario.md",
+    "CSCE-378H, Human-Computer Interaction/In Class Activities/A5 Alarm Clock Notes.md",
+    "CSCE-411, Data Modeling for Systems Development/Lectures/08-29-2025, ORM, ER, and UML Diagrams.md",
+    "CSCE-378H, Human-Computer Interaction/In Class Activities",
+    "CSCE-411, Data Modeling for Systems Development/Lectures/09-03-2025, Types of Modeling.md",
+    "Attachments/S3-Slide3-introduction.pdf",
+    "CSCE-378H, Human-Computer Interaction/Lectures/09-03-2025, Usability Goals Again.md",
+    "Attachments/Pasted image 20250903161755.png",
+    "Attachments/Lec4_UsabilityGoals.pdf",
+    "CSCE-378H, Human-Computer Interaction/Lectures/08-27, HCI & Usability Goals.md",
+    "Attachments/Pasted image 20250903130136.png",
+    "CSCE-411, Data Modeling for Systems Development/Lectures/08-27-2025, Introduction to Data Modeling.md",
     "SOFT-467, Testing, Verification, & Analysis/Lectures/09-02-2025, Fuzz Testing.md",
+    "Attachments/soft467-3-testing-review.pdf",
     "SOFT-469, Secure Software Engineering/Lectures/09-02-2025, Security Fundamentals.md",
     "Attachments/M01B_Introductory_Security_Fundamentals.pdf",
     "Attachments/Pasted image 20250902095926.png",
     "Attachments/Pasted image 20250902094333.png",
     "SOFT-469, Secure Software Engineering/Lectures/08-28-2025, Introduction.md",
-    "CSCE-411, Data Modeling for Systems Development/Lectures/ORM, ER, and UML Diagrams.md",
     "Attachments/S2-Slide2-introduction.pdf",
-    "CSCE-411, Data Modeling for Systems Development/Lectures/Introduction to Data Modeling.md",
     "SOFT-467, Testing, Verification, & Analysis/Lectures/08-28-2025, Compiler Background.md",
     "Attachments/soft467-2-compilers.pdf",
     "SOFT-469, Secure Software Engineering/Readings/M01.md",
@@ -201,12 +211,8 @@
     "Attachments/M01A_Introduction.pdf",
     "Attachments/Lec2-HCI_UsabilityGoals.pdf",
     "Style Guide.md",
-    "CSCE-378H, Human-Computer Interaction/Lectures/08-27, HCI & Usability Goals.md",
     "Attachments/Pasted image 20250827154607.png",
     "CSCE-378H, Human-Computer Interaction/2025_HCI_Syllabus.pdf",
-    "RAIK-401H, Design Studio I/Draft DS Course Schedule Fall 2025.pdf",
-    "SOFT-469, Secure Software Engineering/Readings",
-    "Attachments/S1-Slide1-introduction.pdf",
     "Attachments/Pasted image 20250827125957.png"
   ]
 }
