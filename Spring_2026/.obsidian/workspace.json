@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "d410dc8f45ecb998",
+    "type": "split",
+    "children": [
+      {
+        "id": "f60be0a70657119b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75cd8a3806a033f7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d850a6ade9a89421",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15a6e407b6e16d42",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Attachments/02 High Level Generative AI - Tagged.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "02 High Level Generative AI - Tagged"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4969fb0fc0d5a909",
+    "type": "split",
+    "children": [
+      {
+        "id": "e000e906a3d0e16f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97f000b76c01fbc5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5b5ccecaeeff3056",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "81c653c61aef5bdb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4b68db1d682381fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d50fc47b5d0b6b3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed2d118e8cd9fd2b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CSCE-411, Data Modeling for Systems Development/CSCE_411_811_Syllabus_2025_Fall.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for CSCE_411_811_Syllabus_2025_Fall"
+            }
+          },
+          {
+            "id": "7144f392390e63a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CSCE-411, Data Modeling for Systems Development/CSCE_411_811_Syllabus_2025_Fall.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from CSCE_411_811_Syllabus_2025_Fall"
+            }
+          },
+          {
+            "id": "7d7a923ad9e5f5c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5da1380710ae6477",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CSCE-411, Data Modeling for Systems Development/CSCE_411_811_Syllabus_2025_Fall.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of CSCE_411_811_Syllabus_2025_Fall"
+            }
+          },
+          {
+            "id": "3e56107d5f066f50",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "75cd8a3806a033f7",
+  "lastOpenFiles": [
+    "RAIK-371H, Data and Models III/Lectures/1.15.26, High Level Gen AI.md",
+    "Attachments/02 High Level Generative AI - Tagged.pdf",
+    "Attachments/Pasted image 20260115103349.png",
+    "Attachments/Pasted image 20260115103337.png",
+    "Attachments/Pasted image 20260115103217.png",
+    "Style Guide.md",
+    "RAIK-371H, Data and Models III/Lectures/1.15.26, Machine Learning Review.md",
+    "Attachments/Pasted image 20260115102256.png",
+    "Attachments/01 Machine Learning Review - Tagged.pdf",
+    "SOFT-468, Requirements/SOFT468Syllabus.pdf",
+    "SOFT-468, Requirements/Readings",
+    "SOFT-468, Requirements/Lectures",
+    "RAIK-371H, Data and Models III/371 Syllabus.pdf",
+    "SOFT-468, Requirements",
+    "Attachments/Lec2-HCI_UsabilityGoals.pdf",
+    "Attachments/371 Syllabus.pdf",
+    "RAIK-371H, Data and Models III/Lectures",
+    "CSCE-378H, Human-Computer Interaction/In Class Activities/A5 Alarm Clock Notes.md",
+    "CSCE-378H, Human-Computer Interaction/In Class Activities/Persona Scenario.md",
+    "CSCE-411, Data Modeling for Systems Development/Lectures/08-29-2025, ORM, ER, and UML Diagrams.md",
+    "CSCE-411, Data Modeling for Systems Development/Lectures/09-03-2025, Types of Modeling.md",
+    "CSCE-378H, Human-Computer Interaction/Lectures/09-03-2025, Usability Goals Again.md",
+    "Attachments/Pasted image 20250903161755.png",
+    "CSCE-378H, Human-Computer Interaction/Lectures/08-27, HCI & Usability Goals.md",
+    "Attachments/Pasted image 20250903130136.png",
+    "CSCE-411, Data Modeling for Systems Development/Lectures/08-27-2025, Introduction to Data Modeling.md",
+    "SOFT-467, Testing, Verification, & Analysis/Lectures/09-02-2025, Fuzz Testing.md",
+    "SOFT-469, Secure Software Engineering/Lectures/09-02-2025, Security Fundamentals.md",
+    "Attachments/Pasted image 20250902095926.png",
+    "Attachments/Pasted image 20250902094333.png",
+    "SOFT-469, Secure Software Engineering/Lectures/08-28-2025, Introduction.md",
+    "SOFT-467, Testing, Verification, & Analysis/Lectures/08-28-2025, Compiler Background.md",
+    "SOFT-469, Secure Software Engineering/Readings/M01.md",
+    "Attachments/Pasted image 20250828102942.png",
+    "Attachments/Pasted image 20250827154607.png"
+  ]
+}
