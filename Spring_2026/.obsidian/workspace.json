@@ -22,24 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "2e733601157627bb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7cfd90add4973054",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Attachments/RE FoundationsII.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "RE FoundationsII"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -201,10 +183,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7cfd90add4973054",
+  "active": "79ebf9e89763e30b",
   "lastOpenFiles": [
-    "SOFT-468, Requirements/Lectures/1.22.26, Requirements Foundations II.md",
     "Attachments/RE FoundationsII.pdf",
+    "SOFT-468, Requirements/Lectures/1.22.26, Requirements Foundations II.md",
+    "SOFT-468, Requirements/Lectures/1.20.26, Requirements Foundations.md",
+    "Attachments/Pasted image 20260122132207.png",
     "RAIK-371H, Data and Models III/Lectures/1.22.26, Impacts of Gen AI.md",
     "Attachments/03 Working with GenAI - Tagged.pdf",
     "RAIK-371H, Data and Models III/Lectures/1.20.26, Working with Gen AI.md",
@@ -213,7 +197,6 @@
     "Attachments/Pasted image 20260120132550.png",
     "Attachments/RE Framework.pdf",
     "Attachments/Pasted image 20260120132035.png",
-    "SOFT-468, Requirements/Lectures/1.20.26, Requirements Foundations.md",
     "Attachments/RE Foundations.pdf",
     "SOFT-468, Requirements/Lectures/1.15.26, Intro to RE.md",
     "Attachments/Motivation and Intro to RE.pdf",
@@ -240,7 +223,6 @@
     "SOFT-467, Testing, Verification, & Analysis/Lectures/09-02-2025, Fuzz Testing.md",
     "SOFT-469, Secure Software Engineering/Lectures/09-02-2025, Security Fundamentals.md",
     "Attachments/Pasted image 20250902095926.png",
-    "Attachments/Pasted image 20250902094333.png",
     "SOFT-469, Secure Software Engineering/Lectures/08-28-2025, Introduction.md",
     "SOFT-467, Testing, Verification, & Analysis/Lectures/08-28-2025, Compiler Background.md",
     "SOFT-469, Secure Software Engineering/Readings/M01.md"
