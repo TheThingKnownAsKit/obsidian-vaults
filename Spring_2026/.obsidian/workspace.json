@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f60be0a70657119b",
+        "id": "1965e803b069fc92",
         "type": "tabs",
         "children": [
           {
-            "id": "75cd8a3806a033f7",
+            "id": "fdea95e21a925f56",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d850a6ade9a89421",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "15a6e407b6e16d42",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/02 High Level Generative AI - Tagged.pdf"
+                "file": "RAIK-371H, Data and Models III/Lectures/1.22.26, Impacts of Gen AI.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "02 High Level Generative AI - Tagged"
+              "icon": "lucide-file",
+              "title": "1.22.26, Impacts of Gen AI"
             }
           }
         ]
@@ -92,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4b68db1d682381fd",
@@ -196,8 +183,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "75cd8a3806a033f7",
+  "active": "fdea95e21a925f56",
   "lastOpenFiles": [
+    "Attachments/03 Working with GenAI - Tagged.pdf",
+    "RAIK-371H, Data and Models III/Lectures/1.22.26, Impacts of Gen AI.md",
+    "RAIK-371H, Data and Models III/Lectures/1.20.26, Working with Gen AI.md",
+    "Attachments/04 Impacts of GenAI - Tagged.pdf",
+    "SOFT-468, Requirements/Lectures/1.20.26, RE Framework.md",
+    "Attachments/Pasted image 20260120132550.png",
+    "Attachments/RE Framework.pdf",
+    "Attachments/Pasted image 20260120132035.png",
+    "SOFT-468, Requirements/Lectures/1.20.26, Requirements Foundations.md",
+    "Attachments/RE Foundations.pdf",
+    "SOFT-468, Requirements/Lectures/1.15.26, Intro to RE.md",
+    "Attachments/Motivation and Intro to RE.pdf",
+    "SOFT-468, Requirements/SOFT468Syllabus.pdf",
     "RAIK-371H, Data and Models III/Lectures/1.15.26, High Level Gen AI.md",
     "Attachments/02 High Level Generative AI - Tagged.pdf",
     "Attachments/Pasted image 20260115103349.png",
@@ -207,14 +207,8 @@
     "RAIK-371H, Data and Models III/Lectures/1.15.26, Machine Learning Review.md",
     "Attachments/Pasted image 20260115102256.png",
     "Attachments/01 Machine Learning Review - Tagged.pdf",
-    "SOFT-468, Requirements/SOFT468Syllabus.pdf",
     "SOFT-468, Requirements/Readings",
     "SOFT-468, Requirements/Lectures",
-    "RAIK-371H, Data and Models III/371 Syllabus.pdf",
-    "SOFT-468, Requirements",
-    "Attachments/Lec2-HCI_UsabilityGoals.pdf",
-    "Attachments/371 Syllabus.pdf",
-    "RAIK-371H, Data and Models III/Lectures",
     "CSCE-378H, Human-Computer Interaction/In Class Activities/A5 Alarm Clock Notes.md",
     "CSCE-378H, Human-Computer Interaction/In Class Activities/Persona Scenario.md",
     "CSCE-411, Data Modeling for Systems Development/Lectures/08-29-2025, ORM, ER, and UML Diagrams.md",
@@ -230,8 +224,6 @@
     "Attachments/Pasted image 20250902094333.png",
     "SOFT-469, Secure Software Engineering/Lectures/08-28-2025, Introduction.md",
     "SOFT-467, Testing, Verification, & Analysis/Lectures/08-28-2025, Compiler Background.md",
-    "SOFT-469, Secure Software Engineering/Readings/M01.md",
-    "Attachments/Pasted image 20250828102942.png",
-    "Attachments/Pasted image 20250827154607.png"
+    "SOFT-469, Secure Software Engineering/Readings/M01.md"
   ]
 }
