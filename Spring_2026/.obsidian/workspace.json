@@ -4,39 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "43725b1514599c57",
+        "id": "5b43687a3db3b1b7",
         "type": "tabs",
         "children": [
           {
-            "id": "b5d9f729da0eabee",
+            "id": "362d05be8a4d4e0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFT-468, Requirements/Lectures/1.27.26, Goal Modeling.md",
+                "file": "SOFT-468, Requirements/Lectures/1.22.26, Requirements Foundations II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.27.26, Goal Modeling"
-            }
-          }
-        ]
-      },
-      {
-        "id": "34699e797c91d967",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "995365cc37c86512",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Attachments/GoalModeling.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "GoalModeling"
+              "title": "1.22.26, Requirements Foundations II"
             }
           }
         ]
@@ -201,40 +183,43 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b5d9f729da0eabee",
+  "active": "362d05be8a4d4e0c",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20260129123634.png",
+    "Attachments/RE FoundationsII.pdf",
+    "SOFT-468, Requirements/Lectures/1.22.26, Requirements Foundations II.md",
+    "Attachments/Pasted image 20260206135404.png",
+    "Attachments/Pasted image 20260206131716.png",
+    "SOFT-468, Requirements/Lectures/1.27.26, Goal Modeling.md",
+    "SOFT-468, Requirements/Lectures/1.20.26, Requirements Foundations.md",
+    "Attachments/RE Foundations.pdf",
+    "SOFT-468, Requirements/Lectures/1.20.26, RE Framework.md",
+    "SOFT-468, Requirements/Lectures/2.5.26, Conceptual Models.md",
+    "Attachments/Conceptual Models.pdf",
     "SOFT-468, Requirements/Lectures/1.29.26, Project Initiation.md",
     "Attachments/Project Initiation.pdf",
-    "SOFT-468, Requirements/Lectures/1.27.26, Goal Modeling.md",
+    "SOFT-468, Requirements/Lectures/2.3.26,.md",
+    "RAIK-371H, Data and Models III/Lectures/2.5.26, Genetic Algorithms.md",
+    "CSCE-423, Algorithms/Homework/Homework 1.md",
+    "CSCE-423, Algorithms/Homework",
+    "CSCE-423, Algorithms",
+    "Attachments/Pasted image 20260205100813.png",
+    "Attachments/06 Genetic Algorithms - Tagged.pdf",
+    "RAIK-371H, Data and Models III/Lectures/1.27.26, Optimization and Linear Programming.md",
+    "Attachments/05 Optimization and Linear Programming - Tagged.pdf",
+    "Attachments/Context Diagrams.pdf",
+    "Attachments/GoalModeling.pdf",
+    "Attachments/Pasted image 20260129123634.png",
     "Attachments/Pasted image 20260127131148.png",
     "Attachments/Pasted image 20260127131120.png",
     "Attachments/Pasted image 20260127131057.png",
     "Attachments/Pasted image 20260127131014.png",
     "Attachments/Pasted image 20260127130946.png",
     "Attachments/Pasted image 20260127130720.png",
-    "Attachments/Pasted image 20260127130655.png",
-    "Attachments/GoalModeling.pdf",
     "RAIK-371H, Data and Models III/Lectures/1.15.26, High Level Gen AI.md",
     "RAIK-371H, Data and Models III/Lectures/1.15.26, Machine Learning Review.md",
     "RAIK-371H, Data and Models III/Lectures/1.20.26, Working with Gen AI.md",
     "RAIK-371H, Data and Models III/Lectures/1.22.26, Impacts of Gen AI.md",
-    "RAIK-371H, Data and Models III/Lectures/1.27.26, Optimization and Linear Programming.md",
-    "Attachments/05 Optimization and Linear Programming - Tagged.pdf",
     "RAIK-372H, Business Law/Lectures/1.26.26.md",
-    "RAIK-372H, Business Law/Lectures",
-    "RAIK-372H, Business Law",
-    "SOFT-468, Requirements/Lectures/1.22.26, Requirements Foundations II.md",
-    "Attachments/RE FoundationsII.pdf",
-    "SOFT-468, Requirements/Lectures/1.20.26, Requirements Foundations.md",
-    "Attachments/Pasted image 20260122132207.png",
-    "Attachments/03 Working with GenAI - Tagged.pdf",
-    "Attachments/04 Impacts of GenAI - Tagged.pdf",
-    "SOFT-468, Requirements/Lectures/1.20.26, RE Framework.md",
-    "Attachments/Pasted image 20260120132550.png",
-    "Attachments/RE Framework.pdf",
-    "Attachments/Pasted image 20260120132035.png",
-    "Attachments/RE Foundations.pdf",
     "SOFT-468, Requirements/Lectures/1.15.26, Intro to RE.md",
     "Style Guide.md",
     "CSCE-378H, Human-Computer Interaction/In Class Activities/A5 Alarm Clock Notes.md",
@@ -244,10 +229,6 @@
     "CSCE-378H, Human-Computer Interaction/Lectures/09-03-2025, Usability Goals Again.md",
     "CSCE-378H, Human-Computer Interaction/Lectures/08-27, HCI & Usability Goals.md",
     "CSCE-411, Data Modeling for Systems Development/Lectures/08-27-2025, Introduction to Data Modeling.md",
-    "SOFT-467, Testing, Verification, & Analysis/Lectures/09-02-2025, Fuzz Testing.md",
-    "SOFT-469, Secure Software Engineering/Lectures/09-02-2025, Security Fundamentals.md",
-    "SOFT-469, Secure Software Engineering/Lectures/08-28-2025, Introduction.md",
-    "SOFT-467, Testing, Verification, & Analysis/Lectures/08-28-2025, Compiler Background.md",
-    "SOFT-469, Secure Software Engineering/Readings/M01.md"
+    "SOFT-467, Testing, Verification, & Analysis/Lectures/09-02-2025, Fuzz Testing.md"
   ]
 }
