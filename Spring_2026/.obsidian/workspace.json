@@ -13,72 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFT-468, Requirements/Lectures/2.5.26, Conceptual Models.md",
+                "file": "RAIK-371H, Data and Models III/Lectures/1.27.26, Optimization and Linear Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.5.26, Conceptual Models"
+              "title": "1.27.26, Optimization and Linear Programming"
             }
           },
           {
-            "id": "00ced891f3323498",
+            "id": "afa8c0585aa7cf62",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Attachments/Conceptual Models.pdf"
+                "file": "Attachments/05 Optimization and Linear Programming - Tagged.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Conceptual Models"
-            }
-          },
-          {
-            "id": "958ab4956cea97b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RAIK-371H, Data and Models III/Lectures/2.26.26, Auto Regression.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.26.26, Auto Regression"
-            }
-          },
-          {
-            "id": "25fee757fa17594e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "SOFT-468, Requirements/SOFT468Syllabus.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "SOFT468Syllabus"
+              "title": "05 Optimization and Linear Programming - Tagged"
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "c018e0d38b727904",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d16bbde3f2fda155",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Attachments/09 Auto-Regression - Tagged.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "09 Auto-Regression - Tagged"
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4b68db1d682381fd",
@@ -240,13 +195,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "25fee757fa17594e",
+  "active": "afa8c0585aa7cf62",
   "lastOpenFiles": [
-    "RAIK-371H, Data and Models III/Lectures/2.26.26, Auto Regression.md",
-    "Attachments/Conceptual Models.pdf",
+    "RAIK-371H, Data and Models III/Lectures/1.27.26, Optimization and Linear Programming.md",
     "SOFT-468, Requirements/Lectures/2.5.26, Conceptual Models.md",
-    "Attachments/09 Auto-Regression - Tagged.pdf",
+    "Attachments/Conceptual Models.pdf",
+    "RAIK-371H, Data and Models III/Lectures/2.26.26, Auto Regression.md",
     "SOFT-468, Requirements/SOFT468Syllabus.pdf",
+    "Attachments/09 Auto-Regression - Tagged.pdf",
     "SOFT-468, Requirements/Lectures/2.24.26, Conducting Interviews II.md",
     "Attachments/DPL User Interviews part 2_ADA Compliant.pdf",
     "SOFT-468, Requirements/Lectures/2.19.26, Conducting Interviews I.md",
@@ -262,7 +218,6 @@
     "RAIK-371H, Data and Models III/Lectures/2.5.26, Genetic Algorithms.md",
     "Attachments/07 Reinforcement Learning - Tagged.pdf",
     "Attachments/06 Genetic Algorithms - Tagged.pdf",
-    "RAIK-371H, Data and Models III/Lectures/1.27.26, Optimization and Linear Programming.md",
     "SOFT-468, Requirements/Lectures/1.27.26, Goal Modeling.md",
     "SOFT-468, Requirements/Lectures/1.29.26, Project Initiation.md",
     "SOFT-468, Requirements/Lectures/1.22.26, Requirements Foundations II.md",
