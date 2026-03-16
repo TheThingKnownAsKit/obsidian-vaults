@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Blades in the Dark/blades_standard_edition-_v8_2-updated-07232025-9da9po.pdf"
+                "file": "Blades in the Dark/Core_Rulebook.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "blades_standard_edition-_v8_2-updated-07232025-9da9po"
+              "title": "Core_Rulebook"
             }
           }
         ]
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blades in the Dark/blades_standard_edition-_v8_2-updated-07232025-9da9po.pdf",
+                "file": "Blades in the Dark/Core_Rulebook.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of blades_standard_edition-_v8_2-updated-07232025-9da9po"
+              "title": "Outline of Core_Rulebook"
             }
           },
           {
@@ -225,13 +225,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd07a76a42f8fa02",
+  "active": "f8aa374f29cc318c",
   "lastOpenFiles": [
+    "Blades in the Dark/Sheets/blades_sheets_v8_2_Assassins.pdf",
+    "Blades in the Dark/Core_Rulebook.pdf",
+    "Blades in the Dark/Sheets/blades_sheets_v8_2_Cutter.pdf",
+    "Blades in the Dark/Sheets/blades_sheets_v8_2_Hound.pdf",
+    "Blades in the Dark/Sheets/blades_sheets_v8_2_Leech.pdf",
+    "Blades in the Dark/Sheets/blades_sheets_v8_2_Lurk.pdf",
+    "Blades in the Dark/Sheets/blades_sheets_v8_2_Slide.pdf",
+    "Blades in the Dark/Sheets/blades_sheets_v8_2_Spider.pdf",
+    "Blades in the Dark/Sheets/blades_sheets_v8_2_Whisper.pdf",
+    "Blades in the Dark/Sheets/blades_sheets_v8_2_Blank_Character_Sheet.pdf",
+    "Blades in the Dark/Sheets/blades_sheets_v8_2_Bravos.pdf",
     "TMA TTRPG/Character Sheet.canvas",
-    "Blades in the Dark/blades_standard_edition-_v8_2-updated-07232025-9da9po.pdf",
-    "Blades in the Dark/Sheets",
-    "Blades in the Dark/Lore (Canon)",
-    "Blades in the Dark",
     "TMA TTRPG/Current Notes.md",
     "TMA TTRPG/GMSpace.canvas",
     "TMA TTRPG/Episodes/Episode 2 - Train Time.md",
@@ -248,11 +255,9 @@
     "Images/Pasted image 20240304220239.png",
     "Images/Pasted image 20240304205329.png",
     "Images/download20221103122341.png",
-    "TMA TTRPG/PDFs/Rulebook.pdf",
     "TMA TTRPG/Lore/The Wire Man.md",
     "Images/Pasted image 20250225111758.png",
     "Images/Pasted image 20250225111729.png",
-    "TMA TTRPG/PDFs/Character Portfolio.pdf",
     "TMA TTRPG/Consent Stuff.md",
     "TMA TTRPG/Lore/The Machine.md",
     "TMA TTRPG/Characters/Charlotte Anderson.md"
