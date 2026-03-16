@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "6ee3a8fe96687a48",
+        "id": "a386fb47250391a3",
         "type": "tabs",
         "children": [
           {
-            "id": "fd07a76a42f8fa02",
+            "id": "9cfa31a8c6d27292",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Blades in the Dark/Maps/Images/blades_detailedmap_barrowcleft.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "blades_detailedmap_barrowcleft"
+            }
+          },
+          {
+            "id": "a93c2cc42641de4b",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Blades in the Dark/Core_Rulebook.pdf"
+                "file": "Blades in the Dark/DeepCuts.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Core_Rulebook"
+              "title": "DeepCuts"
             }
           }
         ]
@@ -153,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blades in the Dark/Core_Rulebook.pdf",
+                "file": "Blades in the Dark/Maps/Images/blades_detailedmap_barrowcleft.jpg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Core_Rulebook"
+              "title": "Outline of blades_detailedmap_barrowcleft"
             }
           },
           {
@@ -225,19 +237,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8aa374f29cc318c",
+  "active": "9cfa31a8c6d27292",
   "lastOpenFiles": [
-    "Blades in the Dark/Sheets/blades_sheets_v8_2_Assassins.pdf",
-    "Blades in the Dark/Core_Rulebook.pdf",
-    "Blades in the Dark/Sheets/blades_sheets_v8_2_Cutter.pdf",
-    "Blades in the Dark/Sheets/blades_sheets_v8_2_Hound.pdf",
-    "Blades in the Dark/Sheets/blades_sheets_v8_2_Leech.pdf",
-    "Blades in the Dark/Sheets/blades_sheets_v8_2_Lurk.pdf",
-    "Blades in the Dark/Sheets/blades_sheets_v8_2_Slide.pdf",
-    "Blades in the Dark/Sheets/blades_sheets_v8_2_Spider.pdf",
-    "Blades in the Dark/Sheets/blades_sheets_v8_2_Whisper.pdf",
-    "Blades in the Dark/Sheets/blades_sheets_v8_2_Blank_Character_Sheet.pdf",
-    "Blades in the Dark/Sheets/blades_sheets_v8_2_Bravos.pdf",
+    "Blades in the Dark/Maps/PDFs/blades_detailedmap_barrowcleft.pdf",
+    "Blades in the Dark/Maps/blades_detailedmap_highres.jpg",
+    "Blades in the Dark/Maps/PDFs/blades_detailedmap_brightstone.pdf",
+    "Blades in the Dark/Maps/PDFs/blades_detailedmap_charhollow.pdf",
+    "Blades in the Dark/Maps/PDFs/blades_detailedmap_coalridge.pdf",
+    "Blades in the Dark/Maps/PDFs/blades_detailedmap_crowsfoot.pdf",
+    "Blades in the Dark/Maps/PDFs/blades_detailedmap_docks.pdf",
+    "Blades in the Dark/Maps/PDFs/blades_detailedmap_dunslough.pdf",
+    "Blades in the Dark/Maps/PDFs/blades_detailedmap_silkshore.pdf",
+    "Blades in the Dark/Maps/PDFs/blades_detailedmap_sixtowers.pdf",
+    "Blades in the Dark/Maps/PDFs/blades_detailedmap_whitecrown.pdf",
+    "Blades in the Dark/Maps/Images/blades_detailedmap_barrowcleft.jpg",
+    "Blades in the Dark/Maps/Images/blades_detailedmap_brightstone.jpg",
+    "Blades in the Dark/Maps/Images/blades_detailedmap_charhollow.jpg",
+    "Blades in the Dark/Maps/Images/blades_detailedmap_charterhall.jpg",
+    "Blades in the Dark/Maps/Images/blades_detailedmap_coalridge.jpg",
+    "Blades in the Dark/Maps/Images/blades_detailedmap_crowsfoot.jpg",
+    "Blades in the Dark/Maps/Images/blades_detailedmap_docks.jpg",
+    "Blades in the Dark/Maps/Images/blades_detailedmap_dunslough.jpg",
+    "Blades in the Dark/Maps/Images/blades_detailedmap_nightmarket.jpg",
     "TMA TTRPG/Character Sheet.canvas",
     "TMA TTRPG/Current Notes.md",
     "TMA TTRPG/GMSpace.canvas",
@@ -251,13 +272,7 @@
     "TMA TTRPG/Characters/Alexander Hayes.md",
     "Character Sheet.md",
     "Backstory.md",
-    "Images/Pasted image 20240314230300.png",
-    "Images/Pasted image 20240304220239.png",
-    "Images/Pasted image 20240304205329.png",
-    "Images/download20221103122341.png",
     "TMA TTRPG/Lore/The Wire Man.md",
-    "Images/Pasted image 20250225111758.png",
-    "Images/Pasted image 20250225111729.png",
     "TMA TTRPG/Consent Stuff.md",
     "TMA TTRPG/Lore/The Machine.md",
     "TMA TTRPG/Characters/Charlotte Anderson.md"
