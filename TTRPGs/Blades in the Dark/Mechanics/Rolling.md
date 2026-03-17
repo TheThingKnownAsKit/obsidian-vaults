@@ -90,5 +90,7 @@ Bonus dice:
 		- The consequence will happen regardless of the rolls outcome. Consequences can include collateral damage, unintended harm, spend coins or items, betray someone, offend a faction, start/tick a clock, add HEAT, suffer harm, etc
 - Assistance
 	- Teammate takes 1 stress, describes how they would help, and you get +1d
+- Hunting grounds
+	- You gain +1d to gather information when preparing to execute an operation of your preferred type on your hunting grounds (you also get an additional downtime activity)
 
 You can get the above bonuses any time, and if you get additional bonuses from an ability or something it is in addition to these. They do not cancel out, they add together
