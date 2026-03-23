@@ -94,3 +94,34 @@ Bonus dice:
 	- You gain +1d to gather information when preparing to execute an operation of your preferred type on your hunting grounds (you also get an additional downtime activity)
 
 You can get the above bonuses any time, and if you get additional bonuses from an ability or something it is in addition to these. They do not cancel out, they add together
+
+# Flashbacks
+They're weird! The rule's specifically DO NOT distinguish between actions made in the present or past. At any point in the score, invoke a flashback to roll for an action in the past that impacts your current situation
+
+Costs stress.
+- 0 STRESS: An ordinary action for which you had easy opportunity
+- 1 STRESS: A complex action or unlikely opportunity
+- 2 (or more) STRESS: An elaborate action that involved special opportunities or contingencies
+
+Can be an action roll or fortune roll like normal, or no roll and you just pay the stress
+
+If the flashback involves a downtime activity, pay 1 COIN or REP for it instead of stress
+
+Notably cannot UNDO anything. Can ADD to something already happening
+
+# Teamwork
+Four teamwork maneuvers
+1. *Assist* another PC who's doing an action roll
+	1. 1 stress +1d
+	2. Potentially shared consequences
+	3. Can assist a group action only if you are not participating in it. One character in the group action gets the bonus die
+2. Lead a *group action*
+	1. Everyone makes an action roll with the same action. Single best result is the overall effort for everyone who rolled
+	2. Character leading takes 1 stress for each PC that rolls 1-3 as their best
+	3. Leading cohorts is a group action, cohort rolls its quality level. Roll COMMAND if you direct or appropriate rating if participate
+3. *Protect* a teammate
+	1. Suffer a consequence instead of a teammate
+	2. You can roll to resist like normal
+4. *Set up* a character who will follow through on your action
+	1. Roll an appropriate action roll. If success, +1 effect level OR improved position (PC choice)
+	2. Does not have to be the same action roll for the PC you are setting up for
