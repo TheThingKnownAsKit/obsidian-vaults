@@ -13,5 +13,5 @@ By focusing their mind, humans can attune to the ghost field to perceive partial
 > [!warning] Conflict
 > Some people see attunement as a normal part of life. Sort of like a new human sense in addition to the regular ones like sight and hearing.
 > 
-> Other people see attunement as a file act, connecting with the dark forces that once destroyed the world and who still lurk in the shadows.
+> Other people see attunement as a vile act, connecting with the dark forces that once destroyed the world and who still lurk in the shadows.
 
