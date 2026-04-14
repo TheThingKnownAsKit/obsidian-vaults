@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "CSCE-322, Programming Language Concepts/REGEX Cheatsheet.pdf"
+                "file": "Attachments/09 Feature Engineering.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "REGEX Cheatsheet"
+              "title": "09 Feature Engineering"
             }
           }
         ]
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276
+    "width": 364
   },
   "right": {
     "id": "8040dd0381655b7e",
@@ -183,8 +183,11 @@
   },
   "active": "f5d120f21ca7331f",
   "lastOpenFiles": [
-    "CSCE-322, Programming Language Concepts/COPL.pdf",
+    "RAIK-370H, Data & Models II/Lectures/3-11-2025, Feature Engineering.md",
+    "Attachments/09 Feature Engineering.pdf",
+    "RAIK-370H, Data & Models II/Lectures/2-20-2025, K-Means Clustering.md",
     "CSCE-322, Programming Language Concepts/REGEX Cheatsheet.pdf",
+    "CSCE-322, Programming Language Concepts/COPL.pdf",
     "Style Guide.md",
     "Latex Cheat Sheet.pdf",
     "MATH-314, Linear Algebra/Lectures/3-12-2025, 5.3 Subspaces of Rn Associated to Matrices.md",
@@ -200,7 +203,6 @@
     "Attachments/Pasted image 20250311155422.png",
     "RAIK-381H, Finance/Lectures/3-3-2025, Chapter 8.md",
     "RAIK-370H, Data & Models II/Lectures/3-11-2025, Linear Algebra Review.md",
-    "Attachments/08 Linear Algebra Overview.pdf",
     "Attachments/Pasted image 20250311135939.png",
     "Attachments/Pasted image 20250311135929.png",
     "Attachments/Pasted image 20250311134449.png",
@@ -213,7 +215,6 @@
     "MATH-314, Linear Algebra/Lectures/2-19-2025, 4.2 Linear Systems as Matrix and Linear Combination Equations.md",
     "MATH-314, Linear Algebra/Lectures/3-10-2025, 5.2 Bases and Dimensions.md",
     "MATH-314, Linear Algebra/Lectures/3-10-2025, 5.1 Rn and Subspace of Rn.md",
-    "Attachments/Week 06 - FINA 361H & RAIK 381H - Chapter 8.pdf",
     "CSCE-322, Programming Language Concepts/Topic Based Notes/Lisp, Scheme, and Racket.md",
     "RAIK-381H, Finance/Lectures/2-27-2025, Chapter 7.md",
     "CSCE-322, Programming Language Concepts/Topic Based Notes/Functional Programming Specifics.md",
@@ -226,8 +227,6 @@
     "CSCE-322, Programming Language Concepts/Topic Based Notes/Syntax and Lexical Analysis.md",
     "CSCE-322, Programming Language Concepts/Topic Based Notes/Vocabulary Portion of the Class.md",
     "CSCE-322, Programming Language Concepts/Exams/CSCE-322 Midterm 1 Master Document.md",
-    "CSCE-322, Programming Language Concepts/Topic Based Notes/Regular Grammar (TODO).md",
-    "CSCE-322, Programming Language Concepts/Exams/Specific Midterm 1 Concepts.md",
-    "RAIK-370H, Data & Models II/Exams/RAIK-370H Midterm 1 Master Document.md"
+    "CSCE-322, Programming Language Concepts/Topic Based Notes/Regular Grammar (TODO).md"
   ]
 }

@@ -1,0 +1,19 @@
+Avatar of The Machine. Usually found wrapped around power lines. Can take a humanoid form or just a writhing mass of wires. The only way it can communicate is by grinding its own wires against itself in a repulsive imitation of human speech
+
+Also known as the mechanical angel. Devout Christian but in a warped "the machine is my god now" way. Can be pacified with prayers. Believes they have been raptured and wish to bring more people with them, but only if they really appreciate The Machine.
+
+We held together the red cables of machinery; entrails of creation. Pixels feeling warm to the touch as the angel's behind the screens laughed and spoke: "WE LIKE THE BLOOD, SIN IS FUEL"
+
+Known to leave corpses in the form of wired people trapped in wire cubes (shown at the bottom)
+
+Associated with The Mechanical Child ritual
+
+Level 7 monster (21)
+
+https://open.spotify.com/track/1Qfjvgiz93Zw3ePs0mVfEt?si=88ddb61dec224123
+
+![[Pasted image 20250225111758.png]]
+![[Pasted image 20250225111721.png]]
+![[Pasted image 20250225111729.png]]
+![[Pasted image 20250225111736.png]]
+![[Pasted image 20250225145127.png]]

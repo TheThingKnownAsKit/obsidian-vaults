@@ -1,1 +1,0 @@
-Horror Mode: 0

@@ -11,13 +11,44 @@
             "id": "20136254587d2661",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SOFT-468, Requirements/Lectures/2.19.26, Conducting Interviews I.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2.19.26, Conducting Interviews I"
+            }
+          },
+          {
+            "id": "9f62431343948e0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RAIK-371H, Data and Models III/Lectures/2.12.26, Time Series and Forecasting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.12.26, Time Series and Forecasting"
+            }
+          },
+          {
+            "id": "29c823688ceafd5f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Attachments/08 Time Series and Forecasting - Tagged.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "08 Time Series and Forecasting - Tagged"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -49,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "user ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +101,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,38 +210,38 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "97f000b76c01fbc5",
+  "active": "5b5ccecaeeff3056",
   "lastOpenFiles": [
-    "SOFT-468, Requirements/Lectures/2.19.26, Conducting Interviews I.md",
-    "Attachments/GoalModeling.pdf",
+    "RAIK-371H, Data and Models III/Lectures/2.12.26, Time Series and Forecasting.md",
     "Attachments/Project Initiation.pdf",
-    "Attachments/RE FoundationsII.pdf",
-    "SOFT-468, Requirements/Lectures/1.22.26, Requirements Foundations II.md",
-    "SOFT-468, Requirements/Lectures/1.27.26, Goal Modeling.md",
     "SOFT-468, Requirements/Lectures/1.29.26, Project Initiation.md",
+    "SOFT-468, Requirements/Lectures/1.27.26, Goal Modeling.md",
     "SOFT-468, Requirements/Lectures/2.5.26, Conceptual Models.md",
-    "Attachments/Motivation and Intro to RE.pdf",
-    "SOFT-468, Requirements/Lectures/1.15.26, Intro to RE.md",
-    "Attachments/Conceptual Models.pdf",
-    "SOFT-468, Requirements/Lectures/2.17.26, Lean Canvas Model and Sequence Diagrams.md",
     "SOFT-468, Requirements/Lectures/2.24.26, Conducting Interviews II.md",
-    "RAIK-371H, Data and Models III/Lectures/3.3.26, Autocorrelation.md",
+    "Attachments/DPL User Interviews part I-1.pdf",
+    "SOFT-468, Requirements/Lectures/2.19.26, Conducting Interviews I.md",
+    "SOFT-468, Requirements/Lectures/2.17.26, Lean Canvas Model and Sequence Diagrams.md",
+    "SOFT-468, Requirements/Lectures/2.12.26, Journey Maps.md",
+    "SOFT-468, Requirements/Lectures/1.22.26, Requirements Foundations II.md",
+    "SOFT-468, Requirements/Lectures/1.20.26, Requirements Foundations.md",
+    "SOFT-468, Requirements/Lectures/1.20.26, RE Framework.md",
+    "SOFT-468, Requirements/Lectures/1.15.26, Intro to RE.md",
     "RAIK-371H, Data and Models III/Lectures/1.15.26, High Level Gen AI.md",
+    "RAIK-371H, Data and Models III/Lectures/3.3.26, Autocorrelation.md",
+    "RAIK-371H, Data and Models III/Lectures/2.26.26, Auto Regression.md",
+    "Attachments/GoalModeling.pdf",
+    "Attachments/RE FoundationsII.pdf",
+    "Attachments/Motivation and Intro to RE.pdf",
+    "Attachments/Conceptual Models.pdf",
     "Attachments/Journey Maps.pdf",
     "Attachments/Lean Canvas Model and Sequence.pdf",
-    "SOFT-468, Requirements/Lectures/2.12.26, Journey Maps.md",
     "RAIK-371H, Data and Models III/Lectures/1.27.26, Optimization and Linear Programming.md",
     "Attachments/05 Optimization and Linear Programming - Tagged.pdf",
-    "RAIK-371H, Data and Models III/Lectures/2.26.26, Auto Regression.md",
     "SOFT-468, Requirements/SOFT468Syllabus.pdf",
-    "Attachments/09 Auto-Regression - Tagged.pdf",
-    "RAIK-371H, Data and Models III/Lectures/2.12.26, Time Series and Forecasting.md",
     "RAIK-371H, Data and Models III/Lectures/2.10.26, Reinforcement Learning.md",
-    "SOFT-468, Requirements/Lectures/1.20.26, Requirements Foundations.md",
     "RAIK-371H, Data and Models III/Lectures/2.5.26, Genetic Algorithms.md",
     "Attachments/Pasted image 20260206135404.png",
     "Attachments/Pasted image 20260206131716.png",
-    "SOFT-468, Requirements/Lectures/1.20.26, RE Framework.md",
     "SOFT-468, Requirements/Lectures/2.3.26,.md",
     "CSCE-423, Algorithms/Homework/Homework 1.md",
     "Attachments/Pasted image 20260205100813.png",
