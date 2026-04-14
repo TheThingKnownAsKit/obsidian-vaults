@@ -6,6 +6,10 @@ tags:
 
 *Dunslough is a ghetto for the destitute poor of the city, as well as the site of Ironhook Prison and its labor camp. Originally, the ghetto was a neighborhood for families of prisoners, but over the years, extreme poverty and neglect have worn it down into a sodden ruin. A vicious cycle plays out here: crime driven by desperation, then arrest, incarceration, and release back to Dunslough—giving Ironhook an endless supply of laborers to exploit.*
 
+
+---
+
+
 > [!info] Overview
 > 
 > **SCENE:** Mud-covered laborers returning from the Mire. Destitute families scrounging for scraps along the roadway to the Barrowcleft farms. Bored Ironhook guards, rifles slung on their backs, watching a taskmaster lash a labor camp prisoner.

@@ -7,6 +7,10 @@ tags:
 
 *Brightstone is home to many of the wealthiest and most influential citizens of Doskvol. Its streets are broad and paved, under bright electric lights; its canals are sparkling and clean, with perfumed water; its houses are all of fine, pale marble blocks, rich timbers, and intricate ironworks. There are cultivated parks fed by radiant energy; lavish restaurants and cafes; jewelers, tailors, and other luxury shops. Street-side vendors are forbidden here, resulting in a serene, spacious atmosphere, punctuated by the occasional carriage or marching Bluecoat patrol.*
 
+
+---
+
+
 > [!info] Overview
 > 
 > **SCENE:** Elite Bluecoat patrols, arrayed in fine armor and gleaming gun-pikes. Wealthy citizens strolling through manicured parks, attended by servants. Horse-drawn coaches and the occasional electroplasmic carriage rumbling along the avenues.

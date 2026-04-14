@@ -7,6 +7,10 @@ tags:
 
 *Whitecrown sits atop a grand peak on the island across North Hook channel from the city proper. From this lofty height, the Lord Governor’s stronghold oversees all, flanked by the grand estates of the most powerful nobility and the extravagantly appointed campus of Doskvol Academy. Whitecrown is a rich and rarefied world unto itself—most citizens live out their entire lives in the city without ever once crossing the bridge to the glittering spires of wealth and power there.*
 
+
+---
+
+
 > [!info] Overview
 > 
 > **SCENE:** Imperial soldiers parade outside the stronghold, astride their armored steeds, gleaming lances held high. Trainee crews run drills on a leviathan hunter ship docked for refitting. The lavish carriages and electroplasmic coaches of the fabulously wealthy glide by, carrying their privileged passengers to luxurious destinations.

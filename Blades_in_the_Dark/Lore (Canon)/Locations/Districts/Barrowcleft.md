@@ -5,6 +5,7 @@ tags:
 
 ![[blades_detailedmap_barrowcleft.jpg]]
 
+
 *Barrowcleft is the home to the laborers and overseers of the Ministry of Preservation who attend the radiant energy farms of Doskvol. It is a dusty, rural district, with simple wooden buildings of only one or two stories and wide dirt roads to accommodate large cargo wagons. The farmers of Barrowcleft are organized into tight-knit family-based clans that are proud of their vital role in the city’s welfare and hold themselves apart from the “city folk” across the river. Outsiders are welcome here for honest trade, but are met with a cold suspicion otherwise.*
 
 

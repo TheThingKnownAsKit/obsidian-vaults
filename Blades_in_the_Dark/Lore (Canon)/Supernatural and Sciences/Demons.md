@@ -1,0 +1,6 @@
+---
+tags:
+  - Supernatural
+aliases:
+  - Demonic
+---

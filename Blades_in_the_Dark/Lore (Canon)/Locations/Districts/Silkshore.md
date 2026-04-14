@@ -7,6 +7,10 @@ tags:
 
 *Criss-crossed by dozens of narrow canals, Silkshore is a district best navigated by gondola, as most visitors to this “red lamp district” do. The brothels, vice dens, food stalls, and exotic shops all perch at the waterside, ready to satisfy the appetites of their clientele, no questions asked. Silkshore is a place of public indulgence and private indelicacy, catering to every pleasure imaginable—as well as some that strain the bounds of fantasy.*
 
+
+---
+
+
 > [!info] Overview
 > 
 > **SCENE:** Hundreds of gondolas gliding to and fro in the spiderweb of canals, carrying eager patrons to the bounty of pleasure-houses and vice dens. Artists and philosophers arguing epistemology over Iruvian tea at the cafes on Fogcrest hill.

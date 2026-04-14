@@ -6,6 +6,10 @@ tags:
 
 *This crowded district is home to the bulk of the workforce of the city—servants, dockers, sailors, stockyard and eelery workers, cabbies, and so on. It’s cheap, noisy, cramped, and sweltering from cookfires and hissing steam-pipes, but there’s a familial camaraderie among its residents that you won’t find anywhere else. The people of Charhollow are a true community, brought together by circumstance, but bound by ties of mutual support and care in stark contrast to the cutthroat ruthlessness that constitutes business as usual in the rest of the city.*
 
+
+---
+
+
 > [!info] Overview
 > 
 > **SCENE:** Laborers returning from work shout greetings to friends and families. Groups of people cook and eat together at communal cook-fires. Children run wild, playing at hunt- and-peek and catch-the-ghost.
