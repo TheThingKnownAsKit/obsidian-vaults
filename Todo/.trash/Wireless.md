@@ -1,0 +1,3 @@
+- [ ] Get router working
+- [ ] Configure router to NASA specifications
+- [ ] Set up camera view through launch files

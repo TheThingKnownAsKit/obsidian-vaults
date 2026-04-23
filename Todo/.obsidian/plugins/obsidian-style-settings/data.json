@@ -1,0 +1,14 @@
+{
+  "Components@@tab-autohide": true,
+  "Components@@status-bar-autohide": true,
+  "Components@@Ribbon-autohide": true,
+  "Components@@nav-header-autohide": true,
+  "Components@@tab-title-bar-autohide": true,
+  "Components@@vault-profile-autohide": true,
+  "Appearance-dark@@card-layout-open-dark": false,
+  "Editor@@callout-style-select": "callout-style-4",
+  "Editor@@callout-border-width": "0px",
+  "Editor@@callout-padding": "\"\"",
+  "Editor@@callout-content-padding": "\"\"",
+  "Editor@@callout-border-opacity": 0.25
+}
