@@ -6,16 +6,39 @@ kanban-plugin: board
 
 ## Lunabotics
 
-- [ ] > [!error] Wireless
-	- [ ] Get router working
-	- [ ] Configure router to NASA specifications
-	- [ ] Set up camera view through launch files
-- [ ] > [!error] Autonomy
-	- [ ] Receive and fix updated URDF
-- [ ] > [!error] Teleop
-	- [ ] Robot stores previous commands on teleop launch. It should not fix it
-	- [ ] Increase dead zone for drivetrain
-	- [ ] Change LA controls to start/stop not incr/decr velocity
+- [ ] > [!error] Next Year Notes
+	- [ ] Sensor mounting locations and wiring locations need to be in the trade studies sketches
+	- [ ] Kill gazebo switch to mujoco
+	- [ ] Documentation scavenger hunt/race
+	- [ ] Service needs to abstract all of the joystick stuff. I do not want to manually parse joystick indexes anymore
+	- [x] Buy cheap logitech controller
+	- [ ] 2d lidar as odometry library rfto laser odometry (easy to set up)
+	- [ ] Daemons and scripts need to be cleaned up and formalized
+	- [ ] Don't start the launch files with all the same thing pretty please
+	- [ ] Foxglove better integration or maybe rerun
+	- [ ] Solidworks -> onshape -> urdf export
+	- [ ] Install dependencies scripts
+	- [ ] Cheap camera to reduce bandwidth usage to 4 mbp/s?
+	- [ ] Better microcontroller firmware
+	- [x] Mock components for testing so teleop doesnt crash when no can or arduino
+	- [ ] Full teleop operations or match operations flowchart (not just fluffy but the full hey this is broken so do this details)
+	- [ ] Practice blind runs beforehand in the volleyball pit
+	- [ ] Need better telemetry/camera angles to see wtf the bot is doing
+	- [ ] Get a bin that ALL programming stuff can go in (maybe print or make a holding board)
+	- [ ] Rotary encoders for everything
+	- [ ] Make sure we have USB 3 cables for cams next year
+	- [ ] Have a better interfaces list
+	- [x] Fix the stupid ctre library error in the setup scripts or something so it stops annoying me
+	- [ ] Look into ignition by inductive automation
+- [ ] > [!error] Kill List
+	- [ ] Gazebo
+	- [ ] Teensy 4.1
+	- [x] Logitech Extreme 3D Pro controller
+	- [ ] RVIZ2 and maybe Foxglove (rerun?)
+	- [ ] Belt with rollers never use it again
+	- [ ] Proprietary CAN software on the krakens (proprietary anything really)
+	- [ ] Structural 3d printed parts
+	- [ ] Dupont connectors
 
 
 ## QAC
@@ -32,7 +55,7 @@ kanban-plugin: board
 	- [ ] Draft Article 9: Amendments
 	- [ ] Draft Article 10: Dissolution
 - [ ] > [!example] New RSO Steps
-	- [ ] Need 5 official members and advisor
+	- [x] Need 5 official members and advisor
 	- [ ] Submit draft of constitution to SLICE
 	- [ ] Submit New RSO Registration form on NvolveU
 - [ ] > [!example] Funding
@@ -42,29 +65,14 @@ kanban-plugin: board
 
 ## oSTEM
 
-- [ ] > [!check] AirBnB
-	- [x] Purchase AirBnB
-	- [x] Submit reimbursement to eSAB
-	- [ ] Submit SOFs refund request
+- [ ] > [!todo] Summer List
+	- [ ] Buy exec plane tickets
+	- [ ] Buy early bird conference tickets
+	- [ ] Chapter awards?
 
 
 ## Homework
 
-- [ ] > [!Todo] Requirements Final Deliverables
-	- [x] Sponsor background
-	- [ ] Gantt chart
-	- [ ] Functional requirements + fit criteria
-	- [ ] Goal refinement graph
-	- [ ] AI disclosure
-	
-	@{2026-05-01}
-- [ ] > [!Todo] Boom or Doom
-	- [ ] Business Strategy
-	- [ ] Boom
-	
-	@{2026-04-26}
-- [ ] > [!todo] ML2
-	- [ ] Business Model and Financial Projections
 
 
 ## Personal
@@ -81,6 +89,19 @@ kanban-plugin: board
 	- [ ] Take lore notes on supplemental materials
 	- [ ] Take lore notes on expansion
 	- [ ] Come up with the overarching premise
+	- [ ] Write common knowledge doc
+	- [ ] Based favorite contact, pick which two factions get +1/-1
+	- [ ] Based on district, pick ward boss (they get +2 status)
+	- [ ] Put the factions in the faction list
+	- [ ] Write leviathan hunting info doc and fill it with false information and true information
+- [ ] > [!abstract] Financial
+	- [ ] Add money to ROTH
+	- [ ] File FAFSA for non income based loan
+- [ ] > [!abstract] Modeling
+	- [ ] Learn onshape
+	- [ ] Finish the 3d printing modules for design hub
+- [ ] > [!abstract] Apartment
+	- [ ] Figure out electrical setup
 
 
 ***
@@ -93,9 +114,73 @@ kanban-plugin: board
 	- [x] Move planning doc into there
 	- [x] Import constitution template into there
 	- [x] Full next steps and timeline in there
+- [ ] > [!error] Wireless
+	- [x] Get router working
+	- [x] Configure router to NASA specifications
+	- [x] Set up camera view through launch files
+- [ ] > [!error] Autonomy
+	- [x] Receive and fix updated URDF
+- [ ] > [!Todo] Boom or Doom
+	- [x] Business Strategy
+	- [x] Boom
+	
+	@{2026-04-26}
+- [ ] > [!error] Quality of Life
+	- [x] Set up a script that runs CONSTANTLY on mini pc that sets wifi to team_## if available
+	- [x] Set default wifi to team_##
+	- [x] Set up script that goes through the shell setup process (doesn't ros2 launch)
+	- [x] Enable permanent SSH platformio uploads
+- [ ] > [!todo] ML2
+	- [x] Business Model and Financial Projections
+- [ ] > [!error] Autonomy
+	- [x] Implement twist_mux
+	- [x] Setup robot_localization in the EKF node
+	- [ ] Set up MOLA SLAM to ingest the 2D RPLidar scans and broadcast map -> odom
+	- [x] Nav2 launch files
+	- [ ] Edit nav2_params.yaml to include the VoxelLayer
+	- [ ] Add apriltag_ros into launch
+	- [ ] Boot node?
+	- [ ] Define dynamic mission coordinates for AprilTag
+	- [ ] Build the nav2 behavior tree
+- [ ] > [!error] Test List
+	- [x] Test the service refactor branch before pull request
+	- [x] Test wireless again with docker container
+	- [ ] Teleop + MOLA SLAM to check for no jumps and correct map
+	- [ ] RealSense + Costmap test
+	- [ ] Nav2 with 2D Goal Pose (no bt or apriltag)
+	- [ ] Full autonomy
+- [ ] > [!error] Teleop
+	- [x] Robot stores previous commands on teleop launch. It should not fix it
+	- [x] Increase dead zone for drivetrain
+	- [x] Change LA controls to start/stop not incr/decr velocity
+	- [x] Adapt new URDF for ros2 control
+	- [x] Wireless teleop does not work with docker groundstation. nodes not discoverable
+	- [x] Refactor state machine to use a custom ROS2 service
+	- [x] Verify that the robot publishes odom when running teleop
+	- [x] Test wireless again
+- [ ] > [!check] AirBnB
+	- [x] Purchase AirBnB
+	- [x] Submit reimbursement to eSAB
+	- [x] Submit SOFs refund request
+- [ ] > [!Todo] Requirements Final Deliverables
+	- [x] Sponsor background
+	- [x] Gantt chart
+	- [x] Functional requirements + fit criteria
+	- [x] Goal refinement graph
+	- [x] AI disclosure
+	
+	@{2026-05-01}
+- [ ] > [!error] Pre Comp Checklist
+	- [ ] Check remote router range
+	- [x] Antenna and cam mounts on bot
+	- [x] Enough USB slots?
+	- [x] Packing list
+	- [x] Mini PC 2 up to date
+- [ ] > [!error] Purchases
+	- [x] USB expansion module (need 4 more USB-A at least)
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,true,false]}
 ```
 %%
