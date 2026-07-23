@@ -44,7 +44,7 @@ kanban-plugin: board
 ## QAC
 
 - [ ] > [!example] Constitution First Draft
-	- [ ] Draft Article 1: Name & Purpose
+	- [x] Draft Article 1: Name & Purpose
 	- [ ] Draft Article 2: Membership
 	- [ ] Draft Article 3: Leadership Team/Officer Elections
 	- [ ] Draft Article 4: Advisors
@@ -79,7 +79,7 @@ kanban-plugin: board
 
 - [ ] > [!abstract] Learn Languages
 	- [ ] Finish reading the RUST bible
-	- [ ] Read learncpp.com
+	- [x] Read learncpp.com
 - [ ] > [!abstract] Self Hosting
 	- [ ] Watch budget home server video
 	- [ ] Look at awesome self hosted
@@ -90,9 +90,9 @@ kanban-plugin: board
 	- [ ] Take lore notes on expansion
 	- [ ] Come up with the overarching premise
 	- [ ] Write common knowledge doc
-	- [ ] Based favorite contact, pick which two factions get +1/-1
-	- [ ] Based on district, pick ward boss (they get +2 status)
-	- [ ] Put the factions in the faction list
+	- [x] Based favorite contact, pick which two factions get +1/-1
+	- [x] Based on district, pick ward boss (they get +2 status)
+	- [x] Put the factions in the faction list
 	- [ ] Write leviathan hunting info doc and fill it with false information and true information
 - [ ] > [!abstract] Financial
 	- [ ] Add money to ROTH

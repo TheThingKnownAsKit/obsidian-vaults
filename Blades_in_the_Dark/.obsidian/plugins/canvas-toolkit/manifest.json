@@ -1,0 +1,9 @@
+{
+  "id": "canvas-toolkit",
+  "name": "Canvas Toolkit",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.4",
+  "description": "Adds labels, sticky notes, board-style groups, and quick view controls to Canvas.",
+  "author": "Maks Parker",
+  "isDesktopOnly": false
+}

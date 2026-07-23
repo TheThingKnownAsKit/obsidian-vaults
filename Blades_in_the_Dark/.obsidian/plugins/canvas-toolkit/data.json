@@ -1,0 +1,8 @@
+{
+  "settingsVersion": 1,
+  "showLabelsOnNewCards": true,
+  "labelPosition": "right",
+  "defaultCardStyle": "native",
+  "defaultGroupStyle": "classic",
+  "legacyUnmarkedCardStyle": "native"
+}

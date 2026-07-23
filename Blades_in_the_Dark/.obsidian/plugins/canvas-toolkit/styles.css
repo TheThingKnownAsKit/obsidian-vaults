@@ -1,0 +1,635 @@
+/*
+Compact native Canvas label.
+
+Design goals:
+- The label occupies no horizontal card space.
+- It expands inward from the selected corner.
+- Long labels can use nearly the entire card width.
+- Body text remains attached to the label geometry.
+- Vertical card resizing does not change the top gap.
+- Content is never constrained to an artificial inner height.
+- Colours derive dynamically from the card.
+- Label text uses Obsidian's monospace font.
+*/
+
+.canvas-node.canvas-toolkit-has-label {
+	/*
+	Static label geometry:
+
+	2px top offset
+	+ 15px label height
+	+ 3px breathing room
+	= 20px content clearance.
+	*/
+	--canvas-card-label-top-offset: 2px;
+	--canvas-card-label-edge-offset: 3px;
+	--canvas-card-label-height: 15px;
+	--canvas-card-label-body-gap: 3px;
+	--canvas-card-label-bottom-gap: 2px;
+
+	--canvas-card-label-content-clearance: calc(
+		var(--canvas-card-label-top-offset) +
+		var(--canvas-card-label-height) +
+		var(--canvas-card-label-body-gap)
+	);
+}
+
+/* =========================================================
+   LABEL POSITION
+   ========================================================= */
+
+.canvas-node > .canvas-toolkit-label {
+	position: absolute;
+	top: var(--canvas-card-label-top-offset, 2px);
+	z-index: 100;
+
+	display: block;
+
+	width: max-content;
+	max-width: calc(
+		100% -
+		var(--canvas-card-label-edge-offset, 3px) -
+		var(--canvas-card-label-edge-offset, 3px)
+	);
+
+	white-space: nowrap;
+
+	cursor: text;
+	pointer-events: auto;
+	user-select: none;
+	touch-action: manipulation;
+}
+
+.canvas-node > button.canvas-toolkit-label,
+.canvas-node > button.canvas-toolkit-label:hover,
+.canvas-node > button.canvas-toolkit-label:focus,
+.canvas-node > button.canvas-toolkit-label:focus-visible,
+.canvas-node > button.canvas-toolkit-label:active,
+.canvas-node > button.canvas-toolkit-label.mobile-tap {
+	appearance: none;
+	height: var(--canvas-card-label-height, 15px);
+	min-height: 0;
+	margin: 0;
+	padding: 0;
+	background: transparent;
+	color: inherit;
+	border: 0;
+	border-radius: 0;
+	outline: none;
+	box-shadow: none;
+	font: inherit;
+	line-height: 1;
+	box-sizing: border-box;
+}
+
+.canvas-node > button.canvas-toolkit-label::before {
+	content: "";
+	position: absolute;
+	inset: -5px;
+}
+
+.canvas-node > .canvas-toolkit-label.is-right {
+	right: var(--canvas-card-label-edge-offset, 3px);
+}
+
+.canvas-node > .canvas-toolkit-label.is-left {
+	left: var(--canvas-card-label-edge-offset, 3px);
+}
+
+/* =========================================================
+   VISIBLE LABEL CHIP
+   ========================================================= */
+
+.canvas-toolkit-label .canvas-toolkit-label-core {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+
+	width: max-content;
+	max-width: 100%;
+	min-width: calc(5ch + 8px);
+	height: var(--canvas-card-label-height, 15px);
+
+	padding: 0 4px;
+	box-sizing: border-box;
+
+	/*
+	Fallback values, followed by card-derived colours.
+	*/
+	background-color: var(
+		--canvas-card-label-background,
+		var(--background-primary)
+	);
+
+	color: var(
+		--canvas-card-label-text-color,
+		var(--text-muted)
+	);
+
+	border: none;
+	border-radius: var(--radius-s);
+	box-shadow: none;
+
+	overflow: hidden;
+}
+
+@supports (color: color-mix(in srgb, red, blue)) {
+	.canvas-toolkit-label .canvas-toolkit-label-core {
+		background-color: color-mix(
+			in srgb,
+			var(
+				--canvas-card-label-border-color,
+				var(--background-modifier-border)
+			) 11%,
+			var(
+				--canvas-card-label-background,
+				var(--background-primary)
+			)
+		);
+
+		color: color-mix(
+			in srgb,
+			var(
+				--canvas-card-label-border-color,
+				var(--text-muted)
+			) 20%,
+			var(
+				--canvas-card-label-text-color,
+				var(--text-normal)
+			) 80%
+		);
+	}
+
+	/* Native-looking interaction feedback */
+
+	.canvas-toolkit-label:hover .canvas-toolkit-label-core,
+	.canvas-toolkit-label:focus-visible .canvas-toolkit-label-core,
+	.canvas-toolkit-label.is-editing .canvas-toolkit-label-core {
+		background-color: color-mix(
+			in srgb,
+			var(
+				--canvas-card-label-border-color,
+				var(--background-modifier-border)
+			) 15%,
+			var(
+				--canvas-card-label-background,
+				var(--background-primary)
+			)
+		);
+	}
+}
+
+.canvas-toolkit-label:focus-visible {
+	outline: none;
+}
+
+.canvas-toolkit-label:focus-visible .canvas-toolkit-label-core {
+	outline: 2px solid var(--color-accent);
+	outline-offset: 1px;
+}
+
+.canvas-toolkit-label.is-editing .canvas-toolkit-label-core {
+	outline: 2px solid var(--color-accent);
+	outline-offset: 1px;
+}
+
+.canvas-toolkit-label:disabled {
+	cursor: default;
+	opacity: 1;
+}
+
+/* =========================================================
+   LABEL TEXT AND INLINE EDITOR
+   ========================================================= */
+
+.canvas-toolkit-label .canvas-toolkit-label-text,
+.canvas-toolkit-label .canvas-toolkit-label-input {
+	display: block;
+
+	min-width: 5ch;
+	max-width: 100%;
+
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+
+	text-align: center;
+
+	font-family: var(--font-monospace);
+	font-size: 9px;
+	font-weight: 600;
+	font-variant-ligatures: none;
+	font-variant-numeric: tabular-nums;
+	line-height: 1;
+	letter-spacing: 0;
+}
+
+.canvas-toolkit-label .canvas-toolkit-label-core
+	> input.canvas-toolkit-label-input[type="text"],
+.canvas-toolkit-label .canvas-toolkit-label-core
+	> input.canvas-toolkit-label-input[type="text"]:hover,
+.canvas-toolkit-label .canvas-toolkit-label-core
+	> input.canvas-toolkit-label-input[type="text"]:focus,
+.canvas-toolkit-label .canvas-toolkit-label-core
+	> input.canvas-toolkit-label-input[type="text"]:focus-visible,
+.canvas-toolkit-label .canvas-toolkit-label-core
+	> input.canvas-toolkit-label-input[type="text"]:active {
+	appearance: none;
+	height: auto;
+	min-height: 0;
+	margin: 0;
+	padding: 0;
+
+	background: transparent;
+	color: inherit;
+
+	border: none;
+	border-radius: 0;
+	outline: none;
+	box-shadow: none;
+
+	font-family: var(--font-monospace);
+	font-size: 9px;
+	font-weight: 600;
+	font-variant-ligatures: none;
+	font-variant-numeric: tabular-nums;
+	line-height: 1;
+	letter-spacing: 0;
+}
+
+/* =========================================================
+   PREVIEW / READING MODE
+   ========================================================= */
+
+/*
+Canvas normally uses flexible space around rendered content
+to center it vertically.
+
+Remove those flexible spacers, but do not assign artificial
+heights to the preview containers. The previous forced
+height rules caused the text clipping.
+*/
+
+.canvas-node.canvas-toolkit-has-label
+	.canvas-node-content
+	.markdown-preview-view {
+	justify-content: flex-start !important;
+}
+
+.canvas-node.canvas-toolkit-has-label
+	.canvas-node-content
+	.markdown-preview-view::before,
+
+.canvas-node.canvas-toolkit-has-label
+	.canvas-node-content
+	.markdown-preview-view::after {
+	content: none !important;
+	display: none !important;
+
+	flex: none !important;
+
+	width: 0 !important;
+	height: 0 !important;
+	min-width: 0 !important;
+	min-height: 0 !important;
+
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+/*
+The rendered content receives one fixed top clearance.
+
+No height, max-height, or flex-grow is imposed here.
+The content can therefore use all available card height.
+*/
+
+.canvas-node.canvas-toolkit-has-label
+	.canvas-node-content
+	.markdown-preview-sizer {
+	flex: 0 0 auto !important;
+
+	box-sizing: border-box;
+
+	min-height: 0 !important;
+
+	margin-top: 0 !important;
+	margin-bottom: 0 !important;
+
+	padding-top:
+		var(--canvas-card-label-content-clearance, 20px)
+		!important;
+
+	padding-bottom:
+		var(--canvas-card-label-bottom-gap, 2px)
+		!important;
+}
+
+/*
+Prevent paragraph margins from secretly adding another
+gap above or beneath the card content.
+*/
+
+.canvas-node.canvas-toolkit-has-label
+	.canvas-node-content
+	.markdown-preview-sizer
+	> :first-child {
+	margin-top: 0 !important;
+}
+
+.canvas-node.canvas-toolkit-has-label
+	.canvas-node-content
+	.markdown-preview-sizer
+	> :last-child {
+	margin-bottom: 0 !important;
+}
+
+/* =========================================================
+   EDITING MODE
+   ========================================================= */
+
+/*
+CodeMirror can also use flexible sizing around its content.
+
+Reset only the alignment and margins. Do not force any
+height on the editor, scroller, or sizing element.
+*/
+
+.canvas-node.canvas-toolkit-has-label
+	.canvas-node-content
+	.markdown-source-view.mod-cm6
+	.cm-scroller {
+	align-items: flex-start !important;
+
+	scroll-padding-top:
+		var(--canvas-card-label-content-clearance, 20px);
+}
+
+.canvas-node.canvas-toolkit-has-label
+	.canvas-node-content
+	.markdown-source-view.mod-cm6
+	.cm-sizer {
+	min-height: 0 !important;
+
+	margin-top: 0 !important;
+	margin-bottom: 0 !important;
+}
+
+.canvas-node.canvas-toolkit-has-label
+	.canvas-node-content
+	.markdown-source-view.mod-cm6
+	.cm-content {
+	box-sizing: border-box;
+
+	padding-top:
+		var(--canvas-card-label-content-clearance, 20px)
+		!important;
+
+	padding-bottom:
+		var(--canvas-card-label-bottom-gap, 2px)
+		!important;
+}
+
+/* =========================================================
+   GENERAL SCROLLING
+   ========================================================= */
+
+.canvas-node.canvas-toolkit-has-label
+	.canvas-node-content
+	.markdown-preview-view {
+	scroll-padding-top:
+		var(--canvas-card-label-content-clearance, 20px);
+}
+
+/* =========================================================
+   CANVAS TOOLKIT: PAPER SURFACES AND SHADOWS
+   ========================================================= */
+
+/*
+	Sticky notes can carry more colour than large boards.
+	Both surfaces remain opaque by mixing the Canvas accent
+	with an opaque theme background.
+
+	Two quiet shadows create a contact edge plus a broad,
+	low-opacity falloff. The board shadow is wider because the
+	physical surface is larger, not because it sits higher.
+*/
+
+.theme-light {
+	--canvas-toolkit-sticky-color-strength: 28%;
+	--canvas-toolkit-board-color-strength: 18%;
+
+	--canvas-toolkit-sticky-shadow:
+		0 1px 1px rgba(31, 27, 23, 0.08),
+		0 3px 8px rgba(31, 27, 23, 0.045);
+
+	--canvas-toolkit-board-shadow:
+		0 1px 2px rgba(31, 27, 23, 0.06),
+		0 8px 22px rgba(31, 27, 23, 0.035);
+}
+
+.theme-dark {
+	--canvas-toolkit-sticky-color-strength: 22%;
+	--canvas-toolkit-board-color-strength: 14%;
+
+	--canvas-toolkit-sticky-shadow:
+		0 1px 1px rgba(0, 0, 0, 0.22),
+		0 3px 8px rgba(0, 0, 0, 0.12);
+
+	--canvas-toolkit-board-shadow:
+		0 1px 2px rgba(0, 0, 0, 0.18),
+		0 8px 22px rgba(0, 0, 0, 0.1);
+}
+
+/* =========================================================
+   STICKY NOTE APPEARANCE
+   ========================================================= */
+
+.canvas-node.canvas-toolkit-style-sticky {
+	--canvas-toolkit-sticky-surface:
+		var(--background-secondary);
+}
+
+/*
+	The accent comes from persisted Canvas node colour rather
+	than the previously rendered background. Colour changes made
+	while sticky mode is active therefore update reliably.
+*/
+
+@supports (color: color-mix(in srgb, red, blue)) {
+	.canvas-node.canvas-toolkit-style-sticky.canvas-toolkit-has-accent {
+		--canvas-toolkit-sticky-surface:
+			color-mix(
+				in srgb,
+				var(
+					--canvas-toolkit-accent,
+					var(--background-modifier-border)
+				)
+				var(
+					--canvas-toolkit-sticky-color-strength,
+					28%
+				),
+				var(--background-primary)
+			);
+	}
+}
+
+.canvas-node.canvas-toolkit-style-sticky
+	> .canvas-node-container {
+	background-color:
+		var(--canvas-toolkit-sticky-surface)
+		!important;
+	border-radius: 3px !important;
+}
+
+/*
+	Keep the physical border width so selection does not jump.
+	Only its idle colour disappears. Selected, keyboard-focused,
+	and dragged cards retain Obsidian's native feedback.
+*/
+
+.canvas-node.canvas-toolkit-style-sticky:not(.is-selected):not(.is-focused):not(.is-dragging)
+	> .canvas-node-container {
+	border-color: transparent !important;
+	box-shadow:
+		var(--canvas-toolkit-sticky-shadow)
+		!important;
+}
+
+/*
+The outer container owns the solid sticky-note surface.
+Nested Canvas editor and preview layers remain transparent.
+*/
+
+.canvas-node.canvas-toolkit-style-sticky
+	:is(
+		.canvas-node-content,
+		.markdown-embed,
+		.markdown-embed-content,
+		.markdown-preview-view,
+		.markdown-preview-sizer,
+		.markdown-source-view,
+		.cm-editor,
+		.cm-scroller
+	) {
+	background-color: transparent !important;
+}
+
+/* =========================================================
+   BOARD APPEARANCE
+   ========================================================= */
+
+/*
+	A board augments a native Canvas group. It deliberately does
+	not create a new stacking context or alter pointer behaviour,
+	containment, resize handles, or the group's background image.
+*/
+
+.canvas-node.canvas-toolkit-style-board {
+	--canvas-toolkit-board-surface:
+		var(--background-secondary);
+}
+
+@supports (color: color-mix(in srgb, red, blue)) {
+	.canvas-node.canvas-toolkit-style-board.canvas-toolkit-has-accent {
+		--canvas-toolkit-board-surface:
+			color-mix(
+				in srgb,
+				var(
+					--canvas-toolkit-accent,
+					var(--background-modifier-border)
+				)
+				var(
+					--canvas-toolkit-board-color-strength,
+					18%
+				),
+				var(--background-primary)
+			);
+	}
+}
+
+.canvas-node.canvas-toolkit-style-board
+	> .canvas-node-container {
+	background-color: transparent !important;
+}
+
+/*
+	Change background-color only. Native Canvas may keep a group
+	background image on this element through other background
+	properties, and those must survive board styling.
+*/
+
+.canvas-node.canvas-toolkit-style-board
+	> .canvas-node-container
+	> .canvas-node-content {
+	background-color:
+		var(--canvas-toolkit-board-surface)
+		!important;
+}
+
+.canvas-node.canvas-toolkit-style-board:not(.is-selected):not(.is-focused):not(.is-dragging)
+	> .canvas-node-container {
+	border-color:
+		var(--canvas-toolkit-board-surface)
+		!important;
+	box-shadow:
+		var(--canvas-toolkit-board-shadow)
+		!important;
+}
+
+/*
+	The native group label stays the drag/edit affordance. Match
+	only its resting surface to the board and leave its geometry,
+	pointer events, and contenteditable state untouched.
+*/
+
+.canvas-node.canvas-toolkit-style-board
+	> .canvas-group-label:not([contenteditable="true"]) {
+	background-color:
+		var(--canvas-toolkit-board-surface)
+		!important;
+	color: var(--text-normal) !important;
+}
+
+/* =========================================================
+   CANVAS QUICK CONTROLS
+   ========================================================= */
+
+button.canvas-toolkit-toolbar-button {
+	appearance: none;
+	margin: 0;
+	font: inherit;
+}
+
+.canvas-card-menu
+	> button.canvas-toolkit-toolbar-button {
+	background: transparent;
+	border: 0;
+	border-radius: 0;
+	box-shadow: none;
+}
+
+.canvas-card-menu
+	> button.canvas-toolkit-toolbar-button.is-active,
+.canvas-control-item.canvas-toolkit-toolbar-button.is-active {
+	background-color: var(--background-modifier-hover);
+}
+
+button.canvas-toolkit-toolbar-button:focus-visible {
+	outline: 2px solid var(--color-accent);
+	outline-offset: -2px;
+	box-shadow: none;
+}
+
+button.canvas-toolkit-toolbar-button:disabled {
+	cursor: default;
+	opacity: 0.45;
+}
+
+.canvas-toolkit-phone-controls {
+	display: none !important;
+}
+
+.is-phone .canvas-toolkit-phone-controls {
+	display: flex !important;
+}
