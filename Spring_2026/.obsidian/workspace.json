@@ -68,7 +68,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -101,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,7 +211,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5b5ccecaeeff3056",
+  "active": "97f000b76c01fbc5",
   "lastOpenFiles": [
     "RAIK-371H, Data and Models III/Lectures/2.12.26, Time Series and Forecasting.md",
     "Attachments/Project Initiation.pdf",
