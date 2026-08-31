@@ -1,5 +1,5 @@
-1. Ask the players questions, you should asking as many questions as saying statements. Prompt for engagement
-2. Environmental details make or break, both characters and setting
-3. Transition scene details, do them, every time
-4. Don't say no, redirect to a canon compliant solution of the same spirit
-5. 
+| You                                                                                                                                                                                                                                                                                                                    | PC                                                                                         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| 1. Ask the players questions, you should asking as many questions as saying statements. Prompt for engagement<br>2. Environmental details make or break, both characters and setting<br>3. Transition scene details, do them, every time<br>4. Don't say no, redirect to a canon compliant solution of the same spirit | 1. If you help another player, ask them to describe how<br>2. Ask how they react to things |
+|                                                                                                                                                                                                                                                                                                                        |                                                                                            |
+

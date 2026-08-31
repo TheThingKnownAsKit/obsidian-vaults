@@ -1,0 +1,1 @@
+Magpie gave the Iruvian astrolabe to Goldie

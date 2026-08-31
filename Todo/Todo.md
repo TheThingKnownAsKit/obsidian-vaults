@@ -84,24 +84,12 @@ kanban-plugin: board
 	- [ ] Watch budget home server video
 	- [ ] Look at awesome self hosted
 	- [ ] Install Ubuntu Server on laptop
-- [ ] > [!abstract] Blades in the Dark
-	- [ ] Finish taking lore notes on core rulebook
-	- [ ] Take lore notes on supplemental materials
-	- [ ] Take lore notes on expansion
-	- [ ] Come up with the overarching premise
-	- [ ] Write common knowledge doc
-	- [x] Based favorite contact, pick which two factions get +1/-1
-	- [x] Based on district, pick ward boss (they get +2 status)
-	- [x] Put the factions in the faction list
-	- [ ] Write leviathan hunting info doc and fill it with false information and true information
 - [ ] > [!abstract] Financial
 	- [ ] Add money to ROTH
-	- [ ] File FAFSA for non income based loan
+	- [x] File FAFSA for non income based loan
 - [ ] > [!abstract] Modeling
 	- [ ] Learn onshape
 	- [ ] Finish the 3d printing modules for design hub
-- [ ] > [!abstract] Apartment
-	- [ ] Figure out electrical setup
 
 
 ***

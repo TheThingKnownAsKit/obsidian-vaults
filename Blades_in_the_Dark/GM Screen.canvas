@@ -7,7 +7,7 @@
 			"x":2120,
 			"y":-240,
 			"width":2120,
-			"height":2480,
+			"height":2580,
 			"color":"5",
 			"label":"Quick Reference"
 		},
@@ -29,7 +29,7 @@
 			"x":280,
 			"y":1600,
 			"width":1800,
-			"height":1280,
+			"height":2540,
 			"color":"1",
 			"label":"Maps"
 		},
@@ -56,59 +56,6 @@
 			"label":"Session Running"
 		},
 		{
-			"id":"663609588c5bb1ec",
-			"type":"file",
-			"file":"Session Planning.md",
-			"canvasCardLabel":{"enabled":false,"text":"new"},
-			"x":320,
-			"y":600,
-			"width":1100,
-			"height":642
-		},
-		{
-			"id":"f1735e65f18c4a6a",
-			"type":"link",
-			"url":"https://docs.google.com/spreadsheets/d/1LgJpxE196TCmhUcpZS_VKEut6ng0bGr4MGE-Iwd0onY/edit?gid=1884390725#gid=1884390725",
-			"canvasCardLabel":{"enabled":false,"text":"new"},
-			"x":1420,
-			"y":600,
-			"width":620,
-			"height":900,
-			"color":"6"
-		},
-		{
-			"id":"6f5f0c9fcdf5263d",
-			"type":"link",
-			"url":"https://app.kanka.io/w/406691/t/1",
-			"canvasCardLabel":{"enabled":false,"text":"new"},
-			"x":-840,
-			"y":720,
-			"width":1040,
-			"height":640,
-			"color":"2"
-		},
-		{
-			"id":"32e7affca2844216",
-			"type":"link",
-			"url":"https://app.kanka.io/w/406691/t/4",
-			"canvasCardLabel":{"enabled":false,"text":"new"},
-			"x":-840,
-			"y":40,
-			"width":1040,
-			"height":640
-		},
-		{
-			"id":"7cdbf8a762572a7b",
-			"type":"link",
-			"url":"https://app.kanka.io/w/406691/t/3",
-			"canvasCardLabel":{"enabled":false,"text":"new"},
-			"x":-840,
-			"y":1400,
-			"width":1040,
-			"height":640,
-			"color":"2"
-		},
-		{
 			"id":"8a0cf7773e9cd2a5",
 			"type":"link",
 			"url":"https://app.kanka.io/w/406691/t/5",
@@ -129,15 +76,25 @@
 			"height":640
 		},
 		{
-			"id":"5140a7634882f174",
+			"id":"f1735e65f18c4a6a",
 			"type":"link",
-			"url":"https://docs.google.com/spreadsheets/d/194DqcDQxamFbGoCj_87N1okUdOJ9ILOw5d95gPSy2po/edit?gid=833421464#gid=833421464",
+			"url":"https://docs.google.com/spreadsheets/d/1LgJpxE196TCmhUcpZS_VKEut6ng0bGr4MGE-Iwd0onY/edit?gid=1884390725#gid=1884390725",
 			"canvasCardLabel":{"enabled":false,"text":"new"},
-			"x":320,
-			"y":-640,
-			"width":1720,
-			"height":1120,
-			"color":"4"
+			"x":1420,
+			"y":600,
+			"width":620,
+			"height":900,
+			"color":"6"
+		},
+		{
+			"id":"91741a1edf9dad9e",
+			"type":"file",
+			"file":"Images/Screenshot_20260722_235848.png",
+			"canvasCardLabel":{"enabled":false,"text":"new"},
+			"x":2180,
+			"y":1580,
+			"width":564,
+			"height":240
 		},
 		{
 			"id":"21c7248d92a2ed9e",
@@ -161,34 +118,14 @@
 			"height":900
 		},
 		{
-			"id":"4c3892e895e4089f",
+			"id":"3c16ab1f6ad469a6",
 			"type":"file",
-			"file":"Images/Downtime Activities_hires.png",
+			"file":"Images/Pasted image 20260801193805.png",
 			"canvasCardLabel":{"enabled":false,"text":"new"},
-			"x":2180,
-			"y":-200,
-			"width":1192,
-			"height":843
-		},
-		{
-			"id":"3d077f2113f18b25",
-			"type":"file",
-			"file":"Images/86vpt1q67iw61.png",
-			"canvasCardLabel":{"enabled":false,"text":"new"},
-			"x":3580,
-			"y":460,
-			"width":542,
-			"height":782
-		},
-		{
-			"id":"91741a1edf9dad9e",
-			"type":"file",
-			"file":"Images/Screenshot_20260722_235848.png",
-			"canvasCardLabel":{"enabled":false,"text":"new"},
-			"x":2180,
-			"y":1580,
-			"width":564,
-			"height":240
+			"x":2146,
+			"y":2038,
+			"width":664,
+			"height":259
 		},
 		{
 			"id":"c2527d0d323a4437",
@@ -201,14 +138,87 @@
 			"height":140
 		},
 		{
-			"id":"a7b13610f7131ab3",
+			"id":"e1885623686eded6",
 			"type":"file",
-			"file":"Images/End of Score_hires.png",
+			"file":"Images/Pasted image 20260802150714.png",
 			"canvasCardLabel":{"enabled":false,"text":"new"},
-			"x":2820,
-			"y":660,
-			"width":636,
-			"height":900
+			"x":306,
+			"y":2860,
+			"width":1734,
+			"height":1240
+		},
+		{
+			"id":"6f5f0c9fcdf5263d",
+			"type":"link",
+			"url":"https://app.kanka.io/w/406691/t/1",
+			"canvasCardLabel":{"enabled":false,"text":"new"},
+			"x":-840,
+			"y":720,
+			"width":1040,
+			"height":640,
+			"color":"2"
+		},
+		{
+			"id":"27f1b83462801a78",
+			"type":"file",
+			"file":"DONT FORGET YOU IDOT.md",
+			"canvasCardLabel":{"enabled":false,"text":"new"},
+			"x":320,
+			"y":1242,
+			"width":1100,
+			"height":258
+		},
+		{
+			"id":"7cdbf8a762572a7b",
+			"type":"link",
+			"url":"https://app.kanka.io/w/406691/t/3",
+			"canvasCardLabel":{"enabled":false,"text":"new"},
+			"x":-840,
+			"y":1400,
+			"width":1040,
+			"height":640,
+			"color":"2"
+		},
+		{
+			"id":"663609588c5bb1ec",
+			"type":"file",
+			"file":"Session Planning/Session 6.md",
+			"canvasCardLabel":{"enabled":false,"text":"new"},
+			"x":320,
+			"y":600,
+			"width":1100,
+			"height":642
+		},
+		{
+			"id":"32e7affca2844216",
+			"type":"link",
+			"url":"https://app.kanka.io/w/406691/t/4",
+			"canvasCardLabel":{"enabled":false,"text":"new"},
+			"x":-840,
+			"y":40,
+			"width":1040,
+			"height":640
+		},
+		{
+			"id":"4c3892e895e4089f",
+			"type":"file",
+			"file":"Images/Downtime Activities_hires.png",
+			"canvasCardLabel":{"enabled":false,"text":"new"},
+			"x":2180,
+			"y":-200,
+			"width":1192,
+			"height":843
+		},
+		{
+			"id":"5140a7634882f174",
+			"type":"link",
+			"url":"https://docs.google.com/spreadsheets/d/194DqcDQxamFbGoCj_87N1okUdOJ9ILOw5d95gPSy2po/edit?gid=833421464#gid=833421464",
+			"canvasCardLabel":{"enabled":false,"text":"new"},
+			"x":320,
+			"y":-640,
+			"width":1720,
+			"height":1120,
+			"color":"4"
 		},
 		{
 			"id":"682ae3167888af1a",
@@ -225,10 +235,20 @@
 			"type":"file",
 			"file":"Images/Screenshot_20260722_235319.png",
 			"canvasCardLabel":{"enabled":false,"text":"new"},
-			"x":2760,
-			"y":1872,
+			"x":2843,
+			"y":1873,
 			"width":613,
 			"height":331
+		},
+		{
+			"id":"a7b13610f7131ab3",
+			"type":"file",
+			"file":"Images/End of Score_hires.png",
+			"canvasCardLabel":{"enabled":false,"text":"new"},
+			"x":2820,
+			"y":660,
+			"width":636,
+			"height":900
 		},
 		{
 			"id":"e5135e73b9ec8005",
@@ -241,14 +261,44 @@
 			"height":618
 		},
 		{
-			"id":"27f1b83462801a78",
+			"id":"3d077f2113f18b25",
 			"type":"file",
-			"file":"DONT FORGET YOU IDOT.md",
+			"file":"Images/86vpt1q67iw61.png",
 			"canvasCardLabel":{"enabled":false,"text":"new"},
-			"x":320,
-			"y":1242,
-			"width":1100,
-			"height":258
+			"x":3580,
+			"y":460,
+			"width":542,
+			"height":782
+		},
+		{
+			"id":"273a05841f39b12e",
+			"type":"file",
+			"file":"Images/Pasted image 20260801194309.png",
+			"canvasCardLabel":{"enabled":false,"text":"new"},
+			"x":3414,
+			"y":140,
+			"width":787,
+			"height":294
+		},
+		{
+			"id":"6c344530aab16f35",
+			"type":"file",
+			"file":"Images/Pasted image 20260802183317.png",
+			"canvasCardLabel":{"enabled":true,"text":"new"},
+			"x":3940,
+			"y":1310,
+			"width":273,
+			"height":400
+		},
+		{
+			"id":"3cdd31f0ecd31c9f",
+			"type":"file",
+			"file":"Images/Pasted image 20260801194410.png",
+			"canvasCardLabel":{"enabled":false,"text":"new"},
+			"x":3414,
+			"y":-200,
+			"width":763,
+			"height":300
 		}
 	],
 	"edges":[],
