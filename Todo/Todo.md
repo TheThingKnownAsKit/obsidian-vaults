@@ -6,39 +6,6 @@ kanban-plugin: board
 
 ## Lunabotics
 
-- [ ] > [!error] Next Year Notes
-	- [ ] Sensor mounting locations and wiring locations need to be in the trade studies sketches
-	- [ ] Kill gazebo switch to mujoco
-	- [ ] Documentation scavenger hunt/race
-	- [ ] Service needs to abstract all of the joystick stuff. I do not want to manually parse joystick indexes anymore
-	- [x] Buy cheap logitech controller
-	- [ ] 2d lidar as odometry library rfto laser odometry (easy to set up)
-	- [ ] Daemons and scripts need to be cleaned up and formalized
-	- [ ] Don't start the launch files with all the same thing pretty please
-	- [ ] Foxglove better integration or maybe rerun
-	- [ ] Solidworks -> onshape -> urdf export
-	- [ ] Install dependencies scripts
-	- [ ] Cheap camera to reduce bandwidth usage to 4 mbp/s?
-	- [ ] Better microcontroller firmware
-	- [x] Mock components for testing so teleop doesnt crash when no can or arduino
-	- [ ] Full teleop operations or match operations flowchart (not just fluffy but the full hey this is broken so do this details)
-	- [ ] Practice blind runs beforehand in the volleyball pit
-	- [ ] Need better telemetry/camera angles to see wtf the bot is doing
-	- [ ] Get a bin that ALL programming stuff can go in (maybe print or make a holding board)
-	- [ ] Rotary encoders for everything
-	- [ ] Make sure we have USB 3 cables for cams next year
-	- [ ] Have a better interfaces list
-	- [x] Fix the stupid ctre library error in the setup scripts or something so it stops annoying me
-	- [ ] Look into ignition by inductive automation
-- [ ] > [!error] Kill List
-	- [ ] Gazebo
-	- [ ] Teensy 4.1
-	- [x] Logitech Extreme 3D Pro controller
-	- [ ] RVIZ2 and maybe Foxglove (rerun?)
-	- [ ] Belt with rollers never use it again
-	- [ ] Proprietary CAN software on the krakens (proprietary anything really)
-	- [ ] Structural 3d printed parts
-	- [ ] Dupont connectors
 
 
 ## QAC
@@ -166,6 +133,30 @@ kanban-plugin: board
 	- [x] Mini PC 2 up to date
 - [ ] > [!error] Purchases
 	- [x] USB expansion module (need 4 more USB-A at least)
+- [ ] > [!error] Next Year Notes
+	- [ ] Sensor mounting locations and wiring locations need to be in the trade studies sketches
+	- [x] Kill gazebo switch to mujoco
+	- [ ] Documentation scavenger hunt/race
+	- [ ] Service needs to abstract all of the joystick stuff. I do not want to manually parse joystick indexes anymore
+	- [x] Buy cheap logitech controller
+	- [ ] 2d lidar as odometry library rfto laser odometry (easy to set up)
+	- [ ] Daemons and scripts need to be cleaned up and formalized
+	- [ ] Don't start the launch files with all the same thing pretty please
+	- [ ] Foxglove better integration or maybe rerun
+	- [ ] Solidworks -> onshape -> urdf export
+	- [ ] Install dependencies scripts
+	- [ ] Cheap camera to reduce bandwidth usage to 4 mbp/s?
+	- [ ] Better microcontroller firmware
+	- [x] Mock components for testing so teleop doesnt crash when no can or arduino
+	- [ ] Full teleop operations or match operations flowchart (not just fluffy but the full hey this is broken so do this details)
+	- [ ] Practice blind runs beforehand in the volleyball pit
+	- [ ] Need better telemetry/camera angles to see wtf the bot is doing
+	- [ ] Get a bin that ALL programming stuff can go in (maybe print or make a holding board)
+	- [ ] Rotary encoders for everything
+	- [ ] Make sure we have USB 3 cables for cams next year
+	- [ ] Have a better interfaces list
+	- [x] Fix the stupid ctre library error in the setup scripts or something so it stops annoying me
+	- [x] Look into ignition by inductive automation
 
 %% kanban:settings
 ```
