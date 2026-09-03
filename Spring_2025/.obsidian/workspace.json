@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH-314, Linear Algebra/Lectures/2-26-2025, 4.4 The Inverse of a Matrix.md",
+                "file": "MATH-314, Linear Algebra/Lectures/1-27-2025, 1.2 Unit Vectors, Dot Product, Orthogonal Projection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-26-2025, 4.4 The Inverse of a Matrix"
+              "title": "1-27-2025, 1.2 Unit Vectors, Dot Product, Orthogonal Projection"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cross product",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +76,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 364
+    "width": 364,
+    "collapsed": true
   },
   "right": {
     "id": "8040dd0381655b7e",
@@ -184,15 +186,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7a2cd3cde8c8a94f",
+  "active": "f5d120f21ca7331f",
   "lastOpenFiles": [
+    "MATH-314, Linear Algebra/Lectures/1-22-2025, 1.1 Introduction to Vectors.md",
+    "MATH-314, Linear Algebra/Lectures/1-27-2025, 1.2 Unit Vectors, Dot Product, Orthogonal Projection.md",
+    "MATH-314, Linear Algebra/Lectures/2-26-2025, 4.4 The Inverse of a Matrix.md",
     "MATH-314, Linear Algebra/Lectures/2-24-2025, 4.3 Homogenous Linear Systems.md",
     "MATH-314, Linear Algebra/Lectures/2-19-2025, 4.2 Linear Systems as Matrix and Linear Combination Equations.md",
     "MATH-314, Linear Algebra/Lectures/2-19-2025, 4.1 Matrix Operations.md",
     "MATH-314, Linear Algebra/Lectures/2-17-2025, 3.2 Linear Independence.md",
     "MATH-314, Linear Algebra/Lectures/2-12-2025, 3.1 Linear Combinations of Vectors and their Span, 3.2 Linear Independence.md",
     "MATH-314, Linear Algebra/Lectures/2-10-2025, 2.3 Gaussian Elimination and Rank.md",
-    "MATH-314, Linear Algebra/Lectures/1-27-2025, 1.2 Unit Vectors, Dot Product, Orthogonal Projection.md",
     "Attachments/09 Feature Engineering.pdf",
     "RAIK-370H, Data & Models II/Lectures/3-11-2025, Feature Engineering.md",
     "RAIK-370H, Data & Models II/Lectures/2-20-2025, K-Means Clustering.md",
@@ -220,7 +224,6 @@
     "Attachments/Pasted image 20250311134422.png",
     "Attachments/Pasted image 20250311130407.png",
     "Attachments/Pasted image 20250311130223.png",
-    "MATH-314, Linear Algebra/Lectures/2-26-2025, 4.4 The Inverse of a Matrix.md",
     "MATH-314, Linear Algebra/Lectures/3-10-2025, 5.2 Bases and Dimensions.md",
     "MATH-314, Linear Algebra/Lectures/3-10-2025, 5.1 Rn and Subspace of Rn.md",
     "CSCE-322, Programming Language Concepts/Topic Based Notes/Lisp, Scheme, and Racket.md",
@@ -230,7 +233,6 @@
     "CSCE-322, Programming Language Concepts/Topic Based Notes/Context-Free Grammar, BNF, and EBNF.md",
     "CSCE-322, Programming Language Concepts/Topic Based Notes/Flex and Bison (TODO).md",
     "CSCE-322, Programming Language Concepts/Topic Based Notes/Derivations (TODO).md",
-    "CSCE-322, Programming Language Concepts/Topic Based Notes/Parsing (TODO).md",
-    "CSCE-322, Programming Language Concepts/Topic Based Notes/Regular Grammar and Finite State Automata.md"
+    "CSCE-322, Programming Language Concepts/Topic Based Notes/Parsing (TODO).md"
   ]
 }

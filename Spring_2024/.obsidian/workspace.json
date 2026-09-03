@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAIK-184H Comp Sci II/ZyBooks/Queue and Deque.md",
+                "file": "MATH-107 Calc 2/Lectures/1.24.24 - U-Substitution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Queue and Deque"
+              "title": "1.24.24 - U-Substitution"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RAIK-184H Comp Sci II/ZyBooks/Queue and Deque.md",
+                "file": "MATH-107 Calc 2/Lectures/1.24.24 - U-Substitution.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Queue and Deque"
+              "title": "Outline"
             }
           },
           {
@@ -155,8 +157,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
@@ -168,41 +170,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": true,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "f307e24716284a23",
   "lastOpenFiles": [
+    "MATH-107 Calc 2/Lectures/1.22.24 - Fundamental Theorem of Calculus.md",
+    "MATH-107 Calc 2/Lectures/1.29.24 - Integration by Parts.md",
+    "MATH-107 Calc 2/Lectures/1.24.24 - U-Substitution.md",
+    "MATH-107 Calc 2/Lectures/2.26.24 Volume of Solids.md",
+    "MATH-107 Calc 2/Lectures/2.21.24 Area and Volume.md",
+    "MATH-107 Calc 2/Lectures/2.5.24 - Trigonometric Substitutions.md",
+    "MATH-107 Calc 2/E&P/Exam 3/19.md",
+    "MATH-107 Calc 2/E&P/Exam 3/18.md",
+    "MATH-107 Calc 2/E&P/14.md",
+    "MATH-107 Calc 2/E&P/12.md",
+    "MATH-107 Calc 2/E&P/8.md",
+    "MATH-107 Calc 2/E&P/5.md",
+    "MATH-107 Calc 2/E&P/3.md",
+    "MATH-107 Calc 2/E&P/1.md",
+    "MATH-107 Calc 2/Exam Review/Sample Exam 1.md",
+    "RAIK-184H Comp Sci II/ZyBooks/Queue and Deque.md",
     "IMG_3028.jpeg",
     "RAIK-184H Comp Sci II/ZyBooks/Abstract Classes.md",
     "RAIK-184H Comp Sci II/ZyBooks/Graphs.md",
     "RAIK-184H Comp Sci II/ZyBooks/Maps.md",
     "RAIK-184H Comp Sci II/ZyBooks/Propositional Logic I.md",
-    "RAIK-184H Comp Sci II/ZyBooks/Queue and Deque.md",
     "RAIK-184H Comp Sci II/ZyBooks/Sets.md",
     "RAIK-184H Comp Sci II/ZyBooks/Trees.md",
-    "MATH-107 Calc 2/Lectures/1.24.24 - U-Substitution.md",
-    "MATH-107 Calc 2/Lectures/1.22.24 - Fundamental Theorem of Calculus.md",
     "Style Guide.md",
     "Style Guide (oh no).md",
     "MATH-107 Calc 2/E&P/Exam 1/1.md",
     "MATH-107 Calc 2/E&P/Exam 1/2.md",
-    "MATH-107 Calc 2/E&P/Exam 1/3.md",
-    "MATH-107 Calc 2/E&P/Exam 1/4.md",
-    "MATH-107 Calc 2/E&P/Exam 1/5.md",
-    "MATH-107 Calc 2/E&P/Exam 1/6.md",
-    "MATH-107 Calc 2/E&P/Exam 1/7.md",
-    "MATH-107 Calc 2/E&P/Exam 1/8.md",
-    "MATH-107 Calc 2/E&P/Exam 2/9.md",
-    "MATH-107 Calc 2/E&P/Exam 2/10.md",
-    "MATH-107 Calc 2/E&P/Exam 2/11.md",
-    "MATH-107 Calc 2/E&P/Exam 2/12.md",
-    "MATH-107 Calc 2/E&P/Exam 2/13.md",
-    "MATH-107 Calc 2/E&P/Exam 2/14.md",
     "RAIK-181H Accounting/Interest Rates for Bonds.pdf",
     "Images/Pasted image 20240509184404.png",
     "Images/Pasted image 20240509184336.png",
@@ -213,7 +218,6 @@
     "Images/Pasted image 20240509183515.png",
     "Images/Pasted image 20240509183452.png",
     "Images/Pasted image 20240509183432.png",
-    "Images/Pasted image 20240509183413.png",
     "RAIK-181H Accounting/Practice Problem PDFs/Chapter 2 Practice Problems - Jan 29 2024 - 9-18 PM.pdf",
     "RAIK-181H Accounting/Practice Problem PDFs/Chapter 2 Practice Transaction Recording - Jan 29 2024 - 9-20 PM.pdf",
     "RAIK-181H Accounting/Practice Problem PDFs/Chapter 2 Practice Statement Making - Jan 29 2024 - 9-19 PM.pdf",
