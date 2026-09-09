@@ -32,10 +32,6 @@ kanban-plugin: board
 
 ## oSTEM
 
-- [ ] > [!todo] Summer List
-	- [ ] Buy exec plane tickets
-	- [ ] Buy early bird conference tickets
-	- [ ] Chapter awards?
 
 
 ## Homework
@@ -157,6 +153,10 @@ kanban-plugin: board
 	- [ ] Have a better interfaces list
 	- [x] Fix the stupid ctre library error in the setup scripts or something so it stops annoying me
 	- [x] Look into ignition by inductive automation
+- [ ] > [!todo] Summer List
+	- [ ] Buy exec plane tickets
+	- [ ] Buy early bird conference tickets
+	- [ ] Chapter awards?
 
 %% kanban:settings
 ```

@@ -4,6 +4,10 @@
 
 ![[Pasted image 20260902093515.png]]
 
+If you've got a force problem, $W=F\cdot v$ for the work done. When they say <mark style="background: #BBFABBA6;">component, they really mean vector in component form</mark>. So, the component of F that is parallel to v is the projection of F onto V, and the component of F that is perpendicular to v is F minus the parallel component (so projection).
+
+If they want you to find the <mark style="background: #ADCCFFA6;">scalar projection of v onto u</mark>, you do a slightly changed version of projections and do $\frac{u\cdot v}{|u|}$. You can then get the projection/parallel component from this by squaring the denominator term and multiplying the vector being projected onto by it, so in this case u. Then, the orthogonal component is just v minus this parallel component.
+
 ### Summarized Orthogonal Projection Steps
 1. You need two points that the line goes through. This can be given through a graph or explicitly in the question. Use the two points to compute:
 $$\overrightarrow{d}=\begin{bmatrix}

@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "matlab",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364,
-    "collapsed": true
+    "width": 364
   },
   "right": {
     "id": "8040dd0381655b7e",
@@ -188,8 +187,9 @@
   },
   "active": "f5d120f21ca7331f",
   "lastOpenFiles": [
-    "MATH-314, Linear Algebra/Lectures/1-22-2025, 1.1 Introduction to Vectors.md",
+    "MATH-314, Linear Algebra/Lectures/1-29-2025, 1.3 Lines and Planes.md",
     "MATH-314, Linear Algebra/Lectures/1-27-2025, 1.2 Unit Vectors, Dot Product, Orthogonal Projection.md",
+    "MATH-314, Linear Algebra/Lectures/1-22-2025, 1.1 Introduction to Vectors.md",
     "MATH-314, Linear Algebra/Lectures/2-26-2025, 4.4 The Inverse of a Matrix.md",
     "MATH-314, Linear Algebra/Lectures/2-24-2025, 4.3 Homogenous Linear Systems.md",
     "MATH-314, Linear Algebra/Lectures/2-19-2025, 4.2 Linear Systems as Matrix and Linear Combination Equations.md",
@@ -232,7 +232,6 @@
     "CSCE-322, Programming Language Concepts/Topic Based Notes/Ambiguous Grammars.md",
     "CSCE-322, Programming Language Concepts/Topic Based Notes/Context-Free Grammar, BNF, and EBNF.md",
     "CSCE-322, Programming Language Concepts/Topic Based Notes/Flex and Bison (TODO).md",
-    "CSCE-322, Programming Language Concepts/Topic Based Notes/Derivations (TODO).md",
-    "CSCE-322, Programming Language Concepts/Topic Based Notes/Parsing (TODO).md"
+    "CSCE-322, Programming Language Concepts/Topic Based Notes/Derivations (TODO).md"
   ]
 }
