@@ -4,8 +4,18 @@ kanban-plugin: board
 
 ---
 
-## Lunabotics
+## General
 
+- [ ] > [!info] By the end of this week
+	- [ ] Resume done
+	- [x] Bitd factions and 2 downtimes
+	- [x] Goalbook first draft
+	- [x] Laptop done and tested for luna and preferably bought
+	- [x] Homework
+	- [x] Documentation redone
+	- [x] oSTEM SPF application
+	- [ ] Comp vision assignment 2
+	- [ ] Zoom meeting link for rob
 
 
 ## QAC
@@ -42,6 +52,7 @@ kanban-plugin: board
 
 - [ ] > [!abstract] Learn Languages
 	- [ ] Finish reading the RUST bible
+	- [ ] Typst
 	- [x] Read learncpp.com
 - [ ] > [!abstract] Self Hosting
 	- [ ] Watch budget home server video
