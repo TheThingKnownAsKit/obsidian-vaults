@@ -22,15 +22,15 @@ kanban-plugin: board
 
 - [ ] > [!example] Constitution First Draft
 	- [x] Draft Article 1: Name & Purpose
-	- [ ] Draft Article 2: Membership
-	- [ ] Draft Article 3: Leadership Team/Officer Elections
+	- [x] Draft Article 2: Membership
+	- [x] Draft Article 3: Leadership Team/Officer Elections
 	- [ ] Draft Article 4: Advisors
-	- [ ] Draft Article 5: Committees & Officer Creations
+	- [x] Draft Article 5: Committees & Officer Creations
 	- [ ] Draft Article 6: Meetings & Signature Events
 	- [ ] Draft Article 7: Finances
 	- [ ] Draft Article 8: RSO Procedures
 	- [ ] Draft Article 9: Amendments
-	- [ ] Draft Article 10: Dissolution
+	- [x] Draft Article 10: Dissolution
 - [ ] > [!example] New RSO Steps
 	- [x] Need 5 official members and advisor
 	- [ ] Submit draft of constitution to SLICE
