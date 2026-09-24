@@ -6,16 +6,6 @@ kanban-plugin: board
 
 ## General
 
-- [ ] > [!info] By the end of this week
-	- [ ] Resume done
-	- [x] Bitd factions and 2 downtimes
-	- [x] Goalbook first draft
-	- [x] Laptop done and tested for luna and preferably bought
-	- [x] Homework
-	- [x] Documentation redone
-	- [x] oSTEM SPF application
-	- [ ] Comp vision assignment 2
-	- [ ] Zoom meeting link for rob
 
 
 ## QAC
@@ -168,6 +158,16 @@ kanban-plugin: board
 	- [ ] Buy exec plane tickets
 	- [ ] Buy early bird conference tickets
 	- [ ] Chapter awards?
+- [ ] > [!info] By the end of this week
+	- [ ] Resume done
+	- [x] Bitd factions and 2 downtimes
+	- [x] Goalbook first draft
+	- [x] Laptop done and tested for luna and preferably bought
+	- [x] Homework
+	- [x] Documentation redone
+	- [x] oSTEM SPF application
+	- [ ] Comp vision assignment 2
+	- [ ] Zoom meeting link for rob
 
 %% kanban:settings
 ```
