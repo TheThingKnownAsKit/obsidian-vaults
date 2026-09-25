@@ -56,6 +56,14 @@ kanban-plugin: board
 	- [ ] Finish the 3d printing modules for design hub
 
 
+## Capstone Rover
+
+- [ ] > [!CAUTION] Planning
+	- [ ] Decision matrix weights (Oct 2nd)
+	- [ ] Loose software architecture
+	- [ ] Purchase list
+
+
 ***
 
 ## Archive
@@ -171,6 +179,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,true,false]}
+{"kanban-plugin":"board","list-collapse":[true,false,true,true,false,false]}
 ```
 %%
