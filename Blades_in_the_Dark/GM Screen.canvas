@@ -12,6 +12,17 @@
 			"label":"Quick Reference"
 		},
 		{
+			"id":"0325dee13cd5d072",
+			"type":"group",
+			"canvasGroupAppearance":{"version":1,"style":"classic","locked":false},
+			"x":-1960,
+			"y":0,
+			"width":2200,
+			"height":2080,
+			"color":"2",
+			"label":"Lore"
+		},
+		{
 			"id":"8a3d2552b8326f69",
 			"type":"group",
 			"canvasGroupAppearance":{"version":1,"style":"classic","locked":false},
@@ -43,17 +54,6 @@
 			"height":1000,
 			"color":"6",
 			"label":"Session Running"
-		},
-		{
-			"id":"0325dee13cd5d072",
-			"type":"group",
-			"canvasGroupAppearance":{"version":1,"style":"classic","locked":false},
-			"x":-1960,
-			"y":0,
-			"width":2200,
-			"height":2080,
-			"color":"2",
-			"label":"Lore"
 		},
 		{
 			"id":"8a0cf7773e9cd2a5",
@@ -118,16 +118,6 @@
 			"height":640
 		},
 		{
-			"id":"3c16ab1f6ad469a6",
-			"type":"file",
-			"file":"Images/Pasted image 20260801193805.png",
-			"canvasCardLabel":{"enabled":false,"text":"new"},
-			"x":2146,
-			"y":2038,
-			"width":664,
-			"height":259
-		},
-		{
 			"id":"27f1b83462801a78",
 			"type":"file",
 			"file":"DONT FORGET YOU IDOT.md",
@@ -146,26 +136,6 @@
 			"y":600,
 			"width":1100,
 			"height":642
-		},
-		{
-			"id":"3d077f2113f18b25",
-			"type":"file",
-			"file":"Images/86vpt1q67iw61.png",
-			"canvasCardLabel":{"enabled":false,"text":"new"},
-			"x":3580,
-			"y":460,
-			"width":542,
-			"height":782
-		},
-		{
-			"id":"273a05841f39b12e",
-			"type":"file",
-			"file":"Images/Pasted image 20260801194309.png",
-			"canvasCardLabel":{"enabled":false,"text":"new"},
-			"x":3414,
-			"y":140,
-			"width":787,
-			"height":294
 		},
 		{
 			"id":"f1735e65f18c4a6a",
@@ -230,6 +200,47 @@
 			"color":"4"
 		},
 		{
+			"id":"21c7248d92a2ed9e",
+			"type":"link",
+			"url":"https://www.owlbear.rodeo/room/dujgEathul7E/The%20Lazy%20Orange",
+			"canvasCardLabel":{"enabled":false,"text":"new"},
+			"x":320,
+			"y":1640,
+			"width":1720,
+			"height":1200,
+			"color":"1"
+		},
+		{
+			"id":"3c16ab1f6ad469a6",
+			"type":"file",
+			"file":"Images/Pasted image 20260801193805.png",
+			"canvasCardLabel":{"enabled":false,"text":"new"},
+			"x":2146,
+			"y":2038,
+			"width":664,
+			"height":259
+		},
+		{
+			"id":"3d077f2113f18b25",
+			"type":"file",
+			"file":"Images/86vpt1q67iw61.png",
+			"canvasCardLabel":{"enabled":false,"text":"new"},
+			"x":3580,
+			"y":460,
+			"width":542,
+			"height":782
+		},
+		{
+			"id":"273a05841f39b12e",
+			"type":"file",
+			"file":"Images/Pasted image 20260801194309.png",
+			"canvasCardLabel":{"enabled":false,"text":"new"},
+			"x":3414,
+			"y":140,
+			"width":787,
+			"height":294
+		},
+		{
 			"id":"6c344530aab16f35",
 			"type":"file",
 			"file":"Images/Pasted image 20260802183317.png",
@@ -268,17 +279,6 @@
 			"y":1580,
 			"width":613,
 			"height":260
-		},
-		{
-			"id":"21c7248d92a2ed9e",
-			"type":"link",
-			"url":"https://www.owlbear.rodeo/room/dujgEathul7E/The%20Lazy%20Orange",
-			"canvasCardLabel":{"enabled":false,"text":"new"},
-			"x":320,
-			"y":1640,
-			"width":1720,
-			"height":1200,
-			"color":"1"
 		},
 		{
 			"id":"c2527d0d323a4437",
