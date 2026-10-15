@@ -58,10 +58,6 @@ kanban-plugin: board
 
 ## Capstone Rover
 
-- [ ] > [!CAUTION] Planning
-	- [ ] Decision matrix weights (Oct 2nd)
-	- [ ] Loose software architecture
-	- [ ] Purchase list
 
 
 ***
@@ -176,6 +172,10 @@ kanban-plugin: board
 	- [x] oSTEM SPF application
 	- [ ] Comp vision assignment 2
 	- [ ] Zoom meeting link for rob
+- [ ] > [!CAUTION] Planning
+	- [ ] Decision matrix weights (Oct 2nd)
+	- [ ] Loose software architecture
+	- [ ] Purchase list
 
 %% kanban:settings
 ```
