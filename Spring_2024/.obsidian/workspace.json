@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "basis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,7 +180,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f307e24716284a23",
+  "active": "8fbc003343ae77f4",
   "lastOpenFiles": [
     "MATH-107 Calc 2/Lectures/1.22.24 - Fundamental Theorem of Calculus.md",
     "MATH-107 Calc 2/Lectures/1.29.24 - Integration by Parts.md",

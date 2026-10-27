@@ -13,42 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOFT-468, Requirements/Lectures/2.19.26, Conducting Interviews I.md",
+                "file": "SOFT-468, Requirements/Lectures/2.24.26, Conducting Interviews II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.19.26, Conducting Interviews I"
-            }
-          },
-          {
-            "id": "9f62431343948e0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RAIK-371H, Data and Models III/Lectures/2.12.26, Time Series and Forecasting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.12.26, Time Series and Forecasting"
-            }
-          },
-          {
-            "id": "29c823688ceafd5f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Attachments/08 Time Series and Forecasting - Tagged.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "08 Time Series and Forecasting - Tagged"
+              "title": "2.24.26, Conducting Interviews II"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "functional",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,19 +185,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "97f000b76c01fbc5",
+  "active": "20136254587d2661",
   "lastOpenFiles": [
+    "SOFT-468, Requirements/Lectures/2.19.26, Conducting Interviews I.md",
     "RAIK-371H, Data and Models III/Lectures/2.12.26, Time Series and Forecasting.md",
+    "SOFT-468, Requirements/Lectures/1.27.26, Goal Modeling.md",
+    "SOFT-468, Requirements/Lectures/1.22.26, Requirements Foundations II.md",
+    "SOFT-468, Requirements/Lectures/2.17.26, Lean Canvas Model and Sequence Diagrams.md",
+    "SOFT-468, Requirements/Lectures/2.5.26, Conceptual Models.md",
+    "Attachments/08 Time Series and Forecasting - Tagged.pdf",
     "Attachments/Project Initiation.pdf",
     "SOFT-468, Requirements/Lectures/1.29.26, Project Initiation.md",
-    "SOFT-468, Requirements/Lectures/1.27.26, Goal Modeling.md",
-    "SOFT-468, Requirements/Lectures/2.5.26, Conceptual Models.md",
     "SOFT-468, Requirements/Lectures/2.24.26, Conducting Interviews II.md",
     "Attachments/DPL User Interviews part I-1.pdf",
-    "SOFT-468, Requirements/Lectures/2.19.26, Conducting Interviews I.md",
-    "SOFT-468, Requirements/Lectures/2.17.26, Lean Canvas Model and Sequence Diagrams.md",
     "SOFT-468, Requirements/Lectures/2.12.26, Journey Maps.md",
-    "SOFT-468, Requirements/Lectures/1.22.26, Requirements Foundations II.md",
     "SOFT-468, Requirements/Lectures/1.20.26, Requirements Foundations.md",
     "SOFT-468, Requirements/Lectures/1.20.26, RE Framework.md",
     "SOFT-468, Requirements/Lectures/1.15.26, Intro to RE.md",
@@ -238,7 +213,6 @@
     "Attachments/Lean Canvas Model and Sequence.pdf",
     "RAIK-371H, Data and Models III/Lectures/1.27.26, Optimization and Linear Programming.md",
     "Attachments/05 Optimization and Linear Programming - Tagged.pdf",
-    "SOFT-468, Requirements/SOFT468Syllabus.pdf",
     "RAIK-371H, Data and Models III/Lectures/2.10.26, Reinforcement Learning.md",
     "RAIK-371H, Data and Models III/Lectures/2.5.26, Genetic Algorithms.md",
     "Attachments/Pasted image 20260206135404.png",
